@@ -12,13 +12,13 @@ import sweetviz as sv
 # In[11]:
 
 
-challenge=pd.read_csv("E:/USyd/QBUS6850 machine learning for business - Semester2/Assignment/review_challenge.csv")
+challenge=pd.read_csv("review_challenge.csv")
 
 
 # In[12]:
 
 
-train= pd.read_csv("E:/USyd/QBUS6850 machine learning for business - Semester2/Assignment/review_train.csv")
+train= pd.read_csv("review_train.csv")
 
 
 # ## EDA
