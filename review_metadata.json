@@ -1,0 +1,15 @@
+{
+    "review_id": "Unique identifier for this review.",
+    "user_name": "The name of the user who posted the review.",
+    "airline_sentiment": "Overall sentiment towards the airline of this review (positive, neutral, or negative).",
+    "sentiment_confidence": "Confidence level of the sentiment.",
+    "negative_reason": "Specific reason for negative sentiment.",
+    "negative_reason_confidence": "Confidence in negative reason.",
+    "airline_name": "Name of the reviewed airline company.",
+    "review_text": "Content of the user's review and feedback.",
+    "thumbup_count": "Count of positive reactions received from other users for this review.",
+    "review_coordinates": "Geographic coordinates when this review was posted.",
+    "review_timestamp": "Date and time when this review was posted.",
+    "review_city": "City where this review was posted.",
+    "user_timezone": "Time zone of the user posting this review."
+}

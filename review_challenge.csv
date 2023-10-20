@@ -1,0 +1,880 @@
+review_id,user_name,sentiment_confidence,negative_reason,negative_reason_confidence,airline_name,review_text,thumbup_count,review_coordinates,review_timestamp,review_city,user_timezone
+569731104070115329,JasmineDT,1,,,Lufthansa,you're my early frontrunner for best airline! #oscars,1,,22/2/2015 21:30,Washington D.C. ,Eastern Time (US & Canada)
+569263373092823040,ElizabethFrayer,1,Cancelled Flight,1,Qatar Airways,how is it that my flt to EWR was Cancelled Flightled yet flts to NYC from USAirways are still flying?,0,,21/2/2015 14:32,,
+568818669024907264,The_Radifier,1,Late Flight,0.677,Singapore Airlines,what is going on with your BDL to DCA flights yesterday and today?! Why is every single one getting delayed?,0,,20/2/2015 9:05,"Arlington, VA",Atlantic Time (Canada)
+567775864679456768,rnlewisjr,1,,,Singapore Airlines,"do they have to depart from Washington, D.C.??",0,,17/2/2015 12:01,"iPhone: 60.495510,-151.064590",Alaska
+568526521910079488,beantoon,0.6625,Customer Service Issue,0.3394,Singapore Airlines,I can probably find some of them. Are the ticket #s on there?,0,,19/2/2015 13:44,"Plymouth,  MA",
+570008443626647552,kabell87,1,Can't Tell,0.3477,Emirates,still waiting to hear back. My wallet was stolen from one of your planes so would appreciate a resolution here,0,,23/2/2015 15:52,,
+568622671287566336,stephaniefoos,1,Cancelled Flight,0.6871,Emirates,Yes my flight was rebooked. I'm just losing trust in you if I want to get anywhere on time.,0,"[40.69522398, -74.1760931]",19/2/2015 20:06,"Boston, MA",Alaska
+569076569983086592,theycallme_HH,1,,,Singapore Airlines,Thank you ! What about Paris ? Could we arrange something from there ?,0,"[0.0, 0.0]",21/2/2015 2:10,Orleans/Tarpon Springs/London,Amsterdam
+568884344221081600,andreamvdlg,0.6869,Can't Tell,0.3434,Emirates,"not % sure, however my ticket included one checked bag, therefore this charge was extra and completely unanticipated.",0,,20/2/2015 13:26,Edinbrah ,Eastern Time (US & Canada)
+570119853312311296,GrahamHaigh,1,,,Qatar Airways,"great crew for flight PHX to YVR tonight! Friendly, efficient. Awesome job.",0,,23/2/2015 23:15,"Vancouver, Canada",Pacific Time (US & Canada)
+570303720308809728,jhazelnut,1,Customer Service Issue,1,Qatar Airways,I've been on hold to change a date on a ticket for over hours. Can someone please assist me? Unacceptable.,0,,24/2/2015 11:26,,
+569184833361936387,BavarianLin,0.6843,,0,Lufthansa,I DM'd you,0,"[30.26196639, -97.75945775]",21/2/2015 9:20,New Jersey / Munich,Eastern Time (US & Canada)
+568572506300243968,walterbiscardi,1,,,Lufthansa,Already signed up! Thanks! Looking forward to trying the Southwest experience.,0,,19/2/2015 16:47,Atlanta,Eastern Time (US & Canada)
+568975192615223296,mmillanjr,0.6535,,0,Lufthansa,it was,0,,20/2/2015 19:27,,
+569332237138841600,MattClement,0.3502,,0,Qatar Airways,Oh well. I'll get to Cancun eventually.,0,,21/2/2015 19:05,"Troy, NY",Eastern Time (US & Canada)
+569346960181870592,EllenFord,1,Bad Flight,0.6667,Qatar Airways,flight passengers stuck on plane in Philly. Where is the gangway? We can't hear the pilot,0,,21/2/2015 20:04,"Gloucester, MA",Quito
+570240246719381504,dianafakhouri,1,Lost Luggage,1,Qantas,"No, had already waited an hour for it and wanted to get home.",0,"[0.0, 0.0]",24/2/2015 7:14,"Chicago, IL",Eastern Time (US & Canada)
+569994045205803009,itspr1,0.7047,,0,Lufthansa,thanks for the quick response. Should I call daily it wait the days.,0,,23/2/2015 14:55,,Pacific Time (US & Canada)
+569587048811761664,emilybholan,1,Can't Tell,0.3516,Singapore Airlines,now we dont have enough money for parking in your garage this is your fault and im not paying for what should be mins into hrs,0,,22/2/2015 11:58,N Y,
+568944962311626752,BillyKace,1,,,Singapore Airlines,at LGB in Sunny So Cal http://t.co/VPKDSi,0,"[33.8117407, -118.1628]",20/2/2015 17:27,,Pacific Time (US & Canada)
+569598991463268352,otisday,0.7257,Flight Attendant Complaints,0.3919,Qantas,When do I get my personal response and apology for your crew's having forgotten to load baggage onto my flight?,0,,22/2/2015 12:45,Pekin,Eastern Time (US & Canada)
+568424902287446016,yippersNY,1,Flight Attendant Complaints,0.6531,Singapore Airlines,"No, he didn't have more info. I was more infuriated by the way previous rep treated me. how she can possibly work as a JetBlue rep?",0,,19/2/2015 7:00,,
+568803218488033282,Selcukatli,1,Customer Service Issue,1,Emirates,is a money sucking airline with terrible terrible customer service,0,,20/2/2015 8:03,San Francisco,Eastern Time (US & Canada)
+570118668551458816,sherscott,0.6687,,0,Qantas,and btwn gate a &amp; a I lost a diamond earring #dayjustgotWORSE! Pls have maintenance look for it!! http://t.co/UieSRGHHO,0,,23/2/2015 23:10,Houston,Central Time (US & Canada)
+569289836995190784,awitsportsfreak,0.7065,,,Qatar Airways,"#ShoutOut Kristie(sp?) from Gate @ PVD today. She's a #RockStar, was a tremendous help in a tough situation. #PromoteThatGirl",0,"[41.72221977, -71.44574004]",21/2/2015 16:17,"Wisconsin, Arizona and...",Pacific Time (US & Canada)
+569522479049400320,corybronze,1,Bad Flight,0.6952,Qatar Airways,"My family, friends and colleagues will NEVER fly USAir again. Bad weather happens. The good airlines seem to communicate better.",3,,22/2/2015 7:41,,
+567821528424845312,mrsmjem,0.6804,,0,Singapore Airlines,"we have just landed, thank you anyway. Btw, flight staff on flight were wonderful despite their full day and heavy load.",0,,17/2/2015 15:02,CT,Quito
+568567970450055170,markjohnson319,1,,,Singapore Airlines,A landing in February of . #avgeek #warmweather https://t.co/KaejGCHd,0,,19/2/2015 16:29,"Dallas, TX",
+568072079096061952,cej1124,1,,,Lufthansa,"Ahhhh! Sorry, just followed.",0,,18/2/2015 7:38,"Austin, TX, USA",Central Time (US & Canada)
+569628323443318785,isainsbury,1,Can't Tell,0.3401,Qantas,the ticket is a poor gesture of goodwill (for missed trip) to a top status flyer - I may not next time (AA LHR-ORD /),0,,22/2/2015 14:42,"Great Abington, Cambridge, GB",London
+569849295786127360,daknadler,0.6452,Can't Tell,0.6452,Qatar Airways,": When You've Got to Get There, We've Got Excuses! #usairwaysfail",0,,23/2/2015 5:20,Jacksonville,Eastern Time (US & Canada)
+568198336651649027,GenuineJack,1,,,Singapore Airlines,I'll pass along the advice. You guys rock!!,0,,18/2/2015 16:00,Massachusetts,Central Time (US & Canada)
+568434482270707712,heatherbeckel,1,,,EgyptAir,Just bought tix for ATX - Dallas route - thanks for adding that! Love yr airline &amp; yr website is BEST transactional site EVER,0,,19/2/2015 7:38,ATX,Central Time (US & Canada)
+568766295761682432,m1ss_DefJam,1,,,Singapore Airlines,haha no need to apologize I'll be Flight Booking Problems sooner than Late Flightr. I love JetBlue,0,,20/2/2015 5:37,Orlando - ΜΣΥ,Eastern Time (US & Canada)
+569152201278525440,amyvenezia,1,Customer Service Issue,1,Lufthansa,been on hold for / hrs. Can't get airport flight icy country backroads! Help pls? Can a human answer? #BNA,0,,21/2/2015 7:10,The Universe,Pacific Time (US & Canada)
+568945122961784833,Bob_Dickson,1,Late Flight,0.6246,Lufthansa,"hours???? Sorry don't get it. Oh well. Screw the weekend in Az right? Eat the hotel, no problem.",0,,20/2/2015 17:27,,Central Time (US & Canada)
+569243676594941953,LisaKothari,1,Can't Tell,0.353,Emirates,No wonder the cabin is filthy. #badservice,0,"[37.61782989, -122.39172299]",21/2/2015 13:14,Seattle WA,Pacific Time (US & Canada)
+569985838689456128,ciaoholly,1,Cancelled Flight,0.6939,Qatar Airways,"do you operate ANY flights without maintenance issues? Flights in/out of DCA Cancelled Flighted, this is getting old. Update fleet pls!",0,,23/2/2015 14:23,NYC,
+568815660815519744,riad_otoum,1,Can't Tell,1,Emirates,or I'm sure her business will go else where for airline travel. Her name is Kathryn Sotelo,0,,20/2/2015 8:53,"Louisville, KY",
+569857037477158912,StephanSDalal,1,Can't Tell,0.6732,Qatar Airways,": I relied on US Airways, and that was my mistake. Awful customer experience.",0,,23/2/2015 5:51,,
+570268326250745856,hooton,0.667,Cancelled Flight,0.667,Qantas,my flight to DFW from LIT on my way to PDX tomorrow was Cancelled Flighted. Can you help me?,0,,24/2/2015 9:05,"Little Rock, AR",Central Time (US & Canada)
+569830265364701184,nicoleleigh85,1,Customer Service Issue,1,Emirates,very poor customer service. I WILL think again befor Flight Booking Problems another United flight.,0,,23/2/2015 4:04,Sheboygan,
+568450017649778688,melanie_seibert,1,,,Emirates,Joni did a great job on flight to LAX. Thanks for a great flight.,0,,19/2/2015 8:40,Texas,Central Time (US & Canada)
+569261989735718914,untalMontfort,1,Damaged Luggage,1,Emirates,A broken luggage and a mild case of food poisoning from UA LHR-IAH. Who can I email about this?,0,"[19.41622708, -99.16143525]",21/2/2015 14:26,"Mexico City, Mexico",Central Time (US & Canada)
+570250252382416896,kdtwill,1,,,Lufthansa,traditionally used sledge hammer - low $ taking share from driving | now scalpel approach through data science #ANAmarketers,0,,24/2/2015 7:53,"Austin, Texas",
+568828267660054528,ljordan,1,,,Lufthansa,thanks for the info and the quick response!,0,,20/2/2015 9:43,"Austin, TX",Central Time (US & Canada)
+568631189856264192,BorjaAngoitia1,1,,,Singapore Airlines,"Great Thank you, lets hope so! Could you please notify me if flight leaves JFK? Thank you again",0,,19/2/2015 20:40,,
+570018079993937920,CharlieGMoney,0.6482,Customer Service Issue,0.3294,Emirates,So you are inadequate by accident?,1,"[40.68545235, -74.18374208]",23/2/2015 16:31,"Chicago, IL",
+569117696610185217,BenBell22,1,Customer Service Issue,1,Emirates,coupled with self-service policies/cost cutting exacerbates the noted issues. (/),0,,21/2/2015 4:53,,Eastern Time (US & Canada)
+570255201069899776,StrongerOrgs,1,Late Flight,0.6685,Qantas,Can't unload flight # because jetway is broken. #steps #planB? #waiting nearly an hour,0,,24/2/2015 8:13,Texas,Central Time (US & Canada)
+568056439291256832,javadogs,0.6567,,0,Emirates,did not get names...Dallas flight and Chicago,0,,18/2/2015 6:36,,
+569341641200439296,dgruber1700,1,Late Flight,1,Singapore Airlines,can we get a honest update on departure of flite . Been on plane with infant children,0,,21/2/2015 19:43,,
+568812046747201537,snellbell,1,Lost Luggage,1,EgyptAir,"lost my luggage days ago on flight VX from LAX to IAD &amp; I'm calling every day, no response.Please give me back my stuff",1,,20/2/2015 8:38,,Quito
+569594026732740609,TomGasparetti,1,Customer Service Issue,0.6275,Qantas,ahhhh your silence is golden now. This tops it all. Anyone get fired?,0,,22/2/2015 12:26,,
+570023071698055168,nbhdsheila,0.6774,Bad Flight,0.3441,Emirates,landed in Boston at last night. The hours of traveling was rough tho.,0,,23/2/2015 16:51,Boston,Eastern Time (US & Canada)
+567784773780013057,Champa24,0.6507,,,Qatar Airways,nice touch with using my first name. Very intimate. I'll be filing a claim soon to be reimbursed. Have a us airways day!,0,,17/2/2015 12:36,,
+570021075355963392,bartha75,0.6803,Customer Service Issue,0.6803,Emirates,"also, the mere fact that I have to go online to issue a statement vice calling and talking to some directly is one good example.",0,"[0.0, 0.0]",23/2/2015 16:43,san diego,
+568864286266814465,KaylaRose__,1,,,Singapore Airlines,I will. Thank you!,0,,20/2/2015 12:06,,Eastern Time (US & Canada)
+567820647465803776,shipge,1,Late Flight,1,Qatar Airways,It was US . The gate was open after about mins waiting. What a great way to finish an hour delayed arrival!!,0,,17/2/2015 14:59,Chicago,Central Time (US & Canada)
+567897030934269952,mypumpkinheads,1,,,Singapore Airlines,flight . EWR to FLL,0,,17/2/2015 20:02,,Eastern Time (US & Canada)
+567729416231321600,laurenaddell,1,Customer Service Issue,1,Lufthansa,I've been on hold with customer service for over an hour. Can you help?!,0,,17/2/2015 8:56,"New York, New York",Eastern Time (US & Canada)
+569275566077165568,SallyM0nster,1,,,Emirates,"hey, I missed my outbound flight - can I still use my return ticket?",0,,21/2/2015 15:20,Muswell Hill,London
+569380376709238784,JustinRosentha,1,,,Singapore Airlines,Alright I hope. My JetBlue app is showing a change in my seats and online shows an a. Don't want any surprises,0,,21/2/2015 22:17,New York,
+570246490473566208,NecroticDoctor,0.6458,Customer Service Issue,0.6458,Lufthansa,Is there a way to receive a refund on a trip that was Cancelled Flight online instead of calling? Your phone lines are super busy.,0,,24/2/2015 7:38,Trapped in Baltimore.,Atlantic Time (Canada)
+568179591480811521,AlexSenchak,0.6598,Flight Attendant Complaints,0.3608,Emirates,thanks! Makes sense. Just annoying that it can't be determined better.,0,,18/2/2015 14:45,"Boston, MA ",Atlantic Time (Canada)
+569870442388983808,ashwatson3,1,Customer Service Issue,0.6902,Qatar Airways,you would rather a while plane get exposed to a nasty contagious virus then work wth me to get my flight changed to a Late Flightr date,0,,23/2/2015 6:44,,
+569978315072610304,DigitalEdMom,1,,,Qantas,. Just landed in LIT.,0,,23/2/2015 13:53,Wisconsin,Central Time (US & Canada)
+567765690589790208,clarelanusse,1,Flight Attendant Complaints,0.3511,Lufthansa,your gate agent re-routed an impossible itinerary and we had to find a new airline to get us home. Super bummed about this,0,,17/2/2015 11:21,,Pacific Time (US & Canada)
+568437189694111744,Tostie,0.6513,Bad Flight,0.3288,Singapore Airlines,Apparently the pilot had made some announcement about engine trouble and losing fuel too quickly.,0,,19/2/2015 7:49,"Waltham, MA",Eastern Time (US & Canada)
+568382154071089154,stevengcpa,0.6811,,,EgyptAir,a brilliant brisk am in Boston in cue for vx http://t.co/rMZNIVGmg,0,,19/2/2015 4:10,California,Pacific Time (US & Canada)
+569850912451072000,whyemes,1,Customer Service Issue,0.7225,Qantas,stiiiil waiting. Please respond as my flight leaves in / hrs,0,,23/2/2015 5:26,,
+569691767953436674,GabiLieberman,1,Customer Service Issue,1,Lufthansa,"I need to Cancelled Flight one leg of a flight, but can't seem to do this online. Been on hold on the phone for minutes. Any help?",0,,22/2/2015 18:54,Chicago by way of California,Central Time (US & Canada)
+569615444300185600,kat_lilfish,1,Cancelled Flight,1,Qantas,"Cancelled Flights my flight, doesn't send an email, text or call. Now I'm stranded in Louisville.",0,,22/2/2015 13:51,,
+567874858815733761,Trufflebaby2,0.6465,Lost Luggage,0.6465,Singapore Airlines,bag is supposedly here in Boston,0,,17/2/2015 18:34,,
+569966909019398144,teamcrafty,1,Customer Service Issue,1,Emirates,Does customer care have email or a phone rep that I can speak with? We had so many issues they can't be placed in characters?,0,,23/2/2015 13:07,Grand Rapids,Quito
+569341769114128386,suntoshi,1,Flight Attendant Complaints,0.6666,Emirates,the lounge tells us they have no pillows for my grandma as one of the ladies opens the closet and I see right there. #unitedlies,0,,21/2/2015 19:43,"Bedford, Nh",Eastern Time (US & Canada)
+570081513087369216,showbiz411,1,Lost Luggage,1,Qantas,you are beyond redemption. Jfk. Baggage claim looks like a luggage warehouse,0,,23/2/2015 20:43,"New York, NY",Eastern Time (US & Canada)
+568847512372514816,crj_lll,1,,,EgyptAir,what is your policy on flying after surgery?,0,,20/2/2015 10:59,"Las Vegas, NV",Pacific Time (US & Canada)
+569699471954587648,bricon67,1,Late Flight,1,Emirates,# now going in min waiting for other plane to vacate gate. #findanothergate,0,,22/2/2015 19:25,"ÜT: 33.987103,-118.399024",
+569715860241129472,pet1713,1,Lost Luggage,1,Qantas,that luggage you forgot...#mia.....he just won an oscar,0,"[30.0555099, -95.165959]",22/2/2015 20:30,Houston TX,Eastern Time (US & Canada)
+568807823187976193,SMHillman,0.6667,,,Singapore Airlines,I'm #MakingLoveOutofNothingAtAll on my #brandloveaffair to #LAX https://t.co/kdHRUFsW,0,,20/2/2015 8:22,"New York, NY",Eastern Time (US & Canada)
+570089091276128258,LaRoseKayla,0.3569,,0,Lufthansa,"you should have assigned seating, because now my cousin &amp; I probably can't sit together on our flight tomorrow.. Thanks.",1,,23/2/2015 21:13,,
+568482412990218241,EmmaTyrer,0.6667,Customer Service Issue,0.6667,Qatar Airways,My flight cost me just under $ and this is what happens? I fly with and have no problems. I come the US - times...,0,,19/2/2015 10:49,"Liverpool, UK",London
+569016065600008193,scottydont11,1,Late Flight,1,Qatar Airways,Not only did u lose the flight plan! Now ur flight crew is FAA timed out! Thx for havin us sit on the tarmac for an hr! #Pathetic,0,,20/2/2015 22:09,"El Paso, TX",Mountain Time (US & Canada)
+569664849522925569,unusualcards,1,Flight Booking Problems,0.3709,Emirates,I was. But I have given up.,0,,22/2/2015 17:07,"Portland, OR",
+569678620878376960,NickLeghorn,1,Customer Service Issue,1,Qantas,"FYI twice now I've tried the ""we'll call you when someone is free"" thing. Both times it called, I picked up, then it hung up.",0,,22/2/2015 18:02,"San Antonio, TX",
+569884462051418112,61jr,1,Can't Tell,0.6887,Qantas,"- So does that mean your other flights going into Buffalo from other locations, you don't care about their safety?",0,,23/2/2015 7:40,St. Catharines,
+569471541554978817,SagiRoi,1,Cancelled Flight,0.6665,Emirates,"$ ticket,h biz trvl,no wifi.Missed con flt,next one#h,missed meeting,$ food voucher,hotel chkout#,flt#,no wifi#hotel",0,,22/2/2015 4:19,,
+569609590171676675,TheLoveBite,1,Lost Luggage,1,Qantas,an hour at baggage carousel and still no luggage?? Nail in the coffin.,0,,22/2/2015 13:28,"Los Angeles, CA",Pacific Time (US & Canada)
+570279653337927680,sundialtours,1,,,Qantas,"""Airport snow removal method #..."" Keep up the good work folks, this is where Cessna's become 's! http://t.co/oUmCLrXDN",0,,24/2/2015 9:50,"Astoria, OR",Tijuana
+569667324879511552,CommDocPA,0.6596,,,Lufthansa,That would be brighter than all the stars combined on the red carpet tonight!,0,,22/2/2015 17:17,,Eastern Time (US & Canada)
+568472185993629696,eromolizzy,1,Customer Service Issue,0.6186,Qatar Airways,I've called to resolve my dividend miles issue for a week to no avail. Please advise ASAP.,0,"[40.74609464, -74.00636235]",19/2/2015 10:08,"County of Kings, NYC",Eastern Time (US & Canada)
+569233554242080768,beachluvr104,1,Customer Service Issue,0.6664,Singapore Airlines,she's standing here on her cell no announcements no info #thismosaicnothappy,0,,21/2/2015 12:33,,Atlantic Time (Canada)
+569815061440679937,patrickcota5,1,Customer Service Issue,0.6322,Qatar Airways,"as the employee responsible for social media content, yes u probably do care however the actions from last night say otherwise",0,,23/2/2015 3:04,,
+568273310347165696,CaraModisett,0.6802,,,Qatar Airways,Will do :),0,,18/2/2015 20:58,"Memphis, Tennessee",Central Time (US & Canada)
+569682062787149824,jameswester,0.6274,,0,Qantas,And gold status too.,0,,22/2/2015 18:16,DFW,Central Time (US & Canada)
+569670147893383168,BobTheBruin,1,Customer Service Issue,1,Qantas,"Been trying to call all day, get hung up on every time. Your guys are horrible!",0,,22/2/2015 17:28,,
+568923827788505088,bodoughty,1,Late Flight,1,Lufthansa,here we go again. Delayed in Chicago why offer the flight if you never intend to fly it,0,,20/2/2015 16:03,,
+568495601471647745,ravulapati,1,,,Lufthansa,and on / and and on /th.,0,,19/2/2015 11:41,"Round Rock, TX",Hawaii
+568800389903962112,Azraellius,1,Cancelled Flight,0.3467,Emirates,haha and you have to clean a plane that was held overnight in a hangar. Sounds lovely. Also don't lie on screensand say it's weather,0,,20/2/2015 7:52,"Orlando, FL",Eastern Time (US & Canada)
+569602278988120064,mrpearson3rd,1,Customer Service Issue,0.6701,Lufthansa,I was trying to find airfare for my family. Your prices are ridiculous! Almost $ more than . #notmadeofmoney,0,,22/2/2015 12:59,,
+569799053690556418,flemmingerin,0.6564,,0,Qantas,if you could let me know where I'm staying tonight (if you've booked anything) that would be great. Do I have to go to the,0,,23/2/2015 2:00,San Diego,
+569672448716742656,Tee_peterson,0.6713,,0,Singapore Airlines,"I'll be checking often. Most probably when they hand the oscars out to the nerds, geeks and badly dressed.",0,,22/2/2015 17:37,Canadian planted in USA,
+568261172610220033,Atrain_8,1,Customer Service Issue,0.6526,Emirates,"what you did was illegal and a breach of contract. I will be in touch but not through your ""customer feedback""",2,,18/2/2015 20:09,,
+569336402401472512,Colettod,0.6988,Cancelled Flight,0.3695,Emirates,Wife and I have two new destinations and I'm stuck in DC until Monday with no bags,0,,21/2/2015 19:22,"Ottawa, ON",Eastern Time (US & Canada)
+569528105557053442,smw04,1,Customer Service Issue,0.7013,Qatar Airways,"""That's unusual"" means we screwed up but will never admit to it! #GoingForGreatnessFAIL",0,,22/2/2015 8:04,,Atlantic Time (Canada)
+567871270014025728,Lionheart_Lisa,1,Late Flight,0.6502,Lufthansa,Why won't you let me leave Newark!?,0,,17/2/2015 18:20,Hanging with Carmen Sandiego.,Central Time (US & Canada)
+569704164743376896,joerago,0.6945,Customer Service Issue,0.6945,Qantas,"Yes, but should be able to get a push notification via the app if Im logged in and on a trip. Email/text is so .",0,,22/2/2015 19:43,"Chicago, IL",Central Time (US & Canada)
+567731485894270977,applecor2,1,Late Flight,0.6806,Emirates,sat at airport for hrs still sitting at gate.. Sigh,0,,17/2/2015 9:05,,Mountain Time (US & Canada)
+569951879825907713,AnnCompton,1,,,Lufthansa,Your Terry is our hero! Got my husband back thru security to retrieve cellphone left on plane in Austin. Terry # U Rock!,1,,23/2/2015 12:08,WashingtonDC,Eastern Time (US & Canada)
+569706873525391360,monumentsinking,1,Late Flight,0.7059,Qantas,. Flight Delayed / Flight You sold my seat / flight strand me in PHX for three hours. Thanks for the memories,0,,22/2/2015 19:54,PDX JFK SFO BDL,Pacific Time (US & Canada)
+569459618881019905,NewsSWA,1,,,EgyptAir,to jump into the Dallas-Austin market - http://t.co/EwwGigdx,0,,22/2/2015 3:32,FL410,Sydney
+568796187299606528,mjmena001,0.6927,Customer Service Issue,0.6927,Qatar Airways,"I fly quite a bit, and it's not difficult to communicate. If agents let people know what's happening, arrangements can be made",0,,20/2/2015 7:35,West Palm,
+569623961224351744,TejasGooner,1,,,Qantas,your message was delayed I just responded,0,,22/2/2015 14:25,The Republic of Texas,Central Time (US & Canada)
+569616362223628289,BridleCharlotte,1,Customer Service Issue,0.6920000000000000,Qantas,"That's a complete cop out! U ask what the issues are, then do nothing about it. How are we supposed to sort the situation now?",0,,22/2/2015 13:54,,
+568056050877919232,luvthispayne,1,Customer Service Issue,0.6759,Lufthansa,This experience was the worse flying experience I've ever had. To be met w/ contempt from your Customer Service makes it worse,0,,18/2/2015 6:34,Somewhere over the rainbow.,Atlantic Time (Canada)
+569036471232892929,traciglee,0.6742,,,Singapore Airlines,", SMF to JFK!",0,,20/2/2015 23:30,"New York, NY",Eastern Time (US & Canada)
+569091378438746112,mutantgatto,0.6394,,,Singapore Airlines,word thanks,0,,21/2/2015 3:08,ravioli,Eastern Time (US & Canada)
+569641686101585921,rikrik__,1,,,Emirates,": What made you come to this? Can we help you with anything? ^JP free tickets , for the i convince .",0,,22/2/2015 15:35,Saint Louis,Central Time (US & Canada)
+569532310716080129,ajbohman,1,Late Flight,1,Emirates,you guys are horrible! First we get stuck in the snow for a hr in ewr now sitting in cmh saying it could be min for a gate,0,,22/2/2015 8:20,Irving Texas,
+568417151176060929,Brennej,1,Cancelled Flight,0.6863,Emirates,"- vacation days: relevant, Ritz in PR for the night: $, losing a day to idiots and sleeping at the Newark ramada; #priceless",0,,19/2/2015 6:29,,
+569615736387325952,Ekanewilliams,1,Bad Flight,0.3487,Lufthansa,baggage delivery at BWI very delayed and unnecessarily chaotic. Disappointing after a long trip! From a frequent traveler,0,,22/2/2015 13:52,"Washington, DC",
+568206634758983681,Alealmrivas,1,Can't Tell,1,Singapore Airlines,u suck Big Donkey Balls!,0,,18/2/2015 16:33,Dominican Republic,Mountain Time (US & Canada)
+568178422175948801,TranmereStu,1,,,Singapore Airlines,"I flew to San Francisco from Fort Lauderdale with you last year, had a fantastic time so would like to go back !",0,,18/2/2015 14:41,Wirral England,
+569256055781240832,kenzieellis,0.3402,Customer Service Issue,0.3402,Emirates,please don't take my membership away :(,0,,21/2/2015 14:03,,Eastern Time (US & Canada)
+569086048388538368,jsanner2,1,Customer Service Issue,0.6566,Lufthansa,Any plans to implement a call-back system on your reFlight Booking Problems line? Been on hold for over an hour now...,0,,21/2/2015 2:47,,
+568257392195936259,tmiw,0.6421,,,Qatar Airways,any plans to support #ApplePay on board? I have the USAirways MC and it would be nice to still use it if I forget the card.,0,,18/2/2015 19:54,"San Diego, CA",Pacific Time (US & Canada)
+569592626300751873,AbbieBjugstad,1,,,Emirates,Do you have Bereavement discount on airfare as my grandfather just passed and need to attend his funeral this week.,0,,22/2/2015 12:20,,
+569595245945597952,danielbyrnes,1,Customer Service Issue,0.6715,Emirates,trying to check in for tomorrow's flight. website keeps timing out. what's up?,1,,22/2/2015 12:31,QCϟDC,Central Time (US & Canada)
+570206113783795713,peterbarth,1,Late Flight,1,Qatar Airways,pretty sure we didn't actually take off at : http://t.co/vuxfrUnu,0,,24/2/2015 4:58,"Greenville, SC",Eastern Time (US & Canada)
+570068045500194816,djcheros,0.6372,,0,Singapore Airlines,try harder. Take a winners attitude to your work.,0,,23/2/2015 19:49,"Portland, Maine",Eastern Time (US & Canada)
+568793043664560128,Amybabic,1,Flight Booking Problems,0.6733,Emirates,nd time in a row I've been over charged by 's of $$ on my plane ticket WHY? #united I shouldn't have to check my CC everytime,0,,20/2/2015 7:23,"New York, Ny",
+568859651980156928,JustinMeyerKC,0.6632,Can't Tell,0.3368,Lufthansa,Includes : Inclement weather may impact scheduled service in. ReFlight Booking Problems options available: http://t.co/KeyrpFlHil,0,,20/2/2015 11:48,"Kansas City, MO",Eastern Time (US & Canada)
+570302358242115584,JohnMHaaland,0.7047,,,Qantas,thanks,0,,24/2/2015 11:20,New York Tri-State,Eastern Time (US & Canada)
+569596034059358208,sejaffe,1,Lost Luggage,1,Qatar Airways,"don't need this link, after getting a person u now say u don't know where bags are. Lost on a nonstop phx to jfk.",0,,22/2/2015 12:34,,
+570017568964132865,jasemccarty,0.6307,Can't Tell,0.6307,Qatar Airways,very embarrassing.,0,,23/2/2015 16:29,BTR/DCA/IAD/MSY - etc,Central Time (US & Canada)
+569618440396398592,jtromano,1,Can't Tell,0.6492,Emirates,if I miss the #Oscars I'll never fly united again,0,,22/2/2015 14:03,STL,Central Time (US & Canada)
+569760118591467520,chigirldc,1,Bad Flight,0.6787,Qantas,I would like to be reimbursed for my shuttle from Denver after # diversion + hours sitting in plane and mech problems,0,,22/2/2015 23:26,,Quito
+569893064342437888,janetmcq,1,Cancelled Flight,1,Qantas,Thanks for the response.Tough night for all involved. Our flight got Cancelled Flightled as we started taxiing down the runway.,0,,23/2/2015 8:14,"Memphis, TN",Central Time (US & Canada)
+570252666439385088,RaquelSnyderDC,1,Late Flight,1,Emirates,. What's going on with UA ? outbound flight last thurs was delayed hrs How long will this delay be? #worstunitedflightsever,0,,24/2/2015 8:03,"Washington, D.C. Metro Area",Eastern Time (US & Canada)
+570115243747074048,xRaeCatherine,1,,,Emirates,I would like to know what's going on before his current flight lands.,0,,23/2/2015 22:57,,
+568925711077117953,fair_island,1,,,Lufthansa,Are there any current promotions/codes for Nashville-Denver? Thank you!,0,,20/2/2015 16:10,Somewhere in Tennessee,Quito
+569715908664430593,TheByronCraig,1,,,Qantas,flights out of Dallas on Tuesday are not going to be Cancelled Flightled correct?,0,,22/2/2015 20:30,Dallas | Los Angeles,Central Time (US & Canada)
+568630779720417280,HolguinAndy,1,,,Lufthansa,how about some sweet promo code to help me visit my family!!!.... Please!!!... Lol,0,"[35.0557688, -78.9702049]",19/2/2015 20:38,,
+570195444300718080,MarkJDiSalvo,1,,,Qantas,"oh I will, AA on speed dial",0,,24/2/2015 4:16,"Waynesville, OHIO",
+569621527911485440,c_cgottlieb,1,Customer Service Issue,1,Qantas,your service is horrible. I can't get a straight answer from your ground agents.,0,,22/2/2015 14:15,"Washington, DC",Atlantic Time (Canada)
+569508595181731841,kristagermanis,1,,,Lufthansa,What is the best credit card to use/open to get miles with y'all?,0,,22/2/2015 6:46,"Washington, DC",Eastern Time (US & Canada)
+570174794425098241,chasefoster,1,,,Qantas,Of course you are because that's your companies job! You guys failed at it in the first place. Upgrade me and then we'll talk.,0,,24/2/2015 2:53,Nashville/Space,Central Time (US & Canada)
+569894449620369408,louisjenny,1,Customer Service Issue,1,EgyptAir,is anyone doing anything there today? Website is useless and no one is answering the phone.,0,,23/2/2015 8:19,Washington DC,Quito
+568895061284364288,unicatfan,1,Can't Tell,0.6742,Qatar Airways,"Is it insulting that offer a ""non required $ voucher as a goodwill offering..At least my bag can fly round trip",0,,20/2/2015 14:08,"ÜT: 41.5333,-93.62944",Central Time (US & Canada)
+570299182310944768,Ashley_Jeffris,1,Flight Booking Problems,0.6816,Emirates,is the worst. Nonrefundable First class tickets? Oh because when you select Global/FC their system auto selects economy w/upgrade.,0,,24/2/2015 11:08,Las Vegas ,Eastern Time (US & Canada)
+570220267462529024,beantownmatty,1,Bad Flight,0.6895,Qantas,how do you NOT do maintenance on #MD while it sits for two days? Frozen lines found after its boarded? Come on! #faail #mci,0,"[39.29275067, -94.70795218]",24/2/2015 5:54,"iPhone: 37.621227,-122.386002",Eastern Time (US & Canada)
+570031758546063361,msofka,1,Customer Service Issue,1,Qantas,why did you drop my call. Why don't you have more people answering phones? Why is it always high call volume when I call,0,,23/2/2015 17:25,"Cleveland, OH",Central Time (US & Canada)
+568308149796474880,NumbersDnt_Lie,0.3394,,0,Lufthansa,y'all the real MVP with these prices...,0,,18/2/2015 23:16,"601,303,404,✈️ 400Blk",Mountain Time (US & Canada)
+569527848131637248,SMHillman,0.66,,,Singapore Airlines,"if I had my tux, it'd be a date! #UMosaicMeCrazy http://t.co/hapgboSTU",0,,22/2/2015 8:03,"New York, NY",Eastern Time (US & Canada)
+569962494283919360,UllCon,0.6897,Flight Booking Problems,0.6897,Qantas,on Feb. th your rep gave me the record locator and told me I'd be receiving an email with the itinerary and confirmation.,0,,23/2/2015 12:50,"Michigan, US",Quito
+570206562855329793,vicmeister,1,,,Qantas,fantastic thanks! Will try and tweet a photo of the view :),0,,24/2/2015 5:00,Glasgow via Cork,Dublin
+569897573294743552,steve_muns,1,,,Qatar Airways,FYI your customer service rep Carol is an absolute delight. So pleasant to with with and rebooked me in lightning speed! Thanks!,0,,23/2/2015 8:32,"Washington, DC",Eastern Time (US & Canada)
+568008802865274880,KarlaBaerga,1,,,Singapore Airlines,its always a pleasure,0,,18/2/2015 3:27,,Quito
+568855933360607232,crj_lll,0.6791,,0,EgyptAir,they told to check with the airline regulation first so that is why I contacted you.,0,,20/2/2015 11:33,"Las Vegas, NV",Pacific Time (US & Canada)
+567906137938399232,icehousepenguin,0.3634,,0,Lufthansa,hot stewardess flipped me off,0,,17/2/2015 20:39,"Roseville, California",
+568605539866976256,ritapitas,1,,,Qatar Airways,We're having grandbabies in weeks -- will travel to DC for the births. Thank you for the reasonable fares! See you Saturday!,0,,19/2/2015 18:58,"Farmington Hills, MI",Eastern Time (US & Canada)
+568893623099654144,christinerimay,1,Lost Luggage,1,Emirates,Bag MIA since Wednesday. Still no word where it is or if we'll ever see it again. #lostluggage #frustrated,0,,20/2/2015 14:03,Someplace saving something,Eastern Time (US & Canada)
+568891233386561537,_stephanieejayy,1,,,Singapore Airlines,do you have any afternoon flights going from BQN to JFK? I only seem to find early morning flights.,0,,20/2/2015 13:53,,
+570051834188075008,RobertCossar,1,,,Qantas,"thanks. I actually made it, my connection flight was delayed. Guess all delays are not a bad thing. http://t.co/XGgCNTcom",0,,23/2/2015 18:45,,Central Time (US & Canada)
+569608870429114368,windycityf,1,Customer Service Issue,0.3407,Emirates,stuck in YYZ because staff took a break? Not happy K....,0,,22/2/2015 13:25,"Oak Park, IL ",Hawaii
+569578942543372288,particularmolly,1,Late Flight,0.6733,Emirates,I am appalled at your lack of communication during our awful journey on / EWR to BOS. hr delays need to be explained better.,0,,22/2/2015 11:26,"Boston, MA",London
+569479822226952192,hkmonmjh,1,Cancelled Flight,1,Qatar Airways,"my flight got Cancelled Flightled to Charlotte. Been on hold for an hour, pls pick up!",0,,22/2/2015 4:52,,
+570145106415771648,nembro78,1,,,Qantas,Such a suprise! New vanity kit set for frequent travellers thank you AA! http://t.co/fANygnUx,0,,24/2/2015 0:56,,Rome
+569678975049588737,lamanmi_live,1,Late Flight,1,Emirates,please tell CLT flight needs a gate. Waiting now for mins.,0,,22/2/2015 18:03,,
+569113328724807680,JetBlueNews,1,,,Singapore Airlines,'s CEO battles to appease passengers and Wall Street - Waterbury Republican American http://t.co/FFczYGJS,0,,21/2/2015 4:36,USA,Sydney
+567894002286096384,fanmla1,0.6671,,0,Singapore Airlines,"big shoutout to the crews on Bos&gt;jfk &amp; jfk&gt;roc, &amp; gate crews at c Bos &amp; jfk. Long day of delays made better by them!",0,,17/2/2015 19:50,,Eastern Time (US & Canada)
+567742912579272704,itsjustdoc,1,Lost Luggage,1,Qatar Airways,"it's not a consolation because my bags are somewhere else, which is a real impediment to me going on a different vacation",0,,17/2/2015 9:50,Ohio,Quito
+567864523585118208,kaitlliiin,1,Cancelled Flight,1,Qatar Airways,"delayed my flight times before Cancelled Flighting it, had angry and rude workers, and are now providing no helpful service at all",0,,17/2/2015 17:53,,Quito
+568815893641211905,karenharbert,0.6598,Flight Booking Problems,0.6598,Emirates,Bummer. Might have to go with card instead. TY for response though.,0,,20/2/2015 8:54,"Columbia, MO",Eastern Time (US & Canada)
+569589643487928321,DrCaseyJRudkin,1,,,Qantas,Flight was great. Fantastic cabin crew. A+ landing. #thankyou #JFK http://t.co/dRWdjHAI,0,"[40.64946781, -73.76624703]",22/2/2015 12:08,East Coast,
+568284092707401728,ransdell08,0.6736,,,Lufthansa,about time! #mobileboarding is a must!,0,,18/2/2015 21:41,"Little Rock, AR",Central Time (US & Canada)
+569558153202774016,ColfaxCapital,1,Can't Tell,0.6556,Qatar Airways,Another blatant lie from,0,,22/2/2015 10:03,"39.0708° N, 106.9886° W",Quito
+568257389402710016,140JustinC,1,,,Emirates,ok thanks! Where are you counters located? And how Late Flight are they open?,0,,18/2/2015 19:54,Fredericton NB,Atlantic Time (Canada)
+569687262444720128,jrscharf,1,Customer Service Issue,1,Qatar Airways,- I wouldn't need to wait on hold for + hours if your website worked correctly - please respond!,0,,22/2/2015 18:36,,Eastern Time (US & Canada)
+570231192102019072,ryan22042,1,Late Flight,1,Qantas,"once again flying AA, once again + min delay because of mechanical issues. Perhaps you should consider maintenance?",0,,24/2/2015 6:38,,
+568989687353729024,raindovemodel,1,,,Emirates,"Brian at SFO customer service deserves a raise, gave me extra meal voucher and a good joke to cheer me up after flight delay. #FTW",0,,20/2/2015 20:24,Anywhere someone needs me,Eastern Time (US & Canada)
+567823930985091072,TinaIsBack,0.6739,Can't Tell,0.3478,Lufthansa,I know one thing would NEVER treat their customers like this!!!!,0,"[40.65954723, -74.16986421]",17/2/2015 15:12,Nashville by way of New York,Central Time (US & Canada)
+569346451526041600,Lmpilson,1,,,Lufthansa,The pilots&amp; crew on flt and customer service professionals at baggage claim are OUTSTANDING!! Thank you!!,0,,21/2/2015 20:02,"Fairfax, VA
+",
+569024126641311744,gehandabare,1,Lost Luggage,1,Emirates,- after having to now TAG MY OWN bags at the airport I was hoping they would actually arrive WITH me - here's hoping they arrive,0,,20/2/2015 22:41,,Eastern Time (US & Canada)
+569890600474021889,lizStonewriter,1,,,Singapore Airlines,I'll read this over a nice glass of wine right before I dig my heels into my next novel! Maybe travel is just what I need...,0,,23/2/2015 8:04,,
+567751134476259328,_JoeChuck,1,Can't Tell,1,Qatar Airways,what a joke of a company today reminded me why I never book with you,0,,17/2/2015 10:23,CT to Queens ,Eastern Time (US & Canada)
+568046298080923649,k8slo,0.6386,Flight Booking Problems,0.6386,Emirates,I locked myself out of my account and needed access to book a flight.,0,,18/2/2015 5:56,Washington DC,Eastern Time (US & Canada)
+569860677650636801,chrisjennison,1,Cancelled Flight,1,Qantas,why Cancelled Flight # on / &amp; /? Flights now hrs longer &amp; have layovers. Too Late Flight to find a reasonably priced alternative.,0,,23/2/2015 6:05,@MontgomeryCoMD / SYR / HHI,Eastern Time (US & Canada)
+569525452081111041,emptynester25,1,Customer Service Issue,0.6914,Singapore Airlines,how can your entire system go down? No IT? Really?,0,,22/2/2015 7:53,,
+569924355011932162,VictoriaBCToday,1,Cancelled Flight,1,Emirates,"Oh, we are sure it's not planned, but it occurs absolutely consistently, it's usually the only YYJ flight that's Cancelled Flightled daily.",2,,23/2/2015 10:18,Downtown Victoria,Pacific Time (US & Canada)
+569543955622338560,amybeckr,1,Customer Service Issue,1,Lufthansa,I have never had such awful customer service and conflicting service. Outrageous.,0,,22/2/2015 9:07,Ohio,Quito
+567872077899763712,mellamommy,1,Customer Service Issue,0.6682,Singapore Airlines,my SIL bought tix for us to NYC. We were told at the gate that her cc was declined. Supervisor accused us of illegal activity.,0,,17/2/2015 18:23,,
+569176746735632384,princessmarapao,0.6469,,,Singapore Airlines,"im in a session presented by one of your beloved travelers, ,I see why you love him so much http://t.co/vvcFyhKVb",0,,21/2/2015 8:48,"Virginia Beach, VA",Eastern Time (US & Canada)
+569340120790233089,MMMarketing2014,1,Bad Flight,0.6373,Emirates,I'm rebooked on a flight tomorrow even though I had st class seat orig I have a lousy coach seat,0,,21/2/2015 19:37,#Westford #marketing ,
+567804951288901634,MatthewHendrian,0.6714,Late Flight,0.6714,Emirates,"here I was thinking how I could say so many nice things after getting upgraded, but then you delayed my flight... It's ok!",0,,17/2/2015 13:57,"Denver, CO",Mountain Time (US & Canada)
+569710305707601920,EAFiedler,1,Late Flight,1,Qatar Airways,"flight # Philly -&gt; Mia? Bwahahaha! Delayed + hrs, were in the air mins then turned back around. #usairwaysfail",0,,22/2/2015 20:08,Philly,Eastern Time (US & Canada)
+569221210019487745,marynevis,0.6741,,,Emirates,I will. Thanks.,0,,21/2/2015 11:44,"Beautiful Stockton, CA",Pacific Time (US & Canada)
+569339467615506435,MMMarketing2014,1,Flight Attendant Complaints,0.6334,Emirates,well this one missed the mark. She was in a snit from the minute I stepped up to the counter,1,,21/2/2015 19:34,#Westford #marketing ,
+568860978231709697,michaelotto71,0.6799,Flight Attendant Complaints,0.6799,Emirates,thanks for having ground crews that are surprised when flights arrive. #beingsuckontarmacsucks!,0,,20/2/2015 11:53,USA,
+567925054853496832,MusseZam,1,,,Emirates,"I am flying from msp to dxb, my child will turn during the trip do I have to buy a return ticket for my child?",0,,17/2/2015 21:54,,
+568202855166967808,armond_ealey,0.6489,,,Lufthansa,Thanks!!! :) It is good to air on the side of caution,0,"[0.0, 0.0]",18/2/2015 16:18,,
+568712938019639296,JetBlueNews,0.6387,,,Singapore Airlines,Airways Hits New -Month High at $. (JBLU) - WKRB News http://t.co/XvBjCzlMDA,0,,20/2/2015 2:05,USA,Sydney
+569519571314589696,N_Brennan,1,,,Singapore Airlines,do bags still fly free or have you started charging? thanks!,0,,22/2/2015 7:30,Washington DC,
+568547007003955200,hartgarfunkel,1,,,Emirates,DM sent. Thanks so much for the strong customer service!!,0,,19/2/2015 15:05,"iPhone: 40.732048,-73.994102",Pacific Time (US & Canada)
+570061339604987904,cyberhosed,0.6688,Can't Tell,0.3519,Emirates,load balancing system apparently down #systemwide - major impact on all #united airlines flights. Was this a #cyberattack?,0,,23/2/2015 19:23,,
+569529813121290240,AndrewAquilante,1,Cancelled Flight,1,Qatar Airways,"between of us, it is costing over $ to get home TODAY for no reason... Where do I send my receipts to be reimbursed?",0,,22/2/2015 8:11,"Phoenixville, PA",Eastern Time (US & Canada)
+569476281974132736,meigheyburn,0.6721,,,Emirates,okay. Thanks.,0,,22/2/2015 4:38,"Akron, Ohio",Eastern Time (US & Canada)
+567780888700669952,joebarti,1,Can't Tell,0.3423,Emirates,"I can't even fit my name on the first two lines, yes... Please do pass on feedback. This is a big downgrade from previous years.",0,,17/2/2015 12:21,Colorado,Amsterdam
+569802164060557312,tessabusenius,1,Customer Service Issue,1,Qantas,who do I need to talk to to get a full refund on my trip? Your call center offers no assistance.,0,,23/2/2015 2:13,Edmonton,
+569352324700708864,dailylaurel,0.6331,Cancelled Flight,0.3465,Qatar Airways,no more hotel voucher? Everyone had to get one but not me...what do I do? Arrived from Amsterdam #SnowStorm,0,,21/2/2015 20:25,Bruxelle-Paris-Marseille-(BPM),Athens
+570212050548461568,dwjudson,0.6418,Can't Tell,0.34,Qantas,She seems a little preoccupied - that's why I'm bringing it to your attention. I am just flagging an issue as an observer.,0,,24/2/2015 5:22,"Toronto, Ontario, Canada",Eastern Time (US & Canada)
+567784566614540289,JetBlueNews,0.6584,,0,Singapore Airlines,'s new CEO Robin Hayes battles to appease passengers and Wall Street - Business In Savannah http://t.co/KKAYXaPs,0,,17/2/2015 12:36,USA,Sydney
+569843142830071808,PeterPiatetsky,0.6458,,,Qatar Airways,thank you for the apology,0,,23/2/2015 4:56,Nebraska,Eastern Time (US & Canada)
+568820729879367680,bodoughty,1,Customer Service Issue,1,Lufthansa,#NAME?,0,,20/2/2015 9:13,,
+568929608566837249,greggweiss,1,,,Singapore Airlines,Love you guys sooooooo much. Ridiculously appreciated! A+ service!,0,,20/2/2015 16:26,"Hastings on Hudson, NY",Eastern Time (US & Canada)
+570001064424026112,MarshallSchwart,0.6806,Lost Luggage,0.6806,Qatar Airways,"yes, thanks but took forever",0,,23/2/2015 15:23,at the rink,
+569229142597771265,BernardLeCroix,0.6591,Can't Tell,0.6591,Singapore Airlines,"it seems I never received an ID, just a password.",0,,21/2/2015 12:16,"Providence, RI",Eastern Time (US & Canada)
+569580180353609729,tspinnersbride,1,Customer Service Issue,0.6894,Emirates,"You cause me to miss my flight telling me it already left when it had not. No empathy from gate staff or crew, no apology. Really?",0,,22/2/2015 11:31,,
+567821288820203520,DocWaaaaaa,1,Customer Service Issue,1,Qatar Airways,I been on hold with U for mins wasting my time and $ &amp; I don't appreciate it #WheresTheCustomerServiceAt http://t.co/phIIfNjIT,0,,17/2/2015 15:01,NEXT D00R 2 U  ( Chiangles ),Pacific Time (US & Canada)
+569278421743878144,msk2216Matt,1,Can't Tell,1,Qatar Airways,why the hell u left *alliance and joined world is beyond me not a smart move time to start looking at other carriers,0,,21/2/2015 15:32,,
+570024324666564610,garytx,1,Customer Service Issue,0.6927,Qantas,". No. I watched these bags be abandoned at depart gate. Watched for &gt; mins until owner returned, + mins after I reported",3,,23/2/2015 16:56,"Austin, Texas area",Central Time (US & Canada)
+569704220472913920,luisperez27,1,,,Qantas,"looking for status of flight schedule for : am tomorrow morning, thank you",0,,22/2/2015 19:44,"Dallas, Texas",
+570110504254857217,medrisy,1,Can't Tell,0.6507,Qatar Airways,: You Make the Reservation; We'll Make the Excuses! #usairwaysfail,0,,23/2/2015 22:38,,
+569949946146742272,sichbella,1,,,Qantas,i got a new reservation for tomorrow. Thanks!,0,,23/2/2015 12:00,KC,Pacific Time (US & Canada)
+570120432453615617,SLKToday,1,Customer Service Issue,1,Qatar Airways,it doesn't take days to respond to an already open case!,0,,23/2/2015 23:17,Manchester,
+569386397683073024,miffSC,1,Late Flight,1,Qatar Airways,Are you guys awake? Need help with delayed flight to get protected on Late Flightr flight from PHL.,0,,21/2/2015 22:41,http://about.me/miffsc,Eastern Time (US & Canada)
+568521960088449025,kbosspotter,1,,,Singapore Airlines,I can't. I don't have acces to a phone rn. My iPhone broke. :/ would rather change it now then Late Flightr.,0,,19/2/2015 13:26,Logan International Airport,Atlantic Time (Canada)
+568534107875119105,MSLspeaks,1,Customer Service Issue,1,Emirates,I just want to contact someone with a question &amp; not be put on hold for minutes in order to be hung up on or sent to the pet line,0,,19/2/2015 14:14,"New York, NY",Eastern Time (US & Canada)
+567741700597366784,BlueOceanTweets,1,,,Emirates,Is Changing Its #MileagePlus Program: Winners and Losers http://t.co/OTLzAKd #airline #travel #loyalty #rewards,1,,17/2/2015 9:45,"Halifax, Nova Scotia",Atlantic Time (Canada)
+569646613183885312,vanessaannz,1,Late Flight,0.6762,Qantas,my flight has been delayed &amp; I can't talk reach anyone in customer service because of high call volume.,0,,22/2/2015 15:55,-тнαт νσι¢є ιиѕι∂є уσυя нєα∂,Alaska
+569275378331717633,TomServosBlendr,0.6381,,0,Singapore Airlines,What's your current checked bag price policy? I fly this coming week and couldn't find anything definitive.,0,,21/2/2015 15:20,By mile 3 of the NYC Marathon,Eastern Time (US & Canada)
+569461469042966528,girlphotophilly,1,longlines,0.6818,EgyptAir,at Logan airport and waiting to checkin for my am flight. Checkin desk not open !!!!! Why?!,0,,22/2/2015 3:39,"Philadelphia, Pa",Eastern Time (US & Canada)
+569941314713726976,Youdownwith_LNV,0.6525,,,Singapore Airlines,: Our fleet's on fleek. http://t.co/amBSiG,0,,23/2/2015 11:26,Philly,Eastern Time (US & Canada)
+569345132866220032,Dr24hours,0.6596,Cancelled Flight,0.6596,Qatar Airways,"help! Flight Cancelled Flighted, can't call because my phone doesn't work in Europe. Please help? Says I'm booked want to confirm.",0,,21/2/2015 19:57,East Coast City,Eastern Time (US & Canada)
+570101817041747968,kbleggett,0.6438,Can't Tell,0.3318,Emirates,plus what about food? And taxis?,0,,23/2/2015 22:03,"Ottawa, Canada",Eastern Time (US & Canada)
+570242641264320512,RealMaryAgnes,1,Can't Tell,0.3466,Lufthansa,": Tried for VIP Live in The Vineyard but yr site went down, by the time I got in redeem pts those packages gone.",0,,24/2/2015 7:23,,Atlantic Time (Canada)
+568054687993352192,luvthispayne,1,Late Flight,1,Lufthansa,"Secondly, we did not begin boarding on time despite our aircraft being present and deplaned. Thus we left over min Late Flight",0,,18/2/2015 6:29,Somewhere over the rainbow.,Atlantic Time (Canada)
+567811913586876417,antoniocosta64,1,Customer Service Issue,0.6359,Emirates,calling that number was useless. Heading to the airport now to pick up my bags. this whole situation seems like a real joke.,0,,17/2/2015 14:24,"Conway, AR",
+570254579578720256,marianela_mt,0.6858,,0,Qantas,"if i want to change my flight due to weather conditions in Dallas this weekend, i should be able to cover change fee with miles",0,,24/2/2015 8:11,,
+568034773156933632,TroyDWhite,1,,,Lufthansa,"Hi, how do I add a flight to my account? Just created it",0,,18/2/2015 5:10,"Washington, D.C.",Eastern Time (US & Canada)
+568891505869344770,brittneybla,1,Bad Flight,0.6787,Qatar Airways,how about checking the plane before having everyone board the plane? #pissed,0,,20/2/2015 13:54,,
+567772565956222976,ShiraJudah,1,Damaged Luggage,0.6954,Singapore Airlines,new stroller. The travel credit doesn't help cover the cost of a new stroller. Your crew ruined it and therefore should,0,,17/2/2015 11:48,"Boston, MA",Greenland
+570006737190854656,UllCon,1,Customer Service Issue,1,Qantas,"every time I try to call, it tells me to try again Late Flightr and just hangs up.",0,,23/2/2015 15:46,"Michigan, US",Quito
+568492682152189952,sapnasparikh,1,,,EgyptAir,partners with Checkout as mobile payment method to help boost mobile conversion rates #etailwest #payments #visa,0,,19/2/2015 11:29,new york,
+568797401772892161,sbellfi4,1,Flight Attendant Complaints,0.3474,Emirates,I did and then she made me feel guilty because it was economy plus and I didn't pay for the extra leg room,0,,20/2/2015 7:40,"Ottawa, ON",Eastern Time (US & Canada)
+567817558418804737,cjc925,1,,,Lufthansa,"I know it is hard to predict, but how are flights from Dallas to Nashville tomorrow AM?",0,,17/2/2015 14:47,"ÜT: 35.935585,-86.886267",Eastern Time (US & Canada)
+570248991704788992,MyCustoAdvocate,0.6782,Customer Service Issue,0.6782,Qantas,Airline trouble this winter &amp; not getting good customer service? contact http://t.co/aQjnHwNaC we negotiate w/companies forU!,0,,24/2/2015 7:48,"Miami, New York, Boston",
+569658503570296832,RyanSennett,0.6361,Customer Service Issue,0.6361,Emirates,"why doesn't my daughter, booked with my gold member miles, get on the upgrade list for her flight tomorrow?",0,,22/2/2015 16:42,"Vancouver, WA",Pacific Time (US & Canada)
+569741366642618368,toromiller,0.6659,,0,Emirates,"UA flight . SFO to LAX took my carry on at gate. I'm Group , overhead bins are empty",0,,22/2/2015 22:11,"Boston, MA",Eastern Time (US & Canada)
+568229659810209792,l_miller91,1,Customer Service Issue,1,Lufthansa,today you sporadically changed my flight departure times &amp; left two hours Late Flight. Uncharacteristic of u http://t.co/TXhYJllG,0,,18/2/2015 18:04,Oklahoma,
+569349932131487746,kreespa,0.6774,Late Flight,0.3763,Emirates,"considering I'm now stuck in Newark with virtually sleep in + hours, I doubt it :/ hope car rentals are available",0,,21/2/2015 20:16,Little Rhody,Eastern Time (US & Canada)
+570264948548313088,Runts54,1,,,Qantas,you together are the best part of flying!,0,,24/2/2015 8:52,"Euless, Texas",
+569647318535786496,tank_martell,0.7090000000000000,Customer Service Issue,0.7090000000000000,Qatar Airways,been on hold for over and hour now.,0,,22/2/2015 15:57,"Beaufort, SC",Eastern Time (US & Canada)
+569942084393824256,hellomichaellee,1,Customer Service Issue,1,Qantas,just tried calling. got a high call volume at this moment message and then it said goodbye and hung up,0,,23/2/2015 11:29,"Cary, NC",Eastern Time (US & Canada)
+567924107183915009,kristaal4,1,,,Emirates,you guys have such big hearts.. keep up the good work,0,,17/2/2015 21:50,,
+569626787875053568,KuperMini,1,Customer Service Issue,1,Qantas,Have been trying to get canx flight resched since noon. got call backs but call disconnects as soon as I answer,0,,22/2/2015 14:36,,
+569606374591746050,RafaelBertorell,0.6684,Lost Luggage,0.3419,Qantas,since we are leaving tomorrow to miami can you do one thing right and deliver the bags to the airport?,0,,22/2/2015 13:15,,
+569549922569224192,AnisahMunruddin,1,Customer Service Issue,0.6710000000000000,Singapore Airlines,", your hold music sucks.",0,,22/2/2015 9:30,New York,Eastern Time (US & Canada)
+570010882069151744,sicula,1,,,Singapore Airlines,you found my camera! Thank you! You rock!,0,"[41.21681145, -73.12508256]",23/2/2015 16:02,"Stratford, CT",Eastern Time (US & Canada)
+568957769858060290,JeffFassett,1,Flight Attendant Complaints,0.6531,Qatar Airways,you have to be crazy! Treated my mom very poorly. Not happy! #usairwaysfail,0,,20/2/2015 18:17,Florida,Eastern Time (US & Canada)
+567822848878968832,qlabelle11,1,Can't Tell,0.696,Emirates,"wanted to, but you Cancelled Flightled my tickets.... They were too special i guess even for united.",0,,17/2/2015 15:08,,
+569834720424361985,RioLongacre,1,,,Emirates,- Group line gets longer every week. Almost no one left for Groups - anymore. Time to make Explorer Card Group ?,0,,23/2/2015 4:22,"Denver, CO",Eastern Time (US & Canada)
+567856355907760128,MikiLuJames,0.7259,Customer Service Issue,0.7259,Lufthansa,it's not letting me DM you !!,0,,17/2/2015 17:21,,
+568828240502128640,ScribblersNook,0.6830000000000000,Customer Service Issue,0.3525,Emirates,trying to reach him for the number. At last they have him on standbye and gave him meal voucher for a potential day standbye!,0,,20/2/2015 9:43,"Atlanta, GA",Eastern Time (US & Canada)
+569310731486699520,EYA10,1,Can't Tell,0.3578,Emirates,"thanks for the reply. To clarify, the airfare is similar to your likely intended peer group. The $ beer charge, however, is not",0,,21/2/2015 17:40,,
+567731738924032000,MiKasuga,1,Customer Service Issue,0.3463,Emirates,No but u cld explain how such a disorganized and inefficient company w surly and obviously unhappy employees stays in business.,0,,17/2/2015 9:06,"New York, NY",Eastern Time (US & Canada)
+569974287286845441,AnnaIntheCity,1,Flight Booking Problems,0.6541,Qantas,"that's why I'm asking for exception. Staffer moving last minute,we're a nonprofit &amp; losing $,we just want to change ticket.",0,,23/2/2015 13:37,Northern Virginia,Eastern Time (US & Canada)
+568550060461408257,malcolm_clement,1,Customer Service Issue,0.3492,Qatar Airways,"flight out of Seattle has ,lbs too much fuel and no water for the lavoratories. Nice job guys - est min behind now",0,,19/2/2015 15:17,Seattle,Alaska
+570228063625207808,bsauce2011,1,,,Qantas,does it show that we are on the same plane?,0,,24/2/2015 6:25,Fort Myers,Eastern Time (US & Canada)
+568390014238916608,stylistadvocate,1,,,Emirates,for a fee...,0,,19/2/2015 4:41,"Ratner Companies, Hair Cuttery",Eastern Time (US & Canada)
+568438000843034624,JiggaJazzman,1,,,Lufthansa,"THANKS to , I get to go to the #DestinationDragons show this weekend in UTAH !!! #ThankYou",0,,19/2/2015 7:52,,
+569620944160886784,baj2081,1,Late Flight,1,Emirates,thanks for causing us to miss our connection and now a hour delay #flydeltanexttime,0,,22/2/2015 14:13,,
+569262702301876224,jeffpash,1,Customer Service Issue,1,Qatar Airways,Flight SF to NYC only made it to Philly. Ur customer service is telling me no refund for the last leg? #offensive,0,,21/2/2015 14:29,San Francisco,Pacific Time (US & Canada)
+569701646445326336,farfalla818,1,,,Qantas,anything you can do?,0,,22/2/2015 19:33,"Plano, Texas",
+569399153253429248,FollowMsMiMi,1,Late Flight,0.6601,Qatar Airways,"this is ridiculous. I have a : AM flight and two hours of rest, wasted!!!",0,,21/2/2015 23:31,,Quito
+569630593924911104,GaryBrickhouse,1,Late Flight,0.6970000000000000,Qantas,I changed my own flight to tonight. Why couldn't AA do that on my behalf instead of a flight tomorrow? Poor effort all around.,0,,22/2/2015 14:51,,
+569608866138173440,timdrewitt,0.6545,Bad Flight,0.3335,Emirates,Personal Device Entertainment system is great but with app crashing every / mins I'm glad it's free for now.,0,,22/2/2015 13:25,Aylesbury United Kingdom,London
+569330414193483776,ke_gluth,0.6753,,,Lufthansa,male flight attendant on flight from Orlando to Indy was AMAZING! He needs a raise Had the best experience with him,0,,21/2/2015 18:58,,Central Time (US & Canada)
+569331162897739776,stevestillalive,1,Can't Tell,0.3547,Emirates,why don't you ever print my known #traveler number on my ticket? Because of this I never get to use the #TSA prescreen I paid for,0,"[37.61839686, -122.38751]",21/2/2015 19:01,"San Diego, CA",Pacific Time (US & Canada)
+569145957721505792,franchise02,1,Customer Service Issue,1,Qatar Airways,hours and minutes. Just want to know I'm still in the queue...,0,,21/2/2015 6:45,,Eastern Time (US & Canada)
+570229813937463299,nolimitlove,1,,,Singapore Airlines,thanks to you customers like me stay loyal. From check in to landing.,0,,24/2/2015 6:32,,America/New_York
+568863304975839233,SantowDan,0.6515,Customer Service Issue,0.6515,Lufthansa,No thanks. After those + minutes someone did eventually help us and took care of it.,0,,20/2/2015 12:02,Chicago,Mountain Time (US & Canada)
+569716449704587265,MeganStephens74,1,Cancelled Flight,1,Qatar Airways,"now has stranded is in #Miami without updating any of the departure boards, and once they Cancelled Flightled the flight there was no...",0,,22/2/2015 20:32,"Philadelphia, PA",Atlantic Time (Canada)
+569641615721140224,rikrik__,1,Customer Service Issue,1,Emirates,: What made you come to this? Can we help you with anything? ^JP the service just hasn't been great.,0,,22/2/2015 15:35,Saint Louis,Central Time (US & Canada)
+570045914347237376,Amrutafrika,1,Customer Service Issue,0.7078,Qantas,you have a company policy that refuses employees to speak to other employees over the phone? Interesting,0,,23/2/2015 18:21,,
+568101606585020416,BryanAndaya,0.6660000000000000,Flight Booking Problems,0.3340000000000000,Lufthansa,it was this one but looks like the problem is now fixed. https://t.co/CFIEKXA,0,"[0.0, 0.0]",18/2/2015 9:35,"Houston, Texas",Mountain Time (US & Canada)
+569884071758835712,eozonian,1,Cancelled Flight,1,Qatar Airways,thanks for Cancelled Flighting flight today. Now missing required training. Not a happy customer.,0,,23/2/2015 7:38,TLH,
+570010571707256832,ChelseaPoe666,1,,,EgyptAir,wow this just blew my mind,0,,23/2/2015 16:01,Oakland via Midwest ,Atlantic Time (Canada)
+567806872410161152,funky_bbq,1,,,EgyptAir,Are there any plans for a short haul airline in Europe? Would defiantly fly with you guys :),0,,17/2/2015 14:04,,
+569533663211356161,VikingJim60,1,Lost Luggage,1,Qatar Airways,now you don't know where my luggage is? Seriously?,0,,22/2/2015 8:26,"Doylestown, PA",Eastern Time (US & Canada)
+568984515298922496,Snow4meErika,1,Cancelled Flight,0.6806,Emirates,"you should change your name to United Incompetence. No flight until Monday, have to take a hour drive now to get to my flight!",0,,20/2/2015 20:04,,
+569877431227686912,beantoon,1,Customer Service Issue,1,Singapore Airlines,any effort to fix your points system? days and a call to customer service and still no account update. Chasing points is no fun,0,,23/2/2015 7:12,"Plymouth,  MA",
+568269181394817024,ImmaMarksThat,0.6267,Flight Booking Problems,0.6267,Emirates,Trying to change a flight booked just hours ago but online system is charging me $ fee per passenger... could you please help?,0,,18/2/2015 20:41,"Washington, DC",
+569643671198572544,__XT,0.6893,,0,Emirates,thanks for updating me about the + hour delay the exact second I got to ATL.,0,,22/2/2015 15:43,,Eastern Time (US & Canada)
+569257033972604929,GregKuroda,1,Customer Service Issue,1,Emirates,", no, your service here pretty much ruined my day, but thanks for the weak attempt",0,,21/2/2015 14:07,The Garden State,Eastern Time (US & Canada)
+568215698524246016,michaeljeffers,1,,,Lufthansa,thanks for taking it up a notch!! leinenkugels #craftbeer #goodflight @ Norfolk http://t.co/TgSLjjNg,0,"[36.898315, -76.204491]",18/2/2015 17:09,The Hill!!!,Santiago
+568474825989054464,JasonWhitely,1,,,Qatar Airways,"THE END: RT : Reminder: From /, well be tweeting from . You should join us: http://t.co/NBpCJCpEW",0,,19/2/2015 10:18,Dallas/Fort Worth,Central Time (US & Canada)
+568611819864117248,ClassyMalick,1,,,Singapore Airlines,Awww thank you B! Glad to hear it! Made my day! &amp; one last question do you have any idea what tail is operating flt maro? :),0,,19/2/2015 19:23,NY,
+569632550873915392,bfunai,1,Lost Luggage,0.6526,Emirates,We waited min for our bags after a min flight #nomorecheckedbags,0,,22/2/2015 14:59,"Chicago, Illinois",Central Time (US & Canada)
+567811428779868160,SimplyImplicit,0.6446,,0,EgyptAir,do you have an application for iOS? Was looking and only saw Virgin Mexico :( &lt;/,0,,17/2/2015 14:22,"Los Angeles, CA",Central Time (US & Canada)
+570282333892251648,kelsey_rae2011,0.6730000000000000,,0,Lufthansa,tv stream means I get to spend my flight watching and Women's World Cup Finals. #throwback #bestflightever,0,,24/2/2015 10:01,,
+567800210064420864,Logunov_Daniil,1,,,Qatar Airways,YOU ARE AMAZING!!! YOU ARE THE BEST!!! FOLLOW ME PLEASE AND I FOLLOW YOU BACK;)),0,,17/2/2015 13:38,"Russia, Россия",Abu Dhabi
+569671000486502400,WyattTweets,0.6368,,,Singapore Airlines,Thank you. Fingers crossed.,0,,22/2/2015 17:32,New York,Eastern Time (US & Canada)
+567769468278988800,JetBlueNews,0.6671,,,Singapore Airlines,'s new CEO seeks the right balance to please passengers and Wall ... - Times Colonist http://t.co/NzDXRvszWv,0,,17/2/2015 11:36,USA,Sydney
+569985685723209730,GrrraceSM,1,Lost Luggage,0.6491,Qantas,"yep,filed a claim at Heathrow yesterday. We were promised a call this morning with an update, but got nothing.",0,,23/2/2015 14:22,London,
+570016890996723713,MCoveteur,0.6946,,0,Singapore Airlines,Oh yeah? RT : Our fleet's on fleek. http://t.co/FTvNWWQF,0,,23/2/2015 16:26,"Valsayn, Trinidad",Quito
+569886919833874432,dan3598328,1,Customer Service Issue,0.6826,Qatar Airways,"Customer service is dead. Last wk, flts delayed/Cancelled Flighted. Bags lost days. Last nt, flt delayed/Cancelled Flighted. No meal voucher?",0,,23/2/2015 7:50,"Hillsborough, New Jersey",Eastern Time (US & Canada)
+569667923326971904,JCRU28,0.6630000000000000,Cancelled Flight,0.6630000000000000,Lufthansa,everyones flights who were Cancelled Flightled today DESERVE,0,,22/2/2015 17:19,USA,Eastern Time (US & Canada)
+569660029093203968,TheJoshAbides,1,Cancelled Flight,0.3576,Qantas,"I made my flight but then still had no update emails when I landed, no info ever sent on that or second flight. Losing my biz.",0,,22/2/2015 16:48,New York City,Eastern Time (US & Canada)
+569968117037707264,makzaynugget,1,,,Singapore Airlines,: Our fleet's on fleek. http://t.co/tEjrNtfw NOOOOOOOOOOOOOOOOOO,0,,23/2/2015 13:12,usually home,Melbourne
+569623164143185920,MatthewJMedlin,1,Late Flight,0.6597,Qantas,"Late Flight from phoenix, gave ticks away when arrived chicago, held bags hostage chicago, rented van drove to toledo. hr drive.",0,,22/2/2015 14:22,"Rossford, Ohio",Atlantic Time (Canada)
+567756837320392705,andtheretheygo,1,,,Emirates,Q: Just purchased ticket to #Hawaii for trip in Late Flight-March. Does this mean we will acquire miles based on price or distance flown?,0,,17/2/2015 10:45,,
+569919703054991361,ameliasaletan,0.6955,Customer Service Issue,0.6955,Qantas,"For the love of all that is holy, if your automated phone system is going to give like options, give numerical shortcuts",0,,23/2/2015 10:00,,Eastern Time (US & Canada)
+569322419036356608,Drzah_,1,,,Singapore Airlines,I flew on a flight about months ago. Me and my girlfriend got away with having sex in a restroom. Is it allowed now?,0,,21/2/2015 18:26,,Central America
+570095131967295489,Roope00,1,,,Qantas,"I really would love to experience first class on that plane,looks stunning!",0,,23/2/2015 21:37,WARNING: Explicit language,Helsinki
+570271730729689088,Singal3,1,Bad Flight,0.6481,Lufthansa,"horrible experience, passenger of size was / in my seat, offered $ voucher for this by Christine C http://t.co/xzrKwVQ",0,,24/2/2015 9:19,,
+569247182475407360,jojo929,1,Customer Service Issue,0.6698,Singapore Airlines,we want room and food allowances. Agents are refusing to give us vouchers to use at rooms we book ourselves.,0,,21/2/2015 13:27,,
+567782686077747200,bradlerner,0.6677,Bad Flight,0.3602,Qatar Airways,any updates on flight from ORF to PHL no one at gate... ;(,0,,17/2/2015 12:28,Virginia Beach,
+568517565548339200,c_crubin,0.7223,longlines,0.7223,EgyptAir,wjere is our luggage #so slow at lax,0,,19/2/2015 13:08,,London
+568642357379399681,adatts33,1,,,Singapore Airlines,You definitely will!,0,,19/2/2015 21:24,,
+568622478081306624,brettel,1,Late Flight,0.6733,Qatar Airways,"DCA-&gt;HPN, u r prof hostage takers.We stood on bus plane for min,now sitting on plane with no mvmt &amp; announcement &gt; hour!",0,"[38.86432211, -77.04913451]",19/2/2015 20:05,Washington DC,Eastern Time (US & Canada)
+568100774204600320,IrenePesoDoE,0.6742,,0,Singapore Airlines,are you ever looking for interns ?,0,,18/2/2015 9:32,,Eastern Time (US & Canada)
+569679274535362561,derekc21,1,Customer Service Issue,0.6554,Qantas,", to my surprise BA doesn't have me registered in the system , I was getting hopeful :(, Lets step it up , Okay ?",0,,22/2/2015 18:04,"Innisfail, Alberta",Mountain Time (US & Canada)
+569863714704220160,ScottHRoth,0.6466,Late Flight,0.342,Emirates,flight lets go you look like clowns no one is giving up st class for $,0,,23/2/2015 6:17,"Needham, MA",Eastern Time (US & Canada)
+569392880911036416,AdamGiamba,1,Bad Flight,0.6677,Qatar Airways,"after a grt flight to PHX last week, tonight was terrible. . hours taxing and you give us water and crackers to compensate.",0,,21/2/2015 23:06,"Bronx, NY",Eastern Time (US & Canada)
+567850746319753217,annforstie,1,,,Qatar Airways,"Eh, it happens. I think I'll survive. Thanks!",0,,17/2/2015 16:59,"Bloomington, MN",Central Time (US & Canada)
+570217831557677057,AdamSinger,0.6854,,,EgyptAir,do you miss me? Don't worry we'll be together very soon.,0,,24/2/2015 5:44,"San Francisco, CA",Central Time (US & Canada)
+567744627143213056,DustinSoper,1,,,Lufthansa,Thanks a ton!,0,,17/2/2015 9:57,"Nashville, TN",Eastern Time (US & Canada)
+568604311598469121,yaffasolin,1,Cancelled Flight,0.3514,Singapore Airlines,what's going on with flight and how many free trips will I get from this epic inconvenience http://t.co/pEUcBMij,2,,19/2/2015 18:53,New York,Pacific Time (US & Canada)
+569241776617160704,Markjeffries1,1,,,Singapore Airlines,Phew!! Did it!! (Pant. Wheeze) http://t.co/ZPZPOeON,0,,21/2/2015 13:06,"40.741909,-73.997189",Eastern Time (US & Canada)
+569989999963213824,HanlonBrothers,1,,,Qatar Airways,New marketing song? https://t.co/FLFULCbQ let us know what you think? http://t.co/WbhbljJkS,0,,23/2/2015 14:39,"Gold Coast, Australia",Brisbane
+568833970143698944,MediatorTerry,1,Customer Service Issue,1,Qatar Airways,Saddens me that my first tweet - ever - has to be a complaint about customer service.,0,,20/2/2015 10:06,,
+569526583473483776,smw04,1,Late Flight,1,Qatar Airways,"U hate delays, too? But u have her $$ &amp; are holding her hostage! #GoingForGreatnessFAIL",1,,22/2/2015 7:58,,Atlantic Time (Canada)
+568166054624669696,GeorgeMcflyOG,1,Cancelled Flight,0.6677,Emirates,thanks for not letting me switch flights Bc I had a checked bag then Cancelled Flighting my flight forcing me to take another hrs Late Flightr!,0,,18/2/2015 13:51,NJ ,Eastern Time (US & Canada)
+570286924277030912,megfalcone,0.6538,Customer Service Issue,0.6538,Emirates,"yes please! I am newly married and trying to update my last name on a preexisting international flight! It seems so easy, but...",0,,24/2/2015 10:19,,Pacific Time (US & Canada)
+570184083692658688,wbarkema,1,Can't Tell,1,Qantas,months of straight travel ahead. Time to find new airline.,0,,24/2/2015 3:30,,Central Time (US & Canada)
+567861901603901440,PndrewCress,1,Customer Service Issue,1,Qatar Airways,Commitment to excellence is b praised. Can get you to the wrong city days Late Flight or the right one days Late Flight. #customerservice,0,,17/2/2015 17:43,,
+569687374193680384,lclohmd,1,Late Flight,0.6939,Emirates,"on #UA tonight and told delayed due to Late Flight crew. No idea where crew coming from, your staff ++unhelpful. Any ideas?",1,,22/2/2015 18:37,Toronto,
+568101176551452673,karinafmanalo,1,Late Flight,1,Emirates,missing this wedding because of these delays would not be cool,0,,18/2/2015 9:34,"Arlington, VA",
+569958552493793280,jessicadrew87,1,Lost Luggage,1,Qatar Airways,slowest baggage claim ever,0,,23/2/2015 12:34,North Carolina,Eastern Time (US & Canada)
+569242876909109248,jamiemager,1,Customer Service Issue,0.6780000000000000,Lufthansa,is Flight OMA&gt;DEN on / actually Cancelled Flightled? Been on hold for over an hour and your website says conflicting messages,0,,21/2/2015 13:10,,
+569295556729823232,flyinhoc1,1,Bad Flight,0.6566,Emirates,how come a $ shuttle bus from LGA to EWR has electrical power outlets but our new Airbus interiors do not? #whyjeff?,1,,21/2/2015 16:40,,
+569820790905970688,sheilafmaguire,1,Late Flight,0.6875,Qatar Airways,"flt . + hrs Late Flight, baggage + more hr. Now I see they delivered my suitcase wet inside &amp; out. #NotHappy",0,"[36.11203645, -115.17712729]",23/2/2015 3:27,"Scituate, MA",Eastern Time (US & Canada)
+568924781837455360,farms122,1,Late Flight,1,Singapore Airlines,any news on flight pbi-boston delay? Can we wait to arrive at airport based on reported and / hour delay?,0,,20/2/2015 16:06,,Eastern Time (US & Canada)
+568998609590419456,PeterDawoud,0.669,,0,Emirates,you know what would be awesome? Providing us with complimentary entertainment on your flights. Especially those longer than hours.,0,,20/2/2015 21:00,Redmond WA ,Pacific Time (US & Canada)
+568433045805465600,Schnitz85,1,Flight Attendant Complaints,0.6854,Singapore Airlines,I'm on flight and no booze being served min in... What gives? #lostrevenue #angryandsober #bachelorpartymishap,0,,19/2/2015 7:32,"New York, NY",Quito
+569420073707773952,MaverickEMT,1,Bad Flight,0.6751,Singapore Airlines,no. Not boarding order. Someone boarded with. Service Animal which a member of my party was allergic to and because the flight was,0,,22/2/2015 0:54,New York,Eastern Time (US & Canada)
+569921467552567296,CyntheaH,0.6592,,,Singapore Airlines,you bet:),0,,23/2/2015 10:07,"Burlington, Vermont",Eastern Time (US & Canada)
+569490688569679872,LividFiction,1,Late Flight,1,Qatar Airways,I really appreciate there not being an easy way to get another flight when mine has been delayed over hrs for mechanical reasons,0,,22/2/2015 5:35,"Thicktown, Thickania",Eastern Time (US & Canada)
+569504786879528962,szymanski_t,1,Customer Service Issue,0.6662,Emirates,minutes plus to get through to a two after the first one transferred me to a spanish hotline is unacceptable!,0,,22/2/2015 6:31,,Eastern Time (US & Canada)
+570223944260849664,mikeyyyyyyy_,1,Can't Tell,1,Qatar Airways,should give me free baggage for this mess,0,,24/2/2015 6:09,,Central Time (US & Canada)
+568967598794149889,Merrick757,0.6531,,0,Emirates,what time should I arrive at the airport for my : am domestic flight out of San Diego?,0,,20/2/2015 18:57,,
+569636885863251969,georgetietjen,1,Customer Service Issue,0.3694,Qantas,Two hour wait for EXPs as I sit on a JFK PHX flight because US computers are down. Any shot at an LAX flight?,0,,22/2/2015 15:16,,
+568772912557133824,chuckgose,1,,,Lufthansa,Received awesome phone help from Jim today. Helped me switch around flights booked with points.,0,,20/2/2015 6:03,"Indianapolis, IN",Indiana (East)
+568839596261249024,SMHillman,0.6409,,,Singapore Airlines,Let's just say #IDontWannaLiveWithoutYourLove https://t.co/iKCgaxxFa #ItWasMintToBe #BestInClassSocial #ThankYou #Travel #Business,0,,20/2/2015 10:28,"New York, NY",Eastern Time (US & Canada)
+567881459161260032,christruncer,1,Customer Service Issue,0.6926,Emirates,"so you told me to go, knowing what the issue was, only for me to go there and find out that you wont fix it?",0,,17/2/2015 19:01,Washington DC,Eastern Time (US & Canada)
+568778374451220480,stetsoninc,0.6706,Can't Tell,0.3376,Singapore Airlines,CCNDJP/ I can send a screen shot of the systems error if an email address is provided,0,,20/2/2015 6:25,"New York, NY",Central Time (US & Canada)
+568597262378655744,J_Okayy,1,Late Flight,0.6845,Emirates,waiting on plane so long missed my connecting flight it left early. That's the last flight out tonight. HELP http://t.co/hBsJsFh,0,,19/2/2015 18:25,,Eastern Time (US & Canada)
+569708573762023424,luisperez27,1,,,Qantas,"flight tomorrow : am, status please, thanks",0,,22/2/2015 20:01,"Dallas, Texas",
+567898499540340736,kateturner9,1,Late Flight,1,Emirates,hour delay plus a jetway that won't move. This biz traveler is never flying u again!,1,,17/2/2015 20:08,"San Francisco, CA",Arizona
+568435677190336512,ZKatcher,0.6201,Can't Tell,0.6201,Singapore Airlines,i am here - what is your resolution?,0,"[0.0, 0.0]",19/2/2015 7:43,"Washington, DC",Eastern Time (US & Canada)
+570059116066017280,djcheros,0.6990000000000000,Flight Booking Problems,0.3611,Singapore Airlines,you just directed me to your mobile website. Where is the direct link? GET IT TOGETHER!,0,,23/2/2015 19:14,"Portland, Maine",Eastern Time (US & Canada)
+569518979103924224,throthra,0.64,,0,Emirates,why de-ice before taxing? Maybe it #makestoomuchsense ? #shouldhaveflowndelta #unitedsucks,0,,22/2/2015 7:28,,
+569586372866150400,MrRenevendez,1,Cancelled Flight,1,Qatar Airways,according to DCA seems to be recovering nicely from yesterday's snow so why are you Cancelled Flightling flights out there?,0,,22/2/2015 11:55,Where you least need me to be,
+568853687130390528,djknuckles,0.6596,,0,Lufthansa,I have the DM from if needed,0,,20/2/2015 11:24,WORLDWIDE,Pacific Time (US & Canada)
+569304100048912384,tarlonious,1,Customer Service Issue,0.3453,Emirates,And yet we still haven't left yet and I can't watch my pre-paid DirectTV. #firstworldproblems,0,,21/2/2015 17:14,,
+569730682949398528,JasmineDT,1,,,Emirates,you're my early frontrunner for best airline! #oscars,0,,22/2/2015 21:29,Washington D.C. ,Eastern Time (US & Canada)
+569197579956842496,your_ride_dear,1,Flight Attendant Complaints,0.3684,Emirates,#bullying in the #workforce not ok. Get gate agents work as a team. against is never cool. #Delays #flights #UnitedAirlines,1,,21/2/2015 10:10,ONTARIO CANADA,
+567828625388609536,bfree007,1,Late Flight,1,Lufthansa,im in same boat.. am flight to Jacksonville... Get me out of here!!,0,,17/2/2015 15:31,"Nashville,TN",
+569464902164856832,AdrianMartinG15,1,longlines,0.3569,Qatar Airways,Sounds like should have planned better since this weather was no surprise. Completely unacceptable wait times!!!,0,,22/2/2015 3:53,,
+568483773467262976,boscott73,0.664,,0,Lufthansa,"thanks for your attention, I've been flying southwest for years and haven't had this issue in the past.",0,,19/2/2015 10:54,"Denver, Colorado",Mountain Time (US & Canada)
+568525820764897280,RobinFicklin,1,Cancelled Flight,0.6871,Singapore Airlines,"no they offered the flight (/), I paid, then they changed it.This is the nd time you have done this to me. ruins cruise plans",0,,19/2/2015 13:41,Logan.Utah,Pacific Time (US & Canada)
+568250000028925952,laboyd99,1,Lost Luggage,0.3608,Emirates,"hour flight from FLL to Ewr, , now waiting hour plus for bags, no sign yet. What gives????",0,,18/2/2015 19:25,,
+569872921700667392,elisakathleen,0.6646,,0,Qantas,at LAX &amp; just got off the phone w/reservations. Every flight that'd get me to BOS before am tmrw is apparently unavailable,0,,23/2/2015 6:54,"Boston, MA",
+569746398519955456,patrickcota5,1,Lost Luggage,1,Qatar Airways,who's in charge of your company? My wife missed her connection to CA you sent her luggage on another flight,0,,22/2/2015 22:31,,
+567860982422306816,JavaySharane,0.6492,,,Lufthansa,"Hi! I just saw a Black History month commercial on TV &amp; Im excited! In support of this month,will you all grant me free trip",0,,17/2/2015 17:39,Atlanta,
+570081165459259392,Amrutafrika,1,,,Qantas,sent,0,,23/2/2015 20:41,,
+569857128988602368,JigsawLounge,1,Customer Service Issue,1,Qantas,will you review your systems re notification? The website and telephone systems you have in place are clearly inadequate.,0,,23/2/2015 5:51,SR2,London
+569909756493746176,Dr_Dif,1,Lost Luggage,0.6415,Singapore Airlines,great job getting flight in minutes early. Too bad we're at minutes and counting waiting for our bags.,0,,23/2/2015 9:20,USA,
+568454321219596289,RichieG99,0.6673,Late Flight,0.6673,Qatar Airways,"sorry, I meant flight , which was supposed to depart at :, now says :. What is the issue?",0,,19/2/2015 8:57,new yorker stranded in PA,
+569584744532287490,adrianarebelo_,0.6479,Can't Tell,0.3628,Lufthansa,FIND A WAY TO Cancelled Flight FLIGHT !!!!!!!,0,,22/2/2015 11:49,,Atlantic Time (Canada)
+569704066760232960,biscuittmfs,1,Can't Tell,0.6527,Qatar Airways,"you should partner w/ a different hotel in PHL, the clarion is proving to be very difficult &amp; not customer friendly",0,,22/2/2015 19:43,NY - SoFlo - The Tardis,Eastern Time (US & Canada)
+569638919131627522,rhowltx,1,Late Flight,0.3581,Qantas,"AA: mins for Priority bags to arrive, now Late Flight for evening plans! Delta min bag guarantee anyone? :(",0,,22/2/2015 15:24,,
+570264793140953088,Patobrien61,1,Bad Flight,0.6654,Lufthansa,"if you're going to charge for wifi, do us all a solid and make sure it doesn't take the length of the flight to open a page",0,,24/2/2015 8:51,"Perdido Key, FL",
+568910590921609216,MaverickGamersX,1,,,EgyptAir,cutest salt and pepper shaker ever. Just when I think you guys can't get any better you just do! http://t.co/vCKeulgJ,0,,20/2/2015 15:10,Follow/Retweet for giveaways!,
+568416873211015168,GerryBorrego,0.6739,,,Singapore Airlines,Brazil to volunteer teaching english &amp; spanish to Poor children so they have a skills to improve their chances of a better life.,0,"[0.0, 0.0]",19/2/2015 6:28,"Austin, Texas",Central Time (US & Canada)
+569967632868188160,TheJessicaKill,1,Customer Service Issue,0.6675,Emirates,Just checking in again - what is the status of our claim. It is going on months with no attention to this? We are very upset.,0,"[0.0, 0.0]",23/2/2015 13:10,Vancouver/Beverly Hills,Pacific Time (US & Canada)
+569894640675102722,Balhajji,1,Customer Service Issue,1,Singapore Airlines,"Called JB times!Everytime, Auto Vmsg:""your wait time should not be longer than mins"" waited longer than mins and no answer!",0,,23/2/2015 8:20,USA,
+568516490405679104,lucianosr83,1,,,Emirates,"I have to admit that not only the app is good but have lots of useful func (such the ""live"" seat map). Congrats",0,,19/2/2015 13:04,Brazil,
+567869456048865281,kd35ftw1,1,,,Lufthansa,can you outline the policies for both scenarios?,0,,17/2/2015 18:13,,
+569225573773369344,SomuchWhit,1,Can't Tell,0.6707,Emirates,is not a company that values it's customer &amp; after reading tweets to them I'm not the only one who feels that way #lostmybusiness,0,,21/2/2015 12:02,,Pacific Time (US & Canada)
+569646184005894144,Scott66Ash,1,Late Flight,1,Singapore Airlines,how about free wifi on flt out of PBI to make up for . hr delay? Treat us right.,0,,22/2/2015 15:53,,Atlantic Time (Canada)
+568821261767303168,Eileen429,1,Cancelled Flight,0.6831,Emirates,I'm rebooked. Getting home hours Late Flightr then planned. What are the chances I'll ever see my bag again? #unhappytraveler,0,,20/2/2015 9:15,"Red Bank, NJ",Central Time (US & Canada)
+570269633778855936,rqualls,1,Flight Attendant Complaints,0.6911,Qantas,so you fail again flight to rdu sitting waiting on flight attendants. your logistics are not good,0,,24/2/2015 9:10,,
+568076483664568320,Als_TopTeeth,1,Late Flight,1,Qatar Airways,flight is delayed hours. No reason given. Sure love flying with your airline. #whatajoke,0,,18/2/2015 7:56,,
+569217012980805632,joshkmm,1,,,Lufthansa,Any way that I can get a receipt for a Cancelled Flightled portion of a roundtrip flight? Used the flight voucher just need receipt.,0,,21/2/2015 11:28,"Kansas City, KS",Central Time (US & Canada)
+569889440753172481,reallygilly3,1,Can't Tell,0.6482,Qantas,trying to get home is beyond complicated. It's should not be this hard. Students are split up and we will not fly AA ever again,0,,23/2/2015 8:00,Everywhere,Eastern Time (US & Canada)
+569941529902641153,HalcyonFatou,0.6837,,0,Singapore Airlines,..... Can you not? : Our fleet's on fleek. http://t.co/udPqflIQo,0,,23/2/2015 11:27,FL,Atlantic Time (Canada)
+568157049344937984,qlyss8,1,Cancelled Flight,1,Emirates,I had to change airports to actually get a flight out when my flight from FAY was Cancelled Flightled twice. $ taxi ride to RDU--reimburse?,1,,18/2/2015 13:16,"Texas, USA",Mountain Time (US & Canada)
+570300325917270018,GAKotsch,1,Customer Service Issue,0.698,Qatar Airways,I cant get anyone on the phone to help with award travel.Purchased extra miles and minutes Late Flightr the miles needed was raised.,0,,24/2/2015 11:12,,Atlantic Time (Canada)
+570066859330019329,djcheros,0.657,Can't Tell,0.657,Singapore Airlines,you can do better than this. And you can do better for me and all the passengers. #flight jfk to pwm.,0,,23/2/2015 19:45,"Portland, Maine",Eastern Time (US & Canada)
+567760693643214848,JayVig,1,Late Flight,0.6563,Singapore Airlines,days maybe.,0,,17/2/2015 11:01,"Jersey City, NJ",Eastern Time (US & Canada)
+570249204767055872,DannyLawray,1,Lost Luggage,1,Qatar Airways,So frustrating because I still have not gotten them back. Why my bag was sent to NY is a mystery! Shame on me this time!,0,,24/2/2015 7:49,"Dumfries, Virginia",Eastern Time (US & Canada)
+568443923485437952,SonyaSloanMD,1,,,Emirates,#OrthoDoc on-call to in-flight! Glad to have been of service!,0,,19/2/2015 8:16,"Houston, TX, USA",Central Time (US & Canada)
+568117268254568448,natedunn,0.6516,,,Qatar Airways,"Is it possible to earn Dividend Miles for a passenger that is not me, even if I am purchasing the tickets?",0,,18/2/2015 10:38,"Phoenix, AZ",Pacific Time (US & Canada)
+568432260912959488,bvincent,1,,,Lufthansa,using social business roadmap to develop intelligent path to embed social across enterprise #RaganDisney,0,,19/2/2015 7:29,"Minneapolis, MN",Central Time (US & Canada)
+569339717990400000,KON1200,1,Late Flight,0.6544,Singapore Airlines,flight you had us stuck on the plane for nearly hrs. Set to take off only for flight control to deny us. THE WORST SERVICE,0,,21/2/2015 19:35,SOUL CLAP/ STAR TIME/BBE,
+568490310524936192,alanbestnyc,0.6624,Customer Service Issue,0.3547,Singapore Airlines,Capital One and I explained the false fraud alert. Why did the Jet Blue representative issue me a new tkt if it wasn't resolved?,0,,19/2/2015 11:20,,Quito
+568958380032860160,ayangoswami,1,,,Emirates,. You guys made my day. Treated me well. Thank you!!!,0,,20/2/2015 18:20,"Hilton Head, SC",
+568743141861228544,JetBlueNews,1,,,Singapore Airlines,Has D.C. Thinking About Summer With New Nantucket Service - Broadway World http://t.co/dSceeEnj,0,,20/2/2015 4:05,USA,Sydney
+570022715072983041,Apollochplayers,1,Cancelled Flight,0.3603,Emirates,FAIL You Cancelled Flightled our flight frm GJT and then used our reserv home to IAH (from SEA) for reFlight Booking Problems w/out OUR PERMISSION!! #PHRPS,1,,23/2/2015 16:49,"Houston, TX",
+569766662024630272,LorelleEPhoto,1,Customer Service Issue,1,Qantas,"still no reply to my email sent on th February. Even sent an email asking for acknowledgment that's it been recieved, nothing",0,,22/2/2015 23:52,,Edinburgh
+567812369902133248,btr5017,1,Flight Attendant Complaints,0.6706,Qatar Airways,Your staff members are looking at me like I have two heads. Check your own websites!!! http://t.co/HhcTIe,0,,17/2/2015 14:26,,Eastern Time (US & Canada)
+569866461172387841,MeeestarCoke,1,Customer Service Issue,0.6919,Qatar Airways,on hold for hours yesterday w/o speaking to an agent on hold again w/ phones ~ mins let the bashing begin...,0,,23/2/2015 6:28,BK,
+570267956648792064,JNLpierce,1,,,EgyptAir,you know what would be amazingly awesome? BOS-FLL PLEASE!!!!!!! I want to fly with only you.,0,,24/2/2015 9:04,Boston | Waltham,Quito
+568100858954522625,harris,1,Can't Tell,0.6902,Emirates,Designed to deter people from forgetting things or to provide more storage space? The article says the latter #unfriendlyskies,0,,18/2/2015 9:32,NYC,Eastern Time (US & Canada)
+568581984055906304,jolexa,1,,,Lufthansa,I have a roundtrip ticket now and I need to change one leg of the trip (to a nearby airport) - not possible via website?,0,,19/2/2015 17:24,"Minnesota, USA",Central Time (US & Canada)
+570108801711341568,fairplay500,1,Customer Service Issue,0.6833,Emirates,Outbound bags lbs bags Returning home bag lbs. What is your logic? And WHY? Am I writing to a Machine? Human HELP required,0,"[0.0, 0.0]",23/2/2015 22:31,Huntsville AL USA,Central Time (US & Canada)
+568154689449168896,jigisavegoqu,1,,,Lufthansa,"oops, Sorry, Done,",0,,18/2/2015 13:06,Bay Area - Cali,
+569086687336222720,DaRenton,0.6556,Can't Tell,0.3444,Emirates,I do I was on UA LAX TO DEN - we are scheduled to land LAX @ : am - please rebook to Denver - best flight,0,,21/2/2015 2:50,Colorado,Mountain Time (US & Canada)
+568825463918833664,LRuns4Cupcakes,1,Flight Attendant Complaints,0.3502,Emirates,I have those notifications yet the staff on board say that is not accurate and they have no departure time.,0,,20/2/2015 9:32,NY,
+567770107062284288,paulhting,0.6515,Flight Booking Problems,0.3358,EgyptAir,Trying to make the change in advance (not just hours prior)tried it online earlier and it wanted $ in change fees.,0,,17/2/2015 11:38,"Charlottesville, VA",Eastern Time (US & Canada)
+568879046215520256,MyStyleVita,1,longlines,0.6864,Lufthansa,and this asshole cut in front of me. Your system blows. http://t.co/ujtVTCpa,0,,20/2/2015 13:05,Atlanta,Quito
+569883984190005248,ScottHRoth,1,Can't Tell,0.6392,Emirates,SFO to BOS and no internet it is what gives?,0,,23/2/2015 7:38,"Needham, MA",Eastern Time (US & Canada)
+569179849518161920,grahamh00,1,,,Emirates,you're good. Thank you!,0,,21/2/2015 9:00,"Enfield, CT",Eastern Time (US & Canada)
+569604777962643457,erina_jones,1,Late Flight,1,Qantas,thanks for the response. I know it's not your fault... But Im in ORD in T and hungry if you want to stop by,0,,22/2/2015 13:08,London,
+569502953851252737,szymanski_t,1,Can't Tell,0.6723,Emirates,I would never fly United Airlines again!,0,,22/2/2015 6:24,,Eastern Time (US & Canada)
+568509134276050945,peteeustic,1,Late Flight,0.6579,Emirates,thats because you didnt read my entire tweet. Wife's pm flight is now delayed to :. Thats + hour flight delays in weeks,0,,19/2/2015 12:35,,
+568606238428270594,Allisonjones704,1,Late Flight,0.6813,Qatar Airways,"ruined our honeymoon by causing us to miss our international flight, and now we are stranded.",0,,19/2/2015 19:01,,
+569527951831666688,arthurhasher,1,Can't Tell,0.701,Singapore Airlines,That's not weather reLate Flightd. You are just being nice and blaming the weather. Airport just wasn't prepared. Investigation time.,0,,22/2/2015 8:03,Long Island - Arizona ,
+569597711789502464,dline2005,1,Customer Service Issue,0.6721,Qatar Airways,"suggest you failures make a HUGE donation to Charlotte, NC as THEY provided GREAT customer service today, unlike you.",0,,22/2/2015 12:40,"Columbus, Ohio",Eastern Time (US & Canada)
+569599978722746368,otisday,1,Customer Service Issue,0.361,Qantas,Just make sure they remember to load the bags onto the plane. They Cancelled Flight the flight when they forget...,0,,22/2/2015 12:49,Pekin,Eastern Time (US & Canada)
+568608132731154432,Allisonjones704,1,Can't Tell,1,Qatar Airways,the least you could do is make up for what you have caused. You are ruining people's memories! You should be ashamed!,0,,19/2/2015 19:08,,
+569310717393944577,ericjramsey,1,Late Flight,0.6716,Emirates,"...lies lies lies....still sitting at the gate, have not moved an inch http://t.co/LulGnwEfFH",1,"[38.95638224, -77.43898845]",21/2/2015 17:40,"Washington, DC",Pacific Time (US & Canada)
+568095662262358016,jerry_eckerman,1,,,Emirates,this is me and my partners first trip to #NYC I bought the tickets at the same time Please seat us next to each other ConF# ILCHP,0,,18/2/2015 9:12,"Orlando, Florida",
+568758807418896385,desiree_d_h,0.6576,,,Emirates,#FirstClass to #London on my way to #LondonFashionWeek #LFW,0,,20/2/2015 5:07,houston paris nyc ,Central Time (US & Canada)
+569666455114903552,shannonwoodward,0.3505,Can't Tell,0.3505,Singapore Airlines,your gif game is strong.,0,,22/2/2015 17:14,"Los Angeles, CA",Arizona
+569915992303730689,sbanoub,1,Customer Service Issue,1,Emirates,been on the phone for over an hour with customer service and they can't figure it out! awesome service... NOT!,1,,23/2/2015 9:45,"ÜT: 34.078171,-118.285555",Pacific Time (US & Canada)
+567761193138671616,GainesJohnson,0.6458,Flight Booking Problems,0.3333,Qatar Airways,Flight Booking Problems a flight using credit from a previously Cancelled Flightled flight. Can't get thru on the phone and can't book online. Help please.,0,,17/2/2015 11:03,"Charlottesville, Virginia",Central Time (US & Canada)
+569567252363812864,helmsdanielle10,1,Customer Service Issue,1,Qatar Airways,your service in Philly is unacceptable. Look into better service a yr old shouldnt have a hard time http://t.co/WDAKTmrMj,0,,22/2/2015 10:39,,
+567823510245236739,karalynnholt,1,Customer Service Issue,1,Emirates,we showed up to our flight several hours early. Tried to call &amp; was on hold min b/f call disconnected.,1,,17/2/2015 15:10,San Antonio,Central Time (US & Canada)
+569468823625027586,seb749,0.6788,,0,Emirates,need help. Never got tickets. Conf #ggqzqd,0,,22/2/2015 4:08,,Eastern Time (US & Canada)
+567844852135645186,1MisterHandsome,0.617,,0,Emirates,"Some rd party service known as EZEE flights. A man, who confirmed he was born in India, told me his name was Steve Wilson.",0,,17/2/2015 16:35,,Atlantic Time (Canada)
+570256052966395906,user47,1,Customer Service Issue,1,Lufthansa,"Hey, friends. When I phone the A-list number your IVR hangs up on me. Multiple times. Not sure how to proceed?",0,,24/2/2015 8:16,"Lee's Summit, MO, @CityOfLS",Central Time (US & Canada)
+570024409630515202,bbuck22,1,,,Qatar Airways,I sent email to customer.relations.com. Will this work?,0,,23/2/2015 16:56,"Las Vegas, NV",Pacific Time (US & Canada)
+568241156347305984,itzryyo,0.6999,,,Singapore Airlines,"btw, her name was Samantha and she won over everyone on the flight",0,"[0.0, 0.0]",18/2/2015 18:50,,Eastern Time (US & Canada)
+570087510941962241,H00SIERB0Y,1,Cancelled Flight,1,Qantas,flight veers off icy runway at . Most DFW flights Cancelled Flighted Mon http://t.co/QpOWnuv figures right?,0,,23/2/2015 21:07,,Arizona
+568981498046623744,OneDNP,1,,,Lufthansa,Do you still offer discounts on seats for children under ? We would rather put him in a seat than in a lap!,0,,20/2/2015 19:52,"Kentucky, USA",Eastern Time (US & Canada)
+569880322487263232,DanaHFreeman,1,Late Flight,1,Emirates,Late Flight crew into #btv last nite delayed todays flt. Will miss connection to #cun. Why do I have to play for hotel tonight in #ewr?,0,,23/2/2015 7:23,"Burlington, Vermont",Eastern Time (US & Canada)
+570293142257311744,brittanylinnes,0.7015,,0,Lufthansa,. she needs a wheelchair at the gate for sure. What options does she have?,0,,24/2/2015 10:44,"New York, NY",Eastern Time (US & Canada)
+569260189486063616,erw12,1,,,Singapore Airlines,status of flight from MCO to LGA tomorrow?,0,,21/2/2015 14:19,,
+567772012735922176,ShiraJudah,1,Damaged Luggage,0.6735,Singapore Airlines,I just spoke to the baggage claim center and they gave me travel credit but will not be responsible for the cost of a,0,,17/2/2015 11:46,"Boston, MA",Greenland
+569975778953142272,cbratch67,1,Customer Service Issue,1,Qantas,Another customer non service from you. If we waited for you to solve the problem we would miss the funeral. You suck!,0,,23/2/2015 13:43,,
+567845953245413376,palmettoblossom,0.6307,,0,Emirates,"amazing flying over , miles on #UnitedAirlines &amp; alliance last year; still got jilted out of status! #moneyelsewhere",0,,17/2/2015 16:39,,
+569286569548320769,luko,1,Flight Attendant Complaints,0.3512,Emirates,you really do have a culture problem. Everyone I tried to work with blamed someone else or told me how they're short staffed,1,,21/2/2015 16:04,Pittsburgh,Quito
+569499788934291456,thowelliv,1,Cancelled Flight,1,Lufthansa,I start a new job tomorrow &amp; you Cancelled Flight my flight ( BWI-LAX) and you really can't get me on another flight today ?!,0,,22/2/2015 6:11,Baltimore,Central Time (US & Canada)
+569249493264289793,PalenMcDermott,1,,,Emirates,this flight has been amazing. This is the best flight I have ever been on I am not kidding. Service is INCREDIBLE!,0,,21/2/2015 13:37,,Eastern Time (US & Canada)
+568594646168948736,Danlarsonmpls,1,Can't Tell,0.6635,Qatar Airways,thank you for continuing to be the worst airline out. Didn't need that extra hour of sleep after hours of travel anyway,0,,19/2/2015 18:15,Twin Cities,
+569859213331189760,scottychadwick,1,Late Flight,0.6799,Emirates,day of this Saga maybe they'll finally make it home.Intentional or not it not gonna get them back there vacation days #badservice,0,,23/2/2015 5:59,,Eastern Time (US & Canada)
+568885556718907392,divvashi,0.6610000000000000,,0,Emirates,yes! I'll be sending an email to customer service today.,0,,20/2/2015 13:31,,Eastern Time (US & Canada)
+569906117100351493,Bank1960,1,Customer Service Issue,1,Qantas,"So much for Status, EP and . million miles. Revenue First class ticket and Im sitting in Coach thanks your rude CS staff",0,,23/2/2015 9:06,,
+568641342869544960,anewyorkminich,0.3548,,0,Singapore Airlines,you don't remember our date Monday night back to NYC? #heartbroken,0,,19/2/2015 21:20,manhattan. ,
+568976619089620992,callmekaitxo,0.6899,Customer Service Issue,0.6899,Emirates,I'm try to upgrade my seats to first class but the wait time on the phone is minutes... can you help?,1,,20/2/2015 19:32,O H I O,Arizona
+568829852721106944,pkneis0414,1,Bad Flight,0.6342,Lufthansa,very frustrated. Bought early bird at :am on day tickets were released and got mid-B ticket. Spend $ for nothing,0,,20/2/2015 9:49,,
+569143915405651968,MissMollyAas,1,Late Flight,0.3511,Qatar Airways,so disappointed. Least you could do is give us access to admirals club for an hour before our flight to our wedding!,0,,21/2/2015 6:37,"phoenix, AZ",Arizona
+568618050745864192,PeterSanto29,1,Late Flight,1,Lufthansa,Another delay. Wow,0,,19/2/2015 19:48,"boston, ma",Central Time (US & Canada)
+570257935911096320,towbinator,0.6725,,,Qantas,I'm sure they did. It's certainly chilly back East today!,0,,24/2/2015 8:24,United States of America,Eastern Time (US & Canada)
+568853588858023936,islandershf,0.7018,Late Flight,0.7018,Singapore Airlines,what is the reason for the delay,0,,20/2/2015 11:23,,Eastern Time (US & Canada)
+568640650129731585,anewyorkminich,0.68,,,Singapore Airlines,ugh always know a way to my heart,0,,19/2/2015 21:17,manhattan. ,
+569641676244791296,cwalshnews,1,Flight Attendant Complaints,0.6654,Qantas,why don't you have driver service to get employees to work in bad weather like hospitals etc #badmgmt #AmericanAirlines,0,,22/2/2015 15:35,,Pacific Time (US & Canada)
+568491460250742784,TheMikeSindt,0.6701,Can't Tell,0.6701,Qatar Airways,is probably losing a family of world travelers as customers due to broken processes. I hope you can fix it,0,,19/2/2015 11:25,"Scottsdale, AZ",
+568911851674836992,HCtwo,1,Lost Luggage,0.6842,Singapore Airlines,"looks like their inflatable car seats got left on the plane, so I guess they'll be back sometime!! #savethoseseats",0,,20/2/2015 15:15,The City of New York,Eastern Time (US & Canada)
+568072958821990400,tbat08,1,,,Lufthansa,pleasantly surprised to be boarding my flight on time this morning at . Good job!,0,,18/2/2015 7:42,"Nashville, tn ",Central Time (US & Canada)
+570028083606122497,LSlay19,1,,,Qantas,"thanks, me too",0,,23/2/2015 17:11,"NC by day, DC by night....",Quito
+569885605401915392,Bossman1908,0.6906,,0,Qantas,"I sent you a DM, can you please help.",0,,23/2/2015 7:44,Liverpool,
+570270166166183936,ElaineBBfan,0.67,,0,Lufthansa,Any idea when the winter advisory will be posted for ATL for tomorrow (/)?? I'd rather get to PHL tonight.,0,,24/2/2015 9:12,"Boston, Atlanta, or in-flight",Atlantic Time (Canada)
+568442965661761536,kzone7,1,,,Singapore Airlines,That's why I love JetBlue! #truebluememberlife,0,,19/2/2015 8:12,"Long Island, NY",Eastern Time (US & Canada)
+569660461601447936,Npatel3297,1,Customer Service Issue,0.3542,Emirates,thanks for making everyone wait in the dark for an hour while Newark tries to figure out which gate to go to. #incompetence,1,,22/2/2015 16:50,,
+569698949474291713,DJKHacker,1,Late Flight,0.6565,Emirates,many people on Ua are going to miss connections due to long wait time in SFO tarmac. Seriously u can't find an empty gate?,0,,22/2/2015 19:23,"Palo Alto, CA",Pacific Time (US & Canada)
+569666011147821057,AristidesPN,1,Can't Tell,0.3704,Singapore Airlines,well but for now the only thng we can do is wait for someone to explain us the situation with responsibility http://t.co/MLJaCpmch,0,,22/2/2015 17:12,"ÜT: 18.463449,-70.003608",Quito
+570234625848696833,AmieHCrawford,0.6917,,0,Qantas,yes I do I am traveling to Marsh Harbor,0,,24/2/2015 6:51,"Boston, MA",Eastern Time (US & Canada)
+567698031081160704,MarkKersten,1,Customer Service Issue,0.6963,Qatar Airways,. we have no choice but to pay another $ to go to the airport in the hopes that we will be treated better by a rep.,0,,17/2/2015 6:52,"London, UK",Quito
+570239297456091136,BlackeyeBandit,0.6623,,0,Singapore Airlines,just leave certain things to the kids.,0,,24/2/2015 7:10,l be where l'm at,London
+569931787398303744,pornobobbie,1,,,Qantas,THANK YOU FOR ALL THE HELP! :P You guys are the best. #americanairlines #americanair,0,,23/2/2015 10:48,"ÜT: 37.77581,-122.419796",Pacific Time (US & Canada)
+568992314296819712,KoolieAshSays,0.662,Flight Booking Problems,0.662,Singapore Airlines,why won't the site let me book tickets for nov for jfk to kin?,0,"[40.88539964, -73.85658056]",20/2/2015 20:35,"ÜT: 17.9889591,-76.7712636",Pacific Time (US & Canada)
+568533394402861056,haskinsmindy,1,,,Qatar Airways,can I bring a copy or photo of my baby's birth certificate for the flight? I feel uncomfortable traveling with the real thing.,0,,19/2/2015 14:11,"Phoenix, AZ, USA",Pacific Time (US & Canada)
+569229785500680192,aaronkurlander,1,Cancelled Flight,0.6452,EgyptAir,"why Cancelled Flight flight VX? One sec its delayed, on my to airport, the next its Cancelled Flightled?Gonna email or call me to reschedule?",0,,21/2/2015 12:18,"New York, NY",Eastern Time (US & Canada)
+568942857123336193,pax7877,1,,,Lufthansa,Ahah That is why I love SW(^^),0,,20/2/2015 17:18,,Hawaii
+569980415919853569,franciscogonima,1,Can't Tell,0.6660000000000000,Emirates,I used to be a committed #ContinentalAirlines flyer until merger. I remember now why I switched to #CommunicationFail,0,"[39.85790482, -104.67039013]",23/2/2015 14:01,"San Antonio, Texas",Central Time (US & Canada)
+569974705811107840,kanne822,0.6438,,0,Qantas,it was,0,,23/2/2015 13:38,"Gilbert, AZ",Arizona
+569587157574135808,danihampton,0.6888,Bad Flight,0.3499,Lufthansa,"&lt; &lt; RT ! Sorry to hear about the WiFi connection, Dani. Please DM us your conf # so we can help you. Thanks!",0,,22/2/2015 11:58,,Arizona
+569881453842042880,MeeestarCoke,1,Customer Service Issue,1,Qantas,I did set up notifications through AA &amp; Us airways. still nothing,0,,23/2/2015 7:28,BK,
+568542819788451841,jebus51881,1,,,Singapore Airlines,"st flight of the morning, flying with a toddler. Will the plane be heated to a comfortable temp before boarding starts. #ItsCold",0,,19/2/2015 14:49,"South Park, Pa",
+569760267485122560,JackieSeigel,1,Late Flight,0.6660000000000000,Qatar Airways,pls get me back to Tallahassee:( no one should ever have to be stranded in Gainesville for this long,0,,22/2/2015 23:26,,Central Time (US & Canada)
+569250085516681216,mcleanrs,1,,,Lufthansa,"I know where that is! Alas I live far, far away now. #Books",0,,21/2/2015 13:39,"Provo, Utah",Pacific Time (US & Canada)
+568629385105793024,SSal,0.6742,,0,EgyptAir,help. I was On Flight from JKF tonight. seat C left portfolio. Need it back!!,0,,19/2/2015 20:33,"Dutchess County, NY",Eastern Time (US & Canada)
+569903376583913472,The_BlueAnchor,0.6882,,,Qatar Airways,&amp; DFW to PSP thank you!,0,,23/2/2015 8:55,"Dallas, TX",Central Time (US & Canada)
+568585356586586113,Salem_Eways,1,,,Lufthansa,Jason () at Gate # in SAN made my afternoon!!! #southwestairlines #stellarservice #thanks!,0,,19/2/2015 17:38,,
+570292715444965377,alicizzle,0.6551,Cancelled Flight,0.3331,Qantas,narrowly made standby...lots of snags this trip!,0,,24/2/2015 10:42,MiniApple(s),
+569644766779936768,dailydebs,1,Late Flight,0.6563,Qatar Airways,not Cancelled Flightling # because you don't want to put us in a hotel for night is our guess,0,,22/2/2015 15:47,Indiana!,
+568894687911632896,ThomRegan,1,Lost Luggage,0.6756,Lufthansa,I filled in the form on the website too. Darn it all. I guess I'll just have to cross my fingers.,0,,20/2/2015 14:07,"USA, USA!",Eastern Time (US & Canada)
+568830614289252352,LRuns4Cupcakes,1,,,Emirates,DM sent.,0,,20/2/2015 9:52,NY,
+570185364746461184,CampOwl,1,Customer Service Issue,0.3443,Qantas,re-staff and commence new policies because your industry is so embarrassed by you.,0,,24/2/2015 3:35,Mitten,Guam
+569740739912949760,kathtrn,1,Flight Attendant Complaints,0.359,Qantas,MY FLIGHT # OUT OF CLL @ WON'T LET ME CHECK IN. PLEASE HELP. #IMPORTANTFLIGHT,0,,22/2/2015 22:09,,
+568895164577685504,GEOFFWOAD69,1,,,Lufthansa,LACMA on Fairfax.,0,,20/2/2015 14:09,,
+569347125575725057,kaylariley03,1,Cancelled Flight,0.6735,Lufthansa,been waiting for minutes on hold because yall Cancelled Flightled my return flight. Answer the phone!!!,0,,21/2/2015 20:05,,Eastern Time (US & Canada)
+570042296357539840,gcollingwood,1,,,Qantas,thanks!,0,,23/2/2015 18:07,"Atlanta, GA USA",
+570282347267895296,coromex97,1,Damaged Luggage,1,Lufthansa,I'm so upset that my luggage was damaged and the rude employee at the Laguardia airport didn't help!,0,,24/2/2015 10:01,,
+570277811795001344,ch00bee,1,Bad Flight,0.6842,Singapore Airlines,your wifi is a lie and i hate you,0,,24/2/2015 9:43,,Atlantic Time (Canada)
+570128633957736448,blueswingpark,1,Lost Luggage,1,Qantas,"after losing my bags for days&amp;charging me $ to""arrange pick up""in argentina,claiming tollfree: won't reimburse me. Help!",0,,23/2/2015 23:50,san francisco califorania,Pacific Time (US & Canada)
+569612307363266560,melmadetoday,1,Customer Service Issue,1,Qantas,not sure why I would bother when the agent at the airport didnt help &amp; nobody on phone would. Ticket Cancelled Flightled for no reason.,0,,22/2/2015 13:38,In the kitchen,
+568420497563598848,yippersNY,1,Customer Service Issue,1,Singapore Airlines,I have been on phone with rep for over min and was transferred after asking not to be. She was the worse rep I ever had,0,,19/2/2015 6:43,,
+569180531742486528,Shivener,1,Customer Service Issue,0.6545,Lufthansa,"On hold over hrs and got cutoff !Cancelled Flightled my flight, now can't get to booked cruise in Florida! Terrible customer service!",0,,21/2/2015 9:03,,Quito
+568800246433775617,Sinatra1979,1,,,Lufthansa,Thank You. We'll be in touch! #MoveAboutTheCountry,0,,20/2/2015 7:52,Ohio (by way of Nebraska),Eastern Time (US & Canada)
+568502112457510912,annieshgupta,1,,,Qatar Airways,"wanted to connect to discuss sponsorship opportunities with http://t.co/qXedzvhh, silicon valleys only day film festival",0,"[0.0, 0.0]",19/2/2015 12:07,Pune,Hawaii
+569931716049154051,roxymtjoy,1,,,Emirates,counter agents at RDU deserve a medal. #thankyou,0,,23/2/2015 10:48,Pittsburgh area,Eastern Time (US & Canada)
+569838589879685120,bartellpeter,1,Damaged Luggage,0.5193,Qantas,how do I see your report team?,0,,23/2/2015 4:38,,
+568140724618686464,CureFoodAllergy,0.6624,,0,Singapore Airlines,order (/),1,,18/2/2015 12:11,Boston,Eastern Time (US & Canada)
+568526386249351168,AgrippaInTheAir,1,Can't Tell,0.6682,Emirates,"Club DEN, East or West, both are disgusting. http://t.co/XijYrPsLZK",0,,19/2/2015 13:43,,
+568796551394549760,YourKindofSalad,1,Flight Attendant Complaints,0.3541,Qatar Airways,I respect the stress of a merger but one rep to reschedule/replane ppl who are already Late Flight? #youcandobetter,0,,20/2/2015 7:37,Cincinnati,Quito
+569154129362186240,cwgreiner,1,Cancelled Flight,1,Lufthansa,my flight is Cancelled Flightled due to weather. What next ?,0,,21/2/2015 7:18,,
+569920760522764288,chefpaulcia,1,Late Flight,1,Emirates,u would not be able to rebook me to get home any sooner than a now hr delayed flight. #linesforever #customerservice #fail #again,0,,23/2/2015 10:04,,Central Time (US & Canada)
+568274949275824128,ContentFac,1,Customer Service Issue,0.6642,Qatar Airways,"Been dealing w/ to solve the probs your team created. Your Manch, NH staff is clearly your C-team, btw. #NotEvenJV",0,,18/2/2015 21:04,"Pittsburgh, PA",Eastern Time (US & Canada)
+570025681062633472,lizzybethc,1,,,Qantas,"the dinner and called me ""hon"". Not the service I would expect from st class. #disappointed",0,,23/2/2015 17:01,"Seattle, WA",America/Los_Angeles
+569040346262282241,welshlinds,0.6872,,0,Qatar Airways,"landed at Phoenix, but we had to board a flight quickly to Vegas so no time at the airport. What now?",0,,20/2/2015 23:46,,
+568827568973066240,Bkgirl_VSL,0.6719,,,Singapore Airlines,totally would have.... but the outside view was even more camera ready haha #EvenMoreSpace #EvenMoreView http://t.co/dXuXDBfd,0,,20/2/2015 9:40,"Brooklyn, NY",
+569305113589714944,TheNotoriousLEX,0.6743,,0,EgyptAir,Having an issue finding a missing item on a plane. Can you help me find which airport my plane headed to next?,0,,21/2/2015 17:18,Chicago ,Central Time (US & Canada)
+569508903735545857,throthra,0.6989,Customer Service Issue,0.6989,Emirates,apparently sleeping in B terminal wasn't the worst situation. Someone told other UA passengers they had to sleep at baggage claim.,0,,22/2/2015 6:47,,
+569223447005433856,Tyler226,1,,,Lufthansa,Left my computer on the plane. Two weeks Late Flightr they found it and sent it to me. #greatservice. #happy #customer,1,,21/2/2015 11:53,"Beverly Hills, CA 90212",Pacific Time (US & Canada)
+569703263467126784,Matt_Fiorello,1,Can't Tell,0.6322,Qantas,better do the right thing and take care of or els you're losing business!!!!,0,,22/2/2015 19:40,,Quito
+569767473525862400,Immafun12,0.6922,,,Lufthansa,"#DestinationDragons Scavenger Hunt Vegas, BE READY!!! http://t.co/vHgkiTzSaw",0,,22/2/2015 23:55,Oregon,Alaska
+569973034880098304,skadott,1,Customer Service Issue,1,Qantas,"the best is your message saying to use website and your website is saying you need to call. If you don't answer, #hardtodo",0,,23/2/2015 13:32,"san marcos,ca",
+569800909942886400,cerbederb,1,Customer Service Issue,1,Qantas,love how you can't get an agent on the phone and the automated system hangs up on you,0,,23/2/2015 2:08,,
+569284223590232064,ColDigu,1,Cancelled Flight,0.631,Qatar Airways,won't even refund for a flight they Cancelled Flightled #horriblecustomerservice,0,,21/2/2015 15:55,"New York, NY",
+567900433542488064,ColeyGirouard,1,Cancelled Flight,1,Lufthansa,"I am scheduled for the morning, days after the fact, yes..not sure why my evening flight was the only one Cancelled Flightled",0,,17/2/2015 20:16,Washington D.C.,Atlantic Time (Canada)
+570257317859610624,crook_justin,1,longlines,0.6835,Lufthansa,flight FLL to ATL. My wife traveling with infant. Line to check baggage people long due to your computer system crash,0,,24/2/2015 8:21,Fort Lauderdale,
+568519360953716736,MikeWJZ,1,,,Lufthansa,Pres/CEO Gary Kelly at #TheRoFo addressing of his BWI based employees. http://t.co/OIuqtTZ,1,"[39.28859449, -76.61832385]",19/2/2015 13:15,schuhm@wjz.com,Eastern Time (US & Canada)
+569711632991047680,scottychadwick,1,Late Flight,0.6772,Emirates,yea they been booked on next avalible flights since sat am. And when time comes no plane nd day of work missed #hotelliving,0,,22/2/2015 20:13,,Eastern Time (US & Canada)
+568182544124014592,edgarsantana,1,Lost Luggage,0.8436,Singapore Airlines,I am heading to JFK now just on principle alone to deal w my lost &amp; damaged bag. #jetblue #jetbluesucks #jfk #badservice #fail,0,,18/2/2015 14:57,"ÜT: 40.96513,-73.872957",Eastern Time (US & Canada)
+568452676452806656,0504Traveller,0.6837,,,EgyptAir,Adds Pillows Instead of Lie-Flat Seats in First Class Arms Race http://t.co/SfjDuahxZ by,0,,19/2/2015 8:50,,Central Time (US & Canada)
+570000760035024896,jasemccarty,0.6701,Late Flight,0.6701,Qatar Airways,as far as being delayed goes Looks like tailwinds are going to make up for it. Good news!,0,,23/2/2015 15:22,BTR/DCA/IAD/MSY - etc,Central Time (US & Canada)
+567719005713334276,Champa24,1,Bad Flight,0.3476,Qatar Airways,great job today In ruining people's vacation. Thanks to your incompetent pilot and staff we have all now missed our flights,0,,17/2/2015 8:15,,
+569905773276307457,acnewsguy,1,Lost Luggage,0.6735,Qatar Airways,Another dead end. They only handle AA L&amp;F. They gave me the same failed # I already had. --() VM full. #lost,0,,23/2/2015 9:04,"New Haven, CT",Mountain Time (US & Canada)
+568778028773347329,jefftang1975,1,Customer Service Issue,0.6923,Emirates,I need assistance with pulling your agents' heads out of their asses,0,,20/2/2015 6:23,,Pacific Time (US & Canada)
+570084200235335680,worldwideweg,1,Customer Service Issue,0.6452,Qatar Airways,"I open the credit card and earn ,+ miles, and you wont' credit the miles to my account to restore the forfeited miles",0,,23/2/2015 20:53,,
+568410282298621952,chrisacoote,1,Damaged Luggage,0.6868,Qatar Airways,"I thought about moving a lot of business over too, but first impressions count.. Glad it was miles and not cash.",0,,19/2/2015 6:02,"West London, UK",
+569957240960094209,medictom,1,Can't Tell,0.6919,Emirates,Not a happy flyer. UA flight from SFO to Cleveland. Sunday /. Stay tuned for blog article from http://t.co/VdFdODqVGx,0,,23/2/2015 12:29,"Brunswick, Ohio",Eastern Time (US & Canada)
+569669669948424192,georgetietjen,0.6298,,,Qantas,I did hear a last call for boarding of this flight when I was at JFK a few hours ago. good luck w/flights!,0,,22/2/2015 17:26,,
+569307047285690369,majacgray,0.6571,Flight Booking Problems,0.3399,Emirates,"Well, to the degree that he could... Just to know, after this experience I'm Cancelled Flighting my miles card. Thank god for",0,,21/2/2015 17:25,"Brooklyn, NY",Eastern Time (US & Canada)
+569589955837628416,MysticlyClear,1,,,Lufthansa,I heard a rumor flight was Cancelled Flightled. Is this true?,0,,22/2/2015 12:10,Texas,Mountain Time (US & Canada)
+569555072067051520,countryguyusa,1,longlines,1,Qatar Airways,minutes and moved two feet in BZE. http://t.co/AwGjkjIIac,0,,22/2/2015 9:51,World,Eastern Time (US & Canada)
+567861975419457537,JackieFerrari3,1,,,Emirates,and they were traveling as guests of a mileage plus member using that members miles. Great customer service.,0,,17/2/2015 17:43,Irvine,
+567765558393700352,AndrewBarco1,0.6526,Late Flight,0.3579,Emirates,I just need to get to RIC tonight. I've been in EWR for hrs now.,0,,17/2/2015 11:20,Usually in a plane,Eastern Time (US & Canada)
+569364189753544705,bta7,1,,,Qatar Airways,in a few weeks,0,,21/2/2015 21:12,"Wauwatosa, WI ",Central Time (US & Canada)
+569162600237236224,Zortrium0,1,Flight Booking Problems,0.6774,Emirates,site errored out at last step of changing award. Now can't even pull up reservation. minute wait time. Thanks !,0,,21/2/2015 7:51,,Atlantic Time (Canada)
+568814251311288320,nanceebing,0.648,,,Qatar Airways,thanks is there a beareavement discount anymore or not should I just book online,0,,20/2/2015 8:47,south beach/ LA / NC,Eastern Time (US & Canada)
+567919301732098048,edraluk,0.6722,Bad Flight,0.3364,Emirates,dang... I thought I was in a teleportation device! Ua,0,,17/2/2015 21:31,"Brooklyn, New York",Eastern Time (US & Canada)
+568775130505207809,NYYash,1,Can't Tell,1,Singapore Airlines,"Inconvenience is an understatement. More like torture. Clearly going down the wrong path, JetBlue.",0,,20/2/2015 6:12,"New York City, NY",Atlantic Time (Canada)
+568806118660673536,katieclaytonn,1,Can't Tell,0.3404,Emirates,"yea, a refund. Your airline ruined our trip.",0,,20/2/2015 8:15,,Central Time (US & Canada)
+570291091204919297,pinkgolftees,0.6593,,0,Qatar Airways,that is certainly not the impression she's under.,0,,24/2/2015 10:36,"Denver, CO",Mountain Time (US & Canada)
+568531187481706496,livvyports16,1,,,Lufthansa,is there any way me &amp; my best friend could get tickets to #DestinationDragons ? they mean everything in the world to us.,1,,19/2/2015 14:02,,
+568527393754738688,ada_dog,1,,,Emirates,can i go #GolfUnited,0,,19/2/2015 13:47,,
+569674294411669504,galen_emery,0.6991,Flight Booking Problems,0.6991,Qantas,"looks like I have. Best I can hope for I guess. It's on us air, so I don't think I'll get miles on Alaska. Which sucks.",0,,22/2/2015 17:45,"Seattle, WA",Pacific Time (US & Canada)
+569675668524441600,BradMcMorris,1,,,Lufthansa,want go from New Orleans houston see my dad at md anderson can you help me out,0,,22/2/2015 17:50,"Colyell, Louisiana",Central Time (US & Canada)
+568160713170149376,Jeffrey_Hurley,0.6705,,0,Qatar Airways,thanks for giving away my seat. Another fine job! http://t.co/ribqrCYd,0,"[35.22123472, -80.93287633]",18/2/2015 13:30,"Winston Salem, NC",Eastern Time (US & Canada)
+570252044528959488,MyCustoAdvocate,1,,,Singapore Airlines,Airline trouble this winter &amp; not getting good customer service? contact http://t.co/aQjnHwNaC we negotiate resolutions for You!,0,,24/2/2015 8:00,"Miami, New York, Boston",
+568964945259466752,farms122,0.6596,,,Singapore Airlines,thanks!!,0,,20/2/2015 18:46,,Eastern Time (US & Canada)
+569960248548593665,RI_Mom,1,Bad Flight,0.7093,Lufthansa,why do you let one person board with early bird and save seats for entire party? #notcool #flight,0,,23/2/2015 12:41,,Eastern Time (US & Canada)
+569271561481531392,BekeAbe,0.6651,,0,Emirates,can I get your service desk # at IAD?,0,,21/2/2015 15:04,Gooner,Eastern Time (US & Canada)
+570244951914782721,PaulParz,0.6429,,0,Singapore Airlines,"you don't need to cut services, charge more and give a better flying experience. That's why I use jet blue in the first place",0,,24/2/2015 7:32,,
+568558887290441728,superhilarious,1,Bad Flight,0.6990000000000000,Singapore Airlines,:/ he was trying to take stuff from the under the seat in front of him and bugging out throughout the flight. Didn't feel safe.,0,,19/2/2015 15:52,,Central Time (US & Canada)
+569982023667838979,Soldier_Gomez,1,,,Lufthansa,How many tickets are left?,0,,23/2/2015 14:07,Las Vegas,Arizona
+568392783922372608,quackling,0.6871,,,EgyptAir,that doesn't look to fat to me! It looks yummy!,0,,19/2/2015 4:52,"Birmingham, Michigan",
+570079755560595456,SarahFoglia,0.6648,Cancelled Flight,0.6648,Qantas,My sister just received a call that her trip Wednesday (flts /) was Cancelled Flightled and resched to next day. Why?,0,,23/2/2015 20:36,"Tampa, Florida",Quito
+569607661655715841,0veranalyser,1,Cancelled Flight,1,Qantas,"flights been Cancelled Flightled, can't get through to the desk and nothing showing online under my reservation - what do I do?",0,,22/2/2015 13:20,,Perth
+569608141689753600,jakejrssherry,1,Customer Service Issue,1,Qatar Airways,the ads on your phone systems when waiting for a rep is the most annoying thing ever especially when waiting for over mins...,0,,22/2/2015 13:22,,Atlantic Time (Canada)
+568795139512127488,JayRockerz,1,,,EgyptAir,. They were very understanding and helped me out. Thx! #Comps,0,,20/2/2015 7:31,"39.149054,  -77.273589",Eastern Time (US & Canada)
+569621047353450496,JunkyardFiegs,1,Late Flight,1,Singapore Airlines,Third straight time that my flight has been delayed flying with you guys. This will be my last trip with you.,0,"[42.40805407, -88.62699707]",22/2/2015 14:13,,Central Time (US & Canada)
+569729072697352192,CourtneyyKay,1,Customer Service Issue,0.6533,Qatar Airways,it still says that I can't check into my flight because the information is incorrect but everything is entered correctly,0,,22/2/2015 21:22,Michigan ➡️ Florida,Eastern Time (US & Canada)
+569177868221202432,jaredmooreski,1,,,Singapore Airlines,ok thank you for the quick response JetBlue still the best comp,0,,21/2/2015 8:52,,
+569595595754639360,SchrierCar,1,Customer Service Issue,0.648,Qantas,"no hold times, just disconnections. There is no excuse for that",0,,22/2/2015 12:32,,
+568539903979446272,TyMcNeely,1,Customer Service Issue,0.68,Lufthansa,"Problem is, I wasn't issued a position until today at the gate. And no option to upgrade. Not good when you're '.",0,,19/2/2015 14:37,"Austin, TX",Central Time (US & Canada)
+570236690637459456,JohnCFitness,1,,,Qantas,simply amazing. Smiles for miles.Thank u for my upgrade tomorrow for ORD.We are spending a lot of time together next few weeks!,0,,24/2/2015 6:59,World Wide.,Pacific Time (US & Canada)
+570203037823836160,eatmyshorts2263,1,Can't Tell,0.6617,Qatar Airways,"two broken airplanes, two days Late Flightr and I'm stranded after a funeral and missing out on my last semester of #college.",0,,24/2/2015 4:46,Carmen SanDiego,Eastern Time (US & Canada)
+567855788699607040,unpredictaylor,0.6429,,0,Qatar Airways,I just hope that pilot had a good day off,0,,17/2/2015 17:19,,Atlantic Time (Canada)
+568803679018491904,josephpwilson,0.6875,Late Flight,0.6875,Emirates,. Nope - had to rebook through Houston so I could get to Amarillo before pm. Stuck in SFO for four hours.,0,,20/2/2015 8:05,"San Francisco, CA",
+568987648691449857,GoALDE,0.6907,,,Emirates,No thanks. Took care of it when I called,0,,20/2/2015 20:16,Wisconsin to Worldwide,Central Time (US & Canada)
+567856486950576128,MelJintheUSA,1,Customer Service Issue,0.6701,Qatar Airways,"I'm on the flight, finally in the air. Not enough food to feed customers. No movie or entertainment on a hr flight.",0,,17/2/2015 17:21,,Eastern Time (US & Canada)
+568964974611193858,Snow4meErika,1,Cancelled Flight,0.657,Emirates,"first you lost all my bags, now you Cancelled Flight my flight home. min wait to talk to somebody #poorservice #notgoodenough",2,,20/2/2015 18:46,,
+567729135733465088,itsjustdoc,1,Customer Service Issue,0.6275,Qatar Airways,thank you for blowing my vacation. Couldn't get me anywhere today to make my reservation and also lost bags of mine!,0,,17/2/2015 8:55,Ohio,Quito
+569664787946164224,vickie_frisbie,1,Can't Tell,0.6613,Qantas,we are through. I can quit you. I am. The nonsense &amp; lies are a colossal infringement you can no longer get away with,0,,22/2/2015 17:07,"Dallas, Texas",Mountain Time (US & Canada)
+569594402114392064,JasonPeppel,0.7021,Late Flight,0.7021,Qantas,what are my chances of making a connection to El Paso (AA) with DFW from SAT (AA) delayed minutes?,0,,22/2/2015 12:27,,
+570268646544510976,weezerandburnie,1,Flight Attendant Complaints,0.3475,Qantas,It is now going to be reported to the police due to the sexual assult sad that you didn't care,0,,24/2/2015 9:06,Belle MO,
+568570905690898432,MeYoItsMe,1,longlines,0.6632,Emirates,#NAME?,0,,19/2/2015 16:40,,
+569846963350454272,HaileyUrban,1,Customer Service Issue,0.3487,Qantas,a confirmed flight. I'm so done! Thanks for nothing!,0,,23/2/2015 5:11,,Alaska
+569489006955769856,scottcullen,1,Flight Booking Problems,0.6308,Qatar Airways,took me + hours to book flights yesterday due to system errors between you and . paid $ extra due to time lapse,0,,22/2/2015 5:28,,Quito
+570006301968867328,PhilipStafford,1,Can't Tell,1,Qantas,crew did the best they could but it was out of their control. You only get one chance of a honeymoon &amp; you failed miserably,0,,23/2/2015 15:44,"Tampa, Florida",
+569624909501984768,mathardin,1,Bad Flight,0.6508,Emirates,I'd rather spend two days in the back seat of a Volkswagen than two hours on your plane! #disgruntled #whatacluster,0,,22/2/2015 14:28,Corpus Christi,
+570084632999428096,marcmansfield,0.6988,Customer Service Issue,0.6988,Singapore Airlines,I spent an hour on the phone with customer service only to find out that they can't help. Need help with family pooling asap.,0,,23/2/2015 20:55,,
+568085636592349184,barneykelley,1,Late Flight,0.6701,Emirates,There is no excuse for leaving a minor to spend the night sobbing ( hours) in a plastic chair. UA's actions? Terrible. # united,0,,18/2/2015 8:32,"New Canaan, Ct",
+568511755040657409,richeyvicious,1,Customer Service Issue,0.6581,EgyptAir,"I spoke with a representative that offered no solution, I am a loyal customer who flies on as well",0,,19/2/2015 12:45,"LES, NYC",
+567814094678675458,super_marek,0.6484,Flight Booking Problems,0.3297,Emirates,so why did you Cancelled Flight tickets for thousands of people when you didn't like the exchange rate? #doublestandards,4,,17/2/2015 14:33,between Warsaw and London,London
+568784615877574656,carlostopeca,0.3685,,0,Lufthansa,save mile to visit family in and this will impact how many times I can see my mother. I planned and you change the rules,0,,20/2/2015 6:49,,
+569502753694691328,JayWogi,1,Customer Service Issue,1,Lufthansa,looks like you are up and running for the day. Still can't get through on the phone. Can you follow so I can dm you my info,0,,22/2/2015 6:23,"Houston, Texas",Central Time (US & Canada)
+570092210466611200,Onna_Del_Rey,1,Flight Booking Problems,0.6527,Qantas,"your online site doesn't have flights listed in chronological order, resulting in a mis-purchase. Anything that can be done?",0,,23/2/2015 21:25,"Cincity, ❤️hio",Eastern Time (US & Canada)
+569143946930196483,slimbucks23,1,Cancelled Flight,1,Lufthansa,thanks for the Cancelled Flightation today. Only airline that's Cancelled Flighted. Lost a customer today.,0,,21/2/2015 6:37,"Columbus, Ohio",
+567903883047088128,michaelhakimkan,1,Damaged Luggage,0.7113,Singapore Airlines,"ripped my suitcase. I then was yelled at with attitude from Geraldine, your employee at the baggage center.Worst airline= #jetblue",0,,17/2/2015 20:30,,
+568725453831315456,dstamberg,1,Lost Luggage,1,Emirates,what is going on with baggage claim in Newark!#tiredandwanttogohome,0,,20/2/2015 2:54,,
+570009008817500160,ollypop15,1,Customer Service Issue,1,Qantas,I bought a plane ticket months ago and still haven't received my flight info and ticket in my email when it will come?,0,,23/2/2015 15:55,,
+567875699056467968,husainhaqqani,1,Late Flight,0.6667,Qatar Airways,I'm sure you don't but question still remains why we only found out at . that crew won't come before . for . flt. Tks.,1,,17/2/2015 18:38,"Washington, DC",Eastern Time (US & Canada)
+570285904809598977,sjespers,1,,,EgyptAir,Thanks!,0,,24/2/2015 10:15,"San Francisco, CA",Pacific Time (US & Canada)
+570043591927537664,Amrutafrika,0.6749,Customer Service Issue,0.6749,Qantas,how do you refuse a customer who is willing to pay to upgrade when half of your first class is empty,0,,23/2/2015 18:12,,
+569272664344428545,Keels2515,1,Customer Service Issue,1,Emirates,rep wouldn't rebook. This is such a waste of time and poor communication,0,,21/2/2015 15:09,"Raleigh, NC",Eastern Time (US & Canada)
+570291813912858625,Guggero,1,Can't Tell,0.7071,Emirates,thats weak. See ya Hey !!,0,,24/2/2015 10:38,NYC,Eastern Time (US & Canada)
+569722230340333569,gochrisgo,1,,,Emirates,How do I get through to finally board UA ?,0,,22/2/2015 20:55,"Brooklyn, NY",Eastern Time (US & Canada)
+569944514137362432,thomashoward88,1,Bad Flight,1,Qatar Airways,"US then lost ground power three different times. Not only grounded endlessly; now without air, lights, entertainment.",0,,23/2/2015 11:38,,
+567765664459669504,gczark,1,Late Flight,0.6632,Singapore Airlines,", I normally you, but this Late Flightst flight experience was the worst. hours on runway, no wifi &amp; tv not working properly",0,,17/2/2015 11:20,"New York, NY",Eastern Time (US & Canada)
+569699437901000706,dgoot,0.6579,Customer Service Issue,0.3421,Qantas,not yet. I'm next in the terminal a customer service area.,0,,22/2/2015 19:25,"Boston, MA",Mountain Time (US & Canada)
+569945073611374592,momsgoodeats,0.6594,,0,Emirates,But I don't see AA,0,,23/2/2015 11:41,#Omaha ,Central Time (US & Canada)
+568460395544862720,ohrebeca,0.6559,Can't Tell,0.3430000000000000,Lufthansa,no flights to HRL :( is this a limited route?,0,,19/2/2015 9:21,"minneapolis, mn",Central Time (US & Canada)
+568116768868159488,LayneHillesland,0.6816,Flight Booking Problems,0.352,Qatar Airways,would you consider honoring the original fare price if I were to try Flight Booking Problems the ticket again?,0,,18/2/2015 10:36,,
+569918774788419584,jeffsberry,1,Customer Service Issue,1,Qantas,trying to speak with an agent about my flight to London tonight but can't get anyone from AA. Can you help?,0,,23/2/2015 9:56,,
+570302532955844608,Shpressyourself,1,,,Lufthansa,love them! Always get the best deals!,0,,24/2/2015 11:21,,Central Time (US & Canada)
+570275123854487552,CheerTymeDad,1,Customer Service Issue,0.3551,Emirates,Shame that there's no flex to tickets transfer rules. Even calling from Neurosurgery ICU isn't enough!,1,,24/2/2015 9:32,,
+568172170569887744,MikeFromRBLX,1,,,Emirates,How many s do you currently operate and what other aircraft do you operate?,0,,18/2/2015 14:16,roblox.com,Eastern Time (US & Canada)
+569639529805688832,jameswester,1,Customer Service Issue,1,Qantas,You guys are totally losing me. I've been an AA fan for years but telling me reps are busy and hanging up on me is really bad.,0,,22/2/2015 15:27,DFW,Central Time (US & Canada)
+568798045799784448,dpcahoon,1,,,Singapore Airlines,you guys rock!! http://t.co/LAzaoAY,0,,20/2/2015 7:43,"Cambridge, MA",Eastern Time (US & Canada)
+570048844702076930,MommyPR,1,Can't Tell,0.3723,Emirates,Been trying since to file a report.,0,,23/2/2015 18:33,Global,Pacific Time (US & Canada)
+569874150636048384,Amanda_Healy,0.6739,,0,Singapore Airlines,. That's what I planned on but Boston traffic due to recent weather was insane! If I had been expedited I would have made it.,0,"[0.0, 0.0]",23/2/2015 6:59,"Boston, MA",Eastern Time (US & Canada)
+567744842935980032,susanpaint,1,Cancelled Flight,1,Lufthansa,I need to request a refund on my flight that was Cancelled Flightled this morning due to the weather.,0,,17/2/2015 9:58,,
+568970344154836993,thatsmypotpie,1,,,Singapore Airlines,flight to Orlando.,0,,20/2/2015 19:07,Central Perk,Eastern Time (US & Canada)
+569423132240556033,tayeoman,1,,,Singapore Airlines,should I expect delays at dca for am departure? Going to Orlando on flight,0,,22/2/2015 1:07,"Dayton, Ohio",Eastern Time (US & Canada)
+570057601976631296,throthra,1,Damaged Luggage,1,Emirates,I received my luggage that also looked to be left in the snow when I arrived. I'm asking for all people to be refunded.,0,,23/2/2015 19:08,,
+567762670045364225,MsAmanRm103,1,Lost Luggage,1,Qatar Airways,Waiting for my luggage on flight . Is there a delay?,0,,17/2/2015 11:09,"Detroit, MI",
+570082420936052737,chuckbaker5,0.6898,Customer Service Issue,0.6898,Qatar Airways,not yet. But we will see shortly.,0,,23/2/2015 20:46,,
+567863197341847552,DubCook,0.6889,,0,Lufthansa,"Yeah, we figured it out. Thanks.",0,,17/2/2015 17:48,"Downtown Dallas, Texas",Central Time (US & Canada)
+568483591623208961,MajorPaayne,1,,,EgyptAir,i would like help with some flights please.,0,,19/2/2015 10:53,,Central Time (US & Canada)
+567725170367148034,juliadavis,1,Lost Luggage,1,Qatar Airways,"Yes, I filed a report in Atlanta. My bags are in Charlotte, NC. hours Late Flightr and still can't find my luggage ...",0,,17/2/2015 8:40,"Atlanta, Georgia",Eastern Time (US & Canada)
+568432328902610944,LisaTweetsa,1,Customer Service Issue,1,Singapore Airlines,Maybe stop telling people the wrong info on your customer service calls.,0,,19/2/2015 7:30,"New York, NY ",Quito
+569934395865493504,kyle_romanoff,1,,,EgyptAir,what happened to Doom?!,0,,23/2/2015 10:58,,
+569944182011379712,thomashoward88,1,Flight Attendant Complaints,1,Qatar Airways,"US pilot started the flight by announcing arrival into Gatwick, not Heathrow. Moments of concern for all aboard.",0,,23/2/2015 11:37,,
+570250617379168256,blueswingpark,1,Customer Service Issue,0.6914,Qantas,and it's not a inconvenience it is a disaster. It's A $ phone bill from you that you refuse to pay,0,,24/2/2015 7:55,san francisco califorania,Pacific Time (US & Canada)
+568150150289461249,wmrrock,0.6769,,0,EgyptAir,You should still develop an app - then you will be my favorite airline.,0,"[0.0, 0.0]",18/2/2015 12:48,CT,Eastern Time (US & Canada)
+569658878939410432,SouljaCoy,0.6315,,0,Qantas,"yep, they moved me to A as they showed me flying ""standby""",0,,22/2/2015 16:43,"Orange County, CA",Pacific Time (US & Canada)
+569417702764363776,tkyleus,1,Customer Service Issue,0.653,Qatar Airways,have been on hold for minutes - need help USAIR - why won't you help?,0,,22/2/2015 0:45,Boston Area,Eastern Time (US & Canada)
+569544955800264704,stealthmaestro,1,longlines,0.3333,Qatar Airways,", I know you're dealing with the weather, but is a hot mess. Pls send reinforcements",1,,22/2/2015 9:11,"Philadelphia, PA",Central Time (US & Canada)
+568533371602608128,NoviceFlyer,1,,,Emirates,can I access Frankfurt arrival lounge when I'm flying global first class?,0,,19/2/2015 14:11,"Tulsa, OK",Central Time (US & Canada)
+568194744574214144,MikeFromRBLX,1,,,Emirates,"Alright, thank you. Is there a page that says the routes you have for each aircraft? Specifically the .",0,,18/2/2015 15:45,roblox.com,Eastern Time (US & Canada)
+568533099908182016,NY_US,1,Lost Luggage,0.6735,Singapore Airlines,now we are waiting over an half hr for the packages. What's wrong with you guys?? http://t.co/wVGppYmz,0,,19/2/2015 14:10,NY NY,
+567873519356284928,JackieFerrari3,0.7223,,0,Emirates,"ORD to ROC. Fam came to see me at SNA. I'm a member, so is my dad. He used his miles for them.",0,,17/2/2015 18:29,Irvine,
+569913274218622977,KatieBLang,1,Cancelled Flight,1,Qantas,flight home Cancelled Flightled today. Any way we can get another flight to NYC from Texas? hour wait for a call back from airline,0,,23/2/2015 9:34,"Chicago, IL",Central Time (US & Canada)
+569857446371438592,wordnerd153,1,Customer Service Issue,0.7167,Qantas,Phone just disconnects if you stay on the line. Need to checkout of hotel in hrs &amp; have no place to go. Can't keep calling.,0,,23/2/2015 5:52,"Bellevue, WA",
+569194348375613441,drwebber,1,Late Flight,0.6667,Emirates,this is not true. Gate agents % caused this. And we're not helpful. Thanks for making me miss connection!! http://t.co/xAIzWisml,0,,21/2/2015 9:58,"Chicago, IL",
+569786249508048896,chuxtapose,0.6898,,,Singapore Airlines,"Happy for SFO, but hopefully you'll add PDX soon We added two new destinations (FLL and SFO) from Las Vegas in the last year!",0,,23/2/2015 1:10,Las Vegas,Pacific Time (US & Canada)
+569143406724837376,smallestnode,1,Late Flight,1,Emirates,your plane's been waiting at the Gate for two hours with all passengers onboard in their cramped seats. Yuck.,0,,21/2/2015 6:35,"Boston, MA",
+569207022597509120,Jason_Penix,1,Cancelled Flight,0.6885,Lufthansa,"I'm upset because we were lied to. Was told ice on runway, but EVERY other carrier was able to fly. Airport confirmed no ice!",0,,21/2/2015 10:48,Indiana...Our Indiana,Eastern Time (US & Canada)
+569892199690678272,GunsNDip,1,Late Flight,0.6882,EgyptAir,why must a traveler miss a flight to Late Flight check a bag? I missed my morning appointments and you lost my business. #sfolax,0,,23/2/2015 8:11,,Pacific Time (US & Canada)
+569651459152859137,toddliveonfire,1,Late Flight,0.6915,Qatar Airways,pilot for flight didn't show until after departure &amp; now there's a broken computer. Next time flying . #ALWAYSLate Flight,0,,22/2/2015 16:14,"H-Town Houston, Texas",Eastern Time (US & Canada)
+569232650965102592,c4pyro,1,Late Flight,0.6402,Emirates,of us are stranded And flying from New Orleans to Huston tonight and we will be stuck there for two days. Rather fly than wait.,0,,21/2/2015 12:30,,
+567726860638101504,mlipschits,1,Customer Service Issue,1,Emirates,why am i mot getting my refund?,0,,17/2/2015 8:46,Jerusalem-London-Antwerp,
+570256300556165122,CoryDauphin,1,Customer Service Issue,1,Qatar Airways,still on hold... hr mins....thank god for chairman status. status match ?,0,,24/2/2015 8:17,,
+569571829033144320,yogadeals,0.6736,Late Flight,0.6736,Singapore Airlines,I'm over that honestly just would like to get going on the journey.,0,,22/2/2015 10:58,nyc,Mountain Time (US & Canada)
+569512132494159872,Harrycookiv,1,Cancelled Flight,0.6526,Qatar Airways,been on hold hours for a Cancelled Flighted flight. I understand the delay. I don't understand you auto-reFlight Booking Problems me on TUESDAY. HELP!,0,"[39.52438256, -74.70144898]",22/2/2015 7:00,The Land of Twitter,Mountain Time (US & Canada)
+568752276040495104,kalenski,0.916,,0,Lufthansa,"If a travel advisory is posted for DEN, can I then make changes to my ticket? Anything I need to know before I call?",0,,20/2/2015 4:41,Denver,Mountain Time (US & Canada)
+568882014415249408,snellbell,1,Lost Luggage,1,EgyptAir,already contacted Central Baggage &amp; sent DM. is charging me for the dress that was in the lost suitcase #help,0,,20/2/2015 13:16,,Quito
+569379367077355520,AppAmy,1,Flight Attendant Complaints,0.6421,Emirates,Missing flight attendant = Delayed Flight. Prime example how person impacts 's of people. HNL -&gt; IAH (UA) #wastedtime,0,,21/2/2015 22:13,,
+569134266052816897,kylemostyn,1,Customer Service Issue,0.3796,Emirates,Will never fly with you again! Terrible service!! Ruined our entire vacation!! #lostsuitcase #noreimbursement,0,,21/2/2015 5:59,YYC,
+569936893166489600,maxfitgirl29,1,Can't Tell,0.7044,Qantas,now you're sending a gate agent to talk to us? Joke of an airline. Thanks for ruining my vacation. #neverflyAAagain,0,,23/2/2015 11:08,"Chicago, IL",Eastern Time (US & Canada)
+568768028831289344,tlrichmond,1,Customer Service Issue,0.3508,Singapore Airlines,Phone agents can't see same flights I see online??? Can't change tickets even when I am paying. Very frustrating #jetblue,0,,20/2/2015 5:43,,Atlantic Time (Canada)
+567863121479536641,FAiRChicago,1,,,Emirates,instead of Bourbon street how about #quiet #planes #SaveTheDiagonals,1,"[42.04836196, -87.74130154]",17/2/2015 17:48,"Chicago, IL",
+569652266006941698,JoanEisenstodt,1,Late Flight,0.654,Qatar Airways,"A tweeted apology is not enough for delay fiasco. NONE for insult from gate agent is worse. Except for Mark N., all bad at CLT.",0,,22/2/2015 16:17,"Washington, DC",Eastern Time (US & Canada)
+569621883282280448,kidith_paulino,1,,,Qantas,AA on time and awesome flight. Great job American!,0,"[25.79101279, -80.28861743]",22/2/2015 14:16,,Eastern Time (US & Canada)
+569903377598914562,EASmith_,1,,,Lufthansa,Glad to know I'll be flying the luv airline tomorrow ;),0,,23/2/2015 8:55,"Columbus, OH",Quito
+568136286109888512,tannapistolis,1,Lost Luggage,1,Qatar Airways,I've done everything. Still no luck in finding my bag. I don't understand how my bag could have been misplaced. Very upsetting.,0,,18/2/2015 11:53,,Eastern Time (US & Canada)
+570053736950685696,Q2wo,0.6594,,,Lufthansa,thanks!,0,,23/2/2015 18:52,,Pacific Time (US & Canada)
+568868928732028928,ScottKat22,0.662,,0,Qatar Airways,have scheduled flight Sat(morrow) CHO-CLT CHO needs to be added to weather advisory. Please evaluate asap.,0,,20/2/2015 12:24,,Eastern Time (US & Canada)
+569419949007085568,Whosgunz,0.6528,Can't Tell,0.6528,Emirates,nice. I wonder how you pick who to respond to? Maybe only happy customers are easier. I wonder how many of those you have left.,0,,22/2/2015 0:54,,
+569662418898579456,MariaJesusV,1,Customer Service Issue,0.6579,Qantas,Ive been on the line waiting for minutes again.,0,,22/2/2015 16:57,NYC,Santiago
+569172396680175616,jrdnly,1,Bad Flight,0.6727,Emirates,"on SFO-&gt;AUS UA /, ISJX; my seat appears to have had a mite problem. Dr recently confirmed over bug bites were mites",0,,21/2/2015 8:30,"iPhone: 50.079998,14.441111",Eastern Time (US & Canada)
+569883848470859776,RMauldin,1,,,Qantas,Any way that we could look at other options for today?,0,,23/2/2015 7:37,Texas,
+568273152456810496,aclaessen,0.6962,,0,Singapore Airlines,"im flying with you from mi-boston and then icelandair to iceland, hours between. can we check our bags all the way?",0,,18/2/2015 20:57,Hollywood,Pacific Time (US & Canada)
+570221471844278273,Dumas2TTG,1,Late Flight,0.3358,Qantas,": Good morning, Tamara. We'll try to get you comfortably on a flight as soon as we can.#NoXTraLegRoom #NoCoatCloset",0,,24/2/2015 5:59,,Arizona
+570236169310437376,ScottnearSMF,0.6667,,0,Lufthansa,Will Flight that arrives at E be a penguin plane?,0,,24/2/2015 6:57,,Pacific Time (US & Canada)
+570032949992800256,HDsportsguy,1,Lost Luggage,1,Lufthansa,"when I called I was told my bag had made it to PHL, but still has not been delivered or any call from the delivery service",0,,23/2/2015 17:30,,
+569295822006960128,jshieber,0.6529,,0,Qatar Airways,the plane crew has been as professional and courteous as the gate agents were flustered.,0,,21/2/2015 16:41,New York ,Beijing
+569740409787658240,daviddtwu,1,Late Flight,1,Qantas,Your agent sent our family on diff planes to dfw that were as Late Flight due to delay as the Cancelled Flighted plane that started this #fail,0,,22/2/2015 22:07,"dallas, TX",
+567858317831249920,mctrees02,0.7162,,,EgyptAir,now it's just t-minus minutes until my Elevate a Silver upgrade window opens . #FreeNeverSucks,0,,17/2/2015 17:29,"Dallas, TX",Central Time (US & Canada)
+568175537258156033,BernieCheersing,1,Can't Tell,1,Singapore Airlines,is the worst. I have to postpone my trip and they can't accommodate guests like #NeverAgain,0,,18/2/2015 14:29,Washington DC,Central Time (US & Canada)
+569490420356374528,sap_geek,0.6821,Bad Flight,0.6821,Emirates,The engineer that designed the door frame to extend half a foot into the plane for seat A should be forced to always sit here,0,,22/2/2015 5:34,,
+568958697856040961,SebastianAC,1,Cancelled Flight,0.6524,Lufthansa,I'm in line at the airport right now. Will you cover hotel fair or am I to sleep in the airport?,0,,20/2/2015 18:21,"Philadelphia, PA",Quito
+568177321724620800,GeorgeMcflyOG,1,Cancelled Flight,0.6629,Emirates,I think you guys had a half full flight at so you held our overbooked pm flight to fill the other one then Cancelled Flightled mine,0,,18/2/2015 14:36,NJ ,Eastern Time (US & Canada)
+569643388611330048,andrearothcraig,1,Customer Service Issue,1,Qantas,"no, not helped one bit. actually ended up driving home due to extreme disorganization and lack of communication.",0,,22/2/2015 15:42,"College Station, TX",Central Time (US & Canada)
+570075101326024704,siltonygonzalez,1,Can't Tell,0.6942,Qantas,"to add insult to injury, I have to go pick it up myself. Real class act! I'll stick the Delta from now on.",0,,23/2/2015 20:17,,
+569998019694866432,KvnLawrence11,0.3598,Can't Tell,0.3598,Singapore Airlines,: Our fleet's on fleek. http://t.co/iMrHIvyR Plz stop,0,,23/2/2015 15:11,Connecticut,Central Time (US & Canada)
+570306867878072320,TheTPVshow,1,Flight Attendant Complaints,1,Qantas,"aa employees were rude and unwilling to help. , miles is a rotten cherry on top of a dog shit Sunday. #nocareforcustomers",0,,24/2/2015 11:38,MN,Central Time (US & Canada)
+570059496300548096,williampseymour,1,Can't Tell,0.66,Singapore Airlines,absolutely no worries. I'm just never flying with you again. Ever. Even I have to hitch hike cross country #passengersarepeople,1,,23/2/2015 19:15,,
+569604208661409792,arthurhasher,1,Bad Flight,1,Singapore Airlines,You left PEOPLE on a hot plane with no ventilation for over an hour and a half and then had to bus them to JFK because of ....,0,,22/2/2015 13:06,Long Island - Arizona ,
+568567048801906688,changecollab,0.65,,,Emirates,thanks for the reply. I have been in contact with Customer Care to get clarification on this issue.,0,,19/2/2015 16:25,"Columbus, Ohio",
+569556697603280897,ERHinman,0.6837,Can't Tell,0.6837,Qatar Airways,No thank you. was responsive &amp; I found alternate travel home.,0,,22/2/2015 9:57,"Washington, DC",Eastern Time (US & Canada)
+568797800743313408,derwiki,1,,,Emirates,"how did you save the $ on checked snowboard? Trying to check in this morning, website wants $! (prem.gold)",0,,20/2/2015 7:42,san francisco,
+568946700791861248,El_Cinco_Cinco,1,Customer Service Issue,1,Lufthansa,well my mom called earlier and you guys had her on hold for close to an hour,0,,20/2/2015 17:33,,Pacific Time (US & Canada)
+567887623953457152,laurencecharles,1,Flight Attendant Complaints,0.3456,Qatar Airways,Only the JFK baggage office is open to help re-book all of us on Cancelled Flightled flight to DCA. Shameful.,0,,17/2/2015 19:25,"Washington, DC",Eastern Time (US & Canada)
+570290730796777473,AshleyKAtherton,0.6721,Late Flight,0.6721,Qatar Airways,standby so far for two of us. With snow storm hitting Iowa tomorrow we could be stuck here for two days.,0,,24/2/2015 10:34,,Central Time (US & Canada)
+568098677618683904,JCameronUSA,0.6442,Flight Booking Problems,0.3228,Singapore Airlines,Only middle seats. SFO -&gt; BOS. Not fun. She keeps getting $ credits. Would much rather have a working TV.,0,,18/2/2015 9:24,,Atlantic Time (Canada)
+570037961020080129,Ted_Bray,1,Lost Luggage,1,Emirates,"caught earlier flight to ORD. Gate checked bag, and you've lost it at O'Hare. original flight lands in minutes. #frustrating!",0,,23/2/2015 17:50,"Colorado Springs, Colorado USA",Mountain Time (US & Canada)
+569619330012463104,TravelWineSport,1,,,Qantas,Always love opening the upgrade email.,0,,22/2/2015 14:06,Trying to go everywhere!,
+568826365878730753,danieljsu,1,Cancelled Flight,1,Lufthansa,Cancelled Flighting flights minutes before takeoff &amp; sitting for min on the runway of the rescheduled flight #badservice,0,,20/2/2015 9:35,"San Francisco, CA",Pacific Time (US & Canada)
+569369239183872000,Boards707,1,Can't Tell,0.6630000000000000,EgyptAir,"congrats, you just got all my business from EWR to SFO/LAX. Fuck you fl SFO/EWR was the clincher...",0,,21/2/2015 21:32,"Belmar, NJ",Eastern Time (US & Canada)
+569860355746213893,JKlein126,1,Can't Tell,0.3780000000000000,Qatar Airways,you denied a mom her AM flight because she NEEDED her breast pumping parts on a full flight? Please FIX this ASAP!! #freeflight,4,,23/2/2015 6:04,,
+568419991030087681,DMakesCakes,0.6596,,,Singapore Airlines,ready to go to Disneyworld! For the #PrincessHalf http://t.co/sTQYV,0,,19/2/2015 6:41,"Queens, NY",
+570085859132878848,CineDrones,0.6661,Customer Service Issue,0.6661,Qantas,"So break whatever you want, take no responsibility..Too bad for customer? #media #filmcrew #nytimes",0,,23/2/2015 21:00,"Orlando, FL ",Eastern Time (US & Canada)
+568098769847218177,jpals32,1,,,Singapore Airlines,'s free wifi on board is the best thing that's happened since sliced bread,1,,18/2/2015 9:24,,Atlantic Time (Canada)
+570094701371469825,JCervantezzz,1,,,EgyptAir,Are the hours of operation for the Club at SFO that are posted online current?,0,,23/2/2015 21:35,"California, San Francisco",Pacific Time (US & Canada)
+570302337069264900,ryanshaw100,1,Customer Service Issue,0.6667,Lufthansa,Been on hold min so far trying to book seat for my infant. Price increased $ in meantime. What do I do?,0,,24/2/2015 11:20,"Chicago, IL",Central Time (US & Canada)
+570004247586013184,BrittanyWolgast,1,Customer Service Issue,0.6697,Emirates,I am signed up for notifications. This is the first trip I was not updated on. Not sure why this happened.,0,,23/2/2015 15:36,,Central Time (US & Canada)
+569603002278944768,stephane_vt,1,,,Singapore Airlines,love it as always!,0,,22/2/2015 13:01,"Port-au-Prince, NYC.",Quito
+568216286561374208,contimike,1,Bad Flight,1,EgyptAir,I am in seat C and I cannot even open my laptop; and I paid extra for this seat!!,0,,18/2/2015 17:11,"New York, sort of!",
+569839216512917504,thelyandre,1,Customer Service Issue,0.6707,Qantas,.If I miss saying goodbye to my friend cause of your crappy service I swear you will never hear the end of it.#AmericanAirlines,0,,23/2/2015 4:40,"Brooklyn, NY",
+569758414810849280,huskerjon00,1,Flight Booking Problems,0.3505,Emirates,"appreciate it, but changing time by min multiple times hours before flight is just annoying and seems like you have clue",1,,22/2/2015 23:19,,
+569939614175248384,Blacknificence,1,Late Flight,0.6709,Singapore Airlines,We didn't need this. RT : Our fleet's on fleek. http://t.co/cpZBo,0,,23/2/2015 11:19,Vuhginyah ,Central Time (US & Canada)
+569549401364029440,sgmacor,1,Cancelled Flight,1,Qatar Airways,"can you get me home to Syracuse? After Cancelled Flightled flights, one re routing three of us are sitting in Charlotte",0,,22/2/2015 9:28,Syracuse,Eastern Time (US & Canada)
+568645379031347200,Brian_Genest,0.6364,,0,Singapore Airlines,yup! He said there would be flight change fee. But the plane should be here in minutes apparently.,0,,19/2/2015 21:36,Maine,Eastern Time (US & Canada)
+569653415317413888,MosheStatman,1,Customer Service Issue,0.6955,Qatar Airways,#stuck in Florida with no flights... Service sucks here. #nofood #nodrinks #nohelp,0,,22/2/2015 16:22,,Atlantic Time (Canada)
+570216815105847296,oobunillaoo,0.6646,,0,Qantas,when will you be issuing a weather advisory for RDU?? the entire state of NC has shut down from the overnight winter storm.,0,,24/2/2015 5:40,usa::fr::uk,London
+569595399557685248,rcshore,1,Customer Service Issue,0.6579,Qantas,". nice know. I paid a seat. Then you sold my seat. now I bought a rd seat. It's a good scam, but a scam all the same.",0,,22/2/2015 12:31,"Washington, DC",Quito
+569920593597894657,_mhertz,1,Customer Service Issue,0.6906,Emirates,what a pointless tweet. At least asked me to follow them to try and resolve,1,,23/2/2015 10:03,,Pacific Time (US & Canada)
+570103908607135744,TweetyDave,0.6258,longlines,0.3217,Qantas,"If SNA curfew causes diversion, do you provide transportation from LAX? On AA now, pilot not sure if we have time.",0,,23/2/2015 22:12,,Central Time (US & Canada)
+569624021605740545,MityaFerenetz,1,Customer Service Issue,1,Qatar Airways,Seriously? I should keep trying after seven hours. That is your corporate policy? #usairwaysfail,1,,22/2/2015 14:25,,Atlantic Time (Canada)
+569475245708419072,meigheyburn,0.6931,,,Emirates,is it on a flight now? Thanks for reply.,0,,22/2/2015 4:34,"Akron, Ohio",Eastern Time (US & Canada)
+569262680965402624,joshanon,1,longlines,0.7057,Emirates,"appreciate the early arrival of UA, but any chance ORD will ever bring the bags out?",0,,21/2/2015 14:29,"San Francisco, CA",Pacific Time (US & Canada)
+568424307031805952,promitsanyal,1,Can't Tell,0.687,Emirates,that's what I have been told. But refund doesn't really makeup for the inconvenience caused and the missed meeting... Does it?,0,,19/2/2015 6:58,Bangalore,New Delhi
+568965774649520128,ThatJasonEaton,0.3477,Late Flight,0.3477,Singapore Airlines,I appreciate the speedy response. But the longer you delay the more inconvenience you put on your customers. Please nix change fee!,0,,20/2/2015 18:49,,
+570295901555699712,MeeestarCoke,0.6882,,,Qantas,thanks!!,0,,24/2/2015 10:55,BK,
+568037591687270400,kd35ftw1,0.3727,,0,Lufthansa,Not possible to carry-on and put in a closet/overhead? Had success doing that with other airlines. Thanks,0,,18/2/2015 5:21,,
+567767810655670272,DGomezPearlberg,1,Flight Attendant Complaints,1,Emirates,each flight is worse than last! flight attendants don't even know whether the plane is equipped with power outlets at the seats!,1,"[40.70773298, -74.17069948]",17/2/2015 11:29,NYC,Eastern Time (US & Canada)
+570281232287731712,djndc4l,1,Customer Service Issue,1,Qatar Airways,minutes on hold so far. And still haven't spoke to a human. Never using you again.,0,,24/2/2015 9:56,,
+569999076143423488,NRellas,0.6575,,,Qantas,amen!,0,,23/2/2015 15:15,Boston,Atlantic Time (Canada)
+567729904788054017,eguroff,1,Customer Service Issue,1,Lufthansa,"have you considered adding the ""we'll call you back when we have someone free"" feature to your support line?",0,,17/2/2015 8:58,"Nashville, TN",Central Time (US & Canada)
+567906248852533248,MindyPack,0.7132,Can't Tell,0.7132,Qatar Airways,your saving grace was our flight attendant Dallas who was amazing. wish he would transfer to Delta where I would see him again,0,,17/2/2015 20:39,"salt lake city, utah",
+570001601072652288,NewsTalkFm989,1,,,Singapore Airlines,? | RT : New airline expected to make its way to MEM http://t.co/GbdROlSI,0,,23/2/2015 15:25,Memphis (901-683-0989),Central Time (US & Canada)
+570212129313316864,elias_rubin,1,,,Singapore Airlines,I believe that the website said I could receive credit for upcoming flights since I Cancelled Flighted my last one. Is this true?,0,,24/2/2015 5:22,"New York, NY",Pacific Time (US & Canada)
+570268326250745856,hooton,0.6304,,0,Qantas,my flight to DFW from LIT on my way to PDX tomorrow was Cancelled Flighted. Can you help me?,0,,24/2/2015 9:05,"Little Rock, AR",Central Time (US & Canada)
+567892300551991296,cindycapo,1,,,Qatar Airways,"Awesome USAir, TYSVM &lt;",0,,17/2/2015 19:44,"IL,USA",Central America
+568560083103137793,whyyylie,1,Customer Service Issue,0.6697,Emirates,can you maybe have more than person working customer service desk in Houston airport? Line rows deep person working,0,,19/2/2015 15:57,,
+568464940367007744,VictoriaJacobs,1,,,Lufthansa,AMAZING c/s today by SW thank you SO very much. This is the reason we fly you #southwest,0,,19/2/2015 9:39,Barrie | Ontario | Canada,Eastern Time (US & Canada)
+567816155369570304,caphotographix,1,Late Flight,1,Emirates,flight UA been sitting on tarmac for mins with no report as to why...any input?,0,,17/2/2015 14:41,,
+569696449111461888,SmokeAdMirrors,1,,,Qantas,great flight experience again... SFO-JFK... Dare I say it? A consistent high quality on a legacy airline? Keep it up guys!,0,,22/2/2015 19:13,New York City,Atlantic Time (Canada)
+568439171028791297,katxc,1,Bad Flight,0.6762,Lufthansa,I paid for inflight wifi only for it not to work. Download speed was .mbps &amp; I ended up watching the free TV instead.,0,,19/2/2015 7:57,Chicago,Central Time (US & Canada)
+567792966690168832,stephyilmaz,1,Late Flight,1,Singapore Airlines,why are we delayed :( flight,0,"[40.64656067, -73.78334045]",17/2/2015 13:09,Long Island,Pacific Time (US & Canada)
+569102942088900608,evonleer,0.6622,Flight Booking Problems,0.6622,Qatar Airways,dealing w fam emergency. Was told was rebooked this am to AA flight out of ORD and now it's not in system. Need help ASAP.,0,,21/2/2015 3:54,"Washington, DC",
+569125558568783872,garycirlin,1,,,Emirates,will the kudos to capt. Herman be relayed to his chief pilot or should I be emailing someone?,0,,21/2/2015 5:24,NY,
+570109851709218816,Emily_VII,1,,,Emirates,you are one great airline,0,,23/2/2015 22:35,,Hawaii
+569359780491476992,mjfredricks259,1,Lost Luggage,1,Emirates,"my luggage is set to go to DCA however, I am rerouted to Dulles. Currently in NOLO however bags are in Houston. Can you fix this?",0,,21/2/2015 20:55,,
+568672467889176577,Kimberlinho,0.6882,Customer Service Issue,0.3548,Emirates,"thanks, I'm booked. Just spent an extra hrs in the TEN w/ no explanation. Now flying middle seat to CHAR instead of Memphis.",0,,19/2/2015 23:24,,
+570299824760860672,COVRTER,1,,,Qantas,"Great, thanks. Followed.",0,"[37.78618135, -122.45742542]",24/2/2015 11:10,"SF, CA",Central Time (US & Canada)
+569753041420865536,The5y5Adm1n,1,,,Emirates,In Ethiopia adopting a child. Need flight home from ADD to GRR Late Flight / or very early /. (need to change existing reservation),0,,22/2/2015 22:58,,
+569886516505407488,cumulusmind,1,Customer Service Issue,1,Qantas,#NAME?,0,,23/2/2015 7:48,Everywhere ,Mountain Time (US & Canada)
+570274049118625792,bmorechi,1,Bad Flight,0.3542,Lufthansa,"had to let us off the plane bc the toilets done even work! There goes my family vacay to playa del Carmen, Mexico! #neveragain",0,,24/2/2015 9:28,Chicago,Central Time (US & Canada)
+570267608773054464,susqhb,1,Cancelled Flight,1,Qantas,I understand. But why is this the only flight of the day not going out? Twice?! I'm now out of extra meds and diapers for baby.,0,,24/2/2015 9:02,Dallas via NYC via the OC,Central Time (US & Canada)
+567813037454917632,VisionRoij,1,,,Emirates,"from amsterdam to ewr, .., -.",0,,17/2/2015 14:29,The Netherlands,Amsterdam
+570294237348143104,idk_but_youtube,1,,,Qatar Airways,did you know that suicide is the second leading cause of death among teens -,0,,24/2/2015 10:48,1/1 loner squad,Eastern Time (US & Canada)
+569775795452792833,dkar84,0.6667,,,Qantas,can you use the aa credit platinum select world mastercard for Alaska flights? Or just american?,0,,23/2/2015 0:28,"Renton, WA",
+569184999900995585,NosihtamInc,1,Customer Service Issue,1,Emirates,once again your lack of customer service astounds me! You are the worst airline in the history of airlines! Train your staff!,1,,21/2/2015 9:20,"Winnipeg, Manitoba",Central Time (US & Canada)
+567783187901915136,elianak27,0.6277,,,Lufthansa,employees spreading a bit of #MardiGras cheer at : this morning in Atlanta #NFTYConvention http://t.co/ttbtYIlo,1,,17/2/2015 12:30,,
+568841522663329793,capgaznews,0.6476,,,Lufthansa,'s CEO Kelly draws record crowd to Business Partnership breakfast http://t.co/CVbaolcBl http://t.co/wTapXA,0,,20/2/2015 10:36,"Annapolis, MD USA",Eastern Time (US & Canada)
+569678544869199872,larrylarry,1,Customer Service Issue,1,Qantas,that's the number I called -it wouldn't let me speak to an agent because of the issues with weather today,0,,22/2/2015 18:02,Toronto,Eastern Time (US & Canada)
+569275249725870080,goodchrism,1,Lost Luggage,1,Lufthansa,lost bag on flight to Vegas. Now to El Paso. Going to Dallas love. Gate attendant said see if can coordinate to get it to Love,0,,21/2/2015 15:19,"Boston, MA",Eastern Time (US & Canada)
+567925957090238464,fispahani,0.6677,Late Flight,0.6677,Qatar Airways,Thanks. : Weather disruptions have caused some of our crew to run Late Flight. We're sorry for the delay to your flight.,1,,17/2/2015 21:57,"Washington, DC",Islamabad
+569939932191559680,LonSoCal,0.3505,,0,Singapore Airlines,lol the fleet on fleek... i see yall ballin... new jets on deck..,0,,23/2/2015 11:20, Tally,Eastern Time (US & Canada)
+569975126659342336,evlev1,1,Customer Service Issue,0.6704,Qantas,there's an employee at gate of JFK telling people their bag doesn't fit and needs to be checked when it clearly fits #AA,0,,23/2/2015 13:40,CHI/ATX,Central Time (US & Canada)
+568160511264571392,mybadtequila,0.6848,Customer Service Issue,0.3478,Lufthansa,"pls help me get this resolved &amp; reimbursement made. gracias, rico; pls send me private msg with phone number or email address",0,,18/2/2015 13:29,"Scottsdale, AZ",Mountain Time (US & Canada)
+569577548318777345,bashomosko,1,Cancelled Flight,1,Lufthansa,. thx for the note. Flight was Cancelled Flightled and today is all booked so had to go with another carrier. :(,0,,22/2/2015 11:20,"boulder, co",Pacific Time (US & Canada)
+569617019257151488,BUlizard,1,Customer Service Issue,0.6856,Emirates,and I was denied an upgrade because of catering issues??? #poorservice,0,,22/2/2015 13:57,,
+569683741779599361,horacioguapo,1,Customer Service Issue,1,Lufthansa,but to make us tru to find space in other flights. This customer service is as bad as .,0,,22/2/2015 18:22,,
+567757851104641024,BlessedEpiphany,0.6955,Can't Tell,0.3531,Qatar Airways,best u could do-I might get my refund within billing cycles. Months of u guys asking for another chance. I'm done,0,,17/2/2015 10:49,"Dallas, TX by way of Tampa, FL",America/Chicago
+569610542723309568,FvGrecia,1,Flight Booking Problems,0.6768,Qatar Airways,I tried reaching out to you guys I'm running out time and patience I just want my flight to be honor and I want a confirmation!,0,,22/2/2015 13:31,,
+569635389289459712,gtotheoff,1,Can't Tell,0.3684,Emirates,". hours, gates, and planes Late Flightr still not an update, explanation, or apology to be had. #WorstAirlineEver #UnitedAirlines",1,,22/2/2015 15:10,,Central Time (US & Canada)
+568659661861175297,sigilgoat,1,,,Emirates,"i got it at the gate, thanks for checking!",0,,19/2/2015 22:33,fuckin portland ass oregon,Eastern Time (US & Canada)
+567851359178989568,caphotographix,1,Late Flight,1,Emirates,"time for a rant...you delayed my flight and still forgot my luggage...then delayed on the Tarmac, moments I love you United",0,,17/2/2015 17:01,,
+569851855917830145,ArtieFitchie,1,Customer Service Issue,1,Qantas,"Its the ABC's of PR, let your customers have the most info possible. Might want to go brush up on the basics...",0,,23/2/2015 5:30,Memphis,Central Time (US & Canada)
+569320520728113152,laacyyy,1,,,Singapore Airlines,thanks so much. Can't wait to fly with you guys :),0,,21/2/2015 18:19,New Jersey,Quito
+569691489179021312,jillianfitzger1,1,,,Singapore Airlines,I do! The best airline wifi ever. Thank you!,0,,22/2/2015 18:53,,
+568238379847921665,yancey_jake,1,,,Lufthansa,- Great flight from Phoenix to Dallas tonight!Great service and ON TIME! Makes very happy! http://t.co/TkVCMhbPim,0,,18/2/2015 18:39,,
+570046633418891264,vickyyp__,1,Late Flight,0.7192,Qantas,I was suppose to be in FL hours ago. And I'm not. I've been waiting for hours this is just ridiculous,0,"[41.95627333, -87.87860345]",23/2/2015 18:24,,Alaska
+567761267826651139,SSest72,1,Flight Attendant Complaints,0.6404,Emirates,"she has crossed prior times with other carriers and no issue. Karen was rude, untrained and unhelpful I also spoke",0,,17/2/2015 11:03,,
+569941647884029952,maxfitgirl29,0.6391,,0,Qantas,Thank you. It's much appreciated. We have been on the plane for min now at the gate.,0,,23/2/2015 11:27,"Chicago, IL",Eastern Time (US & Canada)
+569910053249142785,cumulusmind,1,Cancelled Flight,0.7019,Qantas,"Retrain in Customer Service first, make proper adjustments when Cancelled Flightling flights. Own up to your Mistakes.",0,,23/2/2015 9:21,Everywhere ,Mountain Time (US & Canada)
+567814010914222080,ProfessorpaUL15,1,Customer Service Issue,0.6680000000000000,Singapore Airlines,#NAME?,0,"[42.36604659, -71.01573889]",17/2/2015 14:33,,Atlantic Time (Canada)
+568572344056180737,adavidson26,0.6673,,,EgyptAir,is my new go to airline,0,,19/2/2015 16:46,Bay Area,Pacific Time (US & Canada)
+569804677472251904,Kwilusz1,0.6543,Late Flight,0.6543,Emirates,Morning! has been delayed by hours. Can you get me to Newark for my am meeting?,0,,23/2/2015 2:23,,Quito
+569604041141039104,HybridMovementC,1,,,Qatar Airways,Mad love http://t.co/ojrSDWPkK NYC-,0,,22/2/2015 13:06,"everywhere, all the time.",
+569257818789978113,KristinMcNeil,1,,,Emirates,thank you for compensating us for our lost bags. We will fly with you again! #UnitedAirlines,0,,21/2/2015 14:10,"Minnesota, USA",Central Time (US & Canada)
+569256374011428866,beekaytulsa,1,Customer Service Issue,1,Qatar Airways,"I was told a ""return call"" by a human",0,,21/2/2015 14:04,Flyover country,Central Time (US & Canada)
+569924679206457344,CravenMorhead,0.6726,,0,Lufthansa,"easy fix, let the business select actually board st, then board the pre-boards...",0,,23/2/2015 10:20,,Mountain Time (US & Canada)
+568178240101191681,GeorgeMcflyOG,1,Late Flight,1,Emirates,I will be patient in my luxurious middle seat on my next delayed flight,0,,18/2/2015 14:40,NJ ,Eastern Time (US & Canada)
+568950706008231936,elbrooklyntaco,0.6481,Flight Attendant Complaints,0.3351,Emirates,"unsmiling rep. told us hotel shuttle comes ""like every minutes."" Breezy min. Late Flightr we're taking a cab. You going to reimburse?",1,,20/2/2015 17:49,,
+569584431544971264,JoshuaWaldorf,0.6747,,0,Lufthansa,how can I check to see if my flight to NYC is expected to be delayed or Cancelled Flightled for this Tuesday?,0,,22/2/2015 11:48,Texas,Central Time (US & Canada)
+570021301223604224,MenloZZPest,1,,,Qatar Airways,Hi-i have a travel question. Could you please follow me so i can dm you?,0,,23/2/2015 16:44,,
+569692982955237377,andresfreyesp,1,Cancelled Flight,0.698,Qantas,"I have been trying to speak with an agent the whole day about my Cancelled Flightled flight, what I can do?",0,,22/2/2015 18:59,,Canberra
+568878244331696128,andiecrombie,0.6777,,,Lufthansa,get me on flight to denver and I'll be more than happy !!!!!,0,,20/2/2015 13:01,Dirty South Jerz,Eastern Time (US & Canada)
+567747769176432640,cnichols9,1,Cancelled Flight,0.6474,Qatar Airways,Travelling from pwm to atl on Sunday That flight got Cancelled Flightled and my new flight is Cancelled Flightled and got disconnected when reFlight Booking Problems,0,,17/2/2015 10:09,Georgia,
+568622422309482496,sick_beat_swift,0.7172,,,Lufthansa,"I love imagine dragons o flipping much, pls #DestinationDragons",0,,19/2/2015 20:05,,
+569356513061556225,brynyc,1,Customer Service Issue,1,Qatar Airways,"I have fam thats supposed to fly / that are currently in the hosp. trys to speak to a human, yr phone sys cuts off. pls hlp!",0,,21/2/2015 20:42,,
+567733834964156417,Darshan7Patel,1,Customer Service Issue,1,Singapore Airlines,I do not want to deal with your customer service agents with no practical knowledge.Provide me with a direct contact.,0,,17/2/2015 9:14,,
+569668637369491458,ProConPartners,0.6598,,0,Qantas,Both pictures taken at the same time but which is right? #totallyconfused http://t.co/dvSLtQZKmQ,0,,22/2/2015 17:22,UK,
+569891469210755074,joeyrenagade,1,,,EgyptAir,check out new music http://t.co/maRcnOCWzn,0,,23/2/2015 8:08,Greater Los Angeles,
+569316516321202176,jenniferlyell,0.6569,Flight Booking Problems,0.3317,Qatar Airways,"I need help. In air on # to CLT from PHL. Conf: DMQF Need confirmed on # to BNA at :. Been bumped all day, need home",0,,21/2/2015 18:03,"Nashville, TN",Central Time (US & Canada)
+569956115724660736,juangarcia202,1,Lost Luggage,1,Emirates,"Heads up We didn't check bags, we checked arrived, those aren't claim #s for our . Other people's bags? http://t.co/dplQmhQGD",0,"[19.43493094, -99.18877967]",23/2/2015 12:25,Mexico City,
+569252801802592256,PalenMcDermott,1,,,Emirates,I JUST ASKED MY BOYFRIEND TO PROM OVER THE LOUDSPEAKER ON FLIGHT HE SAID YES!!!! BEST DAY EVER!!! THANK U SO MUCH!!!!!!,0,,21/2/2015 13:50,,Eastern Time (US & Canada)
+568897700315435008,MikeSelesky,1,,,Qatar Airways,How do I redeem my pass to the admirals club? I have free visit with my barclay card membership. And can I bring a companion?,0,,20/2/2015 14:19,,
+568140628959358976,Imagine_Sloom,0.6632,,,Lufthansa,lol I'm sorry I'm just seeing this now but LAUREN OH MY GOD AHHHH,0,,18/2/2015 12:10,MA,Eastern Time (US & Canada)
+569180541662027779,amyvenezia,1,,,Lufthansa,Thank u Thank u Thank u for coming through for us! I sincerely didn't think it would happen. &lt; #SWA #THANKYOU,0,,21/2/2015 9:03,The Universe,Pacific Time (US & Canada)
+569890651107491840,EricDoSomeGood,0.6633,,0,Qantas,"two were non revs, right?",0,,23/2/2015 8:04,"Portland, Oregon",
+569373336922230784,AndyLeeEsq,1,Late Flight,0.6845,Qatar Airways,delayed depart bc ur flight attendant wasn't there. Then after landing took hrs to get a gate. Now it's another he and NO bags,0,,21/2/2015 21:49,,
+568986491608834048,callmekaitxo,0.6667,,0,Emirates,you need to follow me so I can dm you to give you the info,0,,20/2/2015 20:12,O H I O,Arizona
+568483386580439040,geekstiel,0.6584,,,Lufthansa,do you have a pair of tickets to the show in Atlanta?! I'd love to go! #DestinationDragons,0,,19/2/2015 10:52,,Atlantic Time (Canada)
+570244711388065793,tuckerI84,1,Customer Service Issue,0.6669,Emirates,how do I get my account number if your website says email is unavailable?,0,,24/2/2015 7:31,NYC,
+569876171875328000,HeidiJern,0.6771,Late Flight,0.6771,Emirates,"thanks for the link, now finally arrived in Brussels, h after schedule...",0,,23/2/2015 7:07,Brussels,
+568470507433168896,slevine17,0.6259,,,Singapore Airlines,Ever consider coming to Memphis? Need some TrueBlue service and fares badly!!,0,,19/2/2015 10:01,,
+569668488408616960,tomlongphd,0.6566,Late Flight,0.3535,Emirates,"Appreciated, but in this case we waited an extra minutes for a lost mechanic to fax the log. Fax...like in the s.",0,,22/2/2015 17:22,Mexico City,Eastern Time (US & Canada)
+568234162638999552,CAVHkraMriA,1,,,Qatar Airways,landed safely everything worked out.,0,,18/2/2015 18:22,,Eastern Time (US & Canada)
+568785867743105024,redsox223,0.6316,,0,Singapore Airlines,I hope so. The plane does appear to be leaving a nearby terminal for our gate.,0,,20/2/2015 6:54,,
+569203010410119168,hadAbadWeek,0.3469,Can't Tell,0.3469,Emirates,is to airlines as is to cable/internet,0,,21/2/2015 10:32,,
+568449323895275520,akadish,1,Late Flight,1,Qatar Airways,any updates on flight from Philly to LA? Been sitting at gate for close to hours,0,,19/2/2015 8:37,"ÜT: 39.041902,-77.099677",
+569204914649489408,Tweeter_mom_,1,Can't Tell,0.3498,Lufthansa,Bad enough that there is no seat assigned he's seating at an exit seat and a male flight attendant removes him from there,0,,21/2/2015 10:40,Florida,Eastern Time (US & Canada)
+569903191279710208,ezemanalyst,0.6864,Can't Tell,0.3523,Qantas,refund,0,,23/2/2015 8:54,,
+568139299021041664,angeladoheny26,0.6731,Cancelled Flight,0.6731,Lufthansa,bad weather and multiple Cancelled Flighted flights has us all scared! Noted for next time.,0,,18/2/2015 12:05,,
+568890017365561344,jeeden_1,0.688,,0,Emirates,"uhuh.Group trying to get out of Nashville and into IAD today instead of tomorrow,why be preemptive though... https://t.co/yBvxaowKv",0,,20/2/2015 13:48,"Purcellville, VA",
+568100987887427584,babyluv590,1,,,Lufthansa,"sure,I'll send a message now!",0,,18/2/2015 9:33,murfreesboro,Pacific Time (US & Canada)
+570213762948567040,sflcn,0.6439,,,Singapore Airlines,Offering Special Fares to http://t.co/MBcEhCSZX http://t.co/ZmjkAlZl,1,,24/2/2015 5:28,South Florida,Eastern Time (US & Canada)
+569015379021795328,scottydont11,1,Late Flight,0.6667,Qatar Airways,...YOU ARE DESPICABLE! The flight plan was lost! Now we've been sitting on the tarmac for an hour! Its a min flight!,0,,20/2/2015 22:06,"El Paso, TX",Mountain Time (US & Canada)
+568385950486802432,a_lichtenfels,0.6832,,,Lufthansa,I think me and my group could use some nice cold drinks once we get in the air...we are all over,0,,19/2/2015 4:25,,
+568832749093687296,Mammothchowder,1,,,Emirates,I think this is the best first class I have ever gotten!! Denver to LAX and it's wonderful!!!,0,,20/2/2015 10:01,Mammoth Lakes ,
+570301488192458752,skgiffard,1,Customer Service Issue,1,Qantas,. can you connect me to a person without having to wait + hours on hold? I still haven't been able to resolve the problem.,0,,24/2/2015 11:17,"Boston, MA",Eastern Time (US & Canada)
+568482168021917697,mattdole24,0.6539,,0,Qatar Airways,even airlines are scheming to get a follow from OBJ LMAOOO,0,,19/2/2015 10:48,,Quito
+570299953286942721,dhepburn,0.6559,,,EgyptAir,"Well, I didn'tbut NOW I DO! :-D",0,,24/2/2015 11:11,San Diego,Pacific Time (US & Canada)
+569325844931448832,FalconjcJohn,1,Late Flight,0.6509,Qatar Airways,Never mind that you could have told the gate I was on my way - you could delay mins but not ?,0,,21/2/2015 18:40,,
+570153610870456321,fuzzygoats,0.6692,Bad Flight,0.6692,Qantas,Thank you for the acknowledgement. The IFE didn't work all that well anyway so maybe time to upgrade to lower profile system.,0,,24/2/2015 1:29,Tucson,Arizona
+569643614113918976,MattWalter13,1,Cancelled Flight,1,Qantas,Cancelled Flightled? Can't get out for two days? No explanation?,0,,22/2/2015 15:43,,
+569932669288652800,CaroDavis2012,1,,,Emirates,great to hear Thankyou so much. Greatly appreciate your replies. Feel much more settled now.,0,,23/2/2015 10:51,Scotland,
+567770993159307264,RWMann,1,,,Emirates,"Thanks, ^KP. Please also mention the Quiche breakfast and Tandoori chicken dinner entrees and accompaniments are truly First Class.",0,,17/2/2015 11:42,"Port Washington, NY 11050",Eastern Time (US & Canada)
+569526800767983616,AdamDonkus,1,Cancelled Flight,0.6871,Emirates,you really need a better system for handling Cancelled Flightled flights http://t.co/uBCoAsyws,0,,22/2/2015 7:59,"Bechtelsville, PA",Eastern Time (US & Canada)
+569626585365671938,nbhdsheila,1,Cancelled Flight,0.6730000000000000,Emirates,"my flight was already Cancelled Flightled this morning because of a ""snow storm in Denver"". And now I'm in DC waiting for a pilot to get on+",0,,22/2/2015 14:35,Boston,Eastern Time (US & Canada)
+568474866753667072,MissMcB76,1,Can't Tell,0.6578,Emirates,I have been denied. Not sure how you charge $ one way then $ on way hime,0,,19/2/2015 10:19,PA,
+569771576528220161,PiersDenney,1,Can't Tell,0.6518,Qantas,No it isn't - sheer incompetence was reigning at DFW today. I was there. On a plane on the GD runway. I doubt you were.,0,,23/2/2015 0:11,"Kansas City, MO USA",Central Time (US & Canada)
+570276414567493633,jkordyback,1,Customer Service Issue,0.3394,Qantas,robocalls me with another Cancelled Flightation. And then when I dont accept the change it wont let me connect to an agent. Just wow.,0,,24/2/2015 9:37,"North Saanich, BC",Pacific Time (US & Canada)
+567867483622748160,Analystdoc,1,Customer Service Issue,0.654,Singapore Airlines,: Unfortunately that's not an available option with our current system. Sorry guys. That's a certain #fail Fix it plz.,0,,17/2/2015 18:05,"Greenwich, CT",
+568564799593820161,Czone12,1,Customer Service Issue,1,Emirates,"thanks for trying to take my money without notice. In any other industry, you Cancelled Flight a service, a refund is issued. Cont",0,"[37.99311597, -84.52114659]",19/2/2015 16:16,lexington KY,
+567732811772080129,leighericam,0.701,,0,Singapore Airlines,well lucky I only fly JB..I guess I would be even more squished on any other airline,0,,17/2/2015 9:10,NYC | NOLA  ,
+567812709342822400,life_as_lane,1,Customer Service Issue,0.6651,Lufthansa,"I was helped by a nice lady at PHX checkin. I spent hours on hold in hours, so might want to look at efficiency there.",0,,17/2/2015 14:27,,Central Time (US & Canada)
+569995212296200192,amydresnick,1,Customer Service Issue,1,Qantas,"already spoke to that line, unwilling to help - really poor support #hitawall",0,,23/2/2015 15:00,,
+569691858365915136,friedrice4break,1,Late Flight,0.7031,Qantas,guys in dfw stuck at the gate for half an hour. Do we pull the slide or what?,0,,22/2/2015 18:54,,
+567812160253865984,MelodyKho,1,Customer Service Issue,0.6317,Emirates,No. The entire problem here is that I was never sent anything via email and only given a Flight Booking Problems number over the phone.,0,,17/2/2015 14:25,"NYC, Toronto ",Quito
+568959416524886016,hrp911,0.6632,Customer Service Issue,0.3368,Qatar Airways,Already tried. How about Conf # via DM,0,,20/2/2015 18:24,Knoxville,Quito
+568228505160433665,froyomama,1,Customer Service Issue,1,Emirates,can you DM me? Been on hold with customer service very long time ( min +) and getting the run-around. Thanks.,0,,18/2/2015 18:00,,Central Time (US & Canada)
+569674104913014784,AristidesPN,1,Late Flight,0.6401,Singapore Airlines,"Keep Waiting, time does not cost anything for hundreds people how payed thousand dollars with no feedback http://t.co/Jipggom",0,,22/2/2015 17:44,"ÜT: 18.463449,-70.003608",Quito
+569323082701275138,joyabsalon,1,Customer Service Issue,0.7148,EgyptAir,too bad you say it takes to days via YOUR confirmation email. When I inquired after weeks you claim to weeks!,0,,21/2/2015 18:29,Northern Virginia,Eastern Time (US & Canada)
+570065109961322496,DarthVada_R2D2,1,Customer Service Issue,0.6662,Singapore Airlines,but the hour policy- when I called and they said I didn't report it soon enough. What would have changed if I had noticed sooner?,0,,23/2/2015 19:38,,Atlantic Time (Canada)
+567773326631821312,aidan_larson,1,,,Singapore Airlines,Thank you for the service credit. And to for positive thoughts.,1,,17/2/2015 11:51,"austin, texas",Paris
+569384007550394369,dennis__andrew,1,Cancelled Flight,1,Lufthansa,"I use to #LUV swa but after an hour and counting on hold, for a flight they Cancelled Flighted on me? #noluv",0,,21/2/2015 22:31,San Diego CA,Arizona
+569731970562961408,intel_jim,1,Customer Service Issue,0.6737,Lufthansa,You completely let me down tonight. Your gate agents' ambivalence is just too much. How sad for you (&amp; me.),0,,22/2/2015 21:34,"Phoenix, Arizona USA",Arizona
+569338341306572800,CoachMcRoberts,0.6745,,,Emirates,yes. On a nonstop to Memphis tomorrow morning. With the snow coming in I got my fingers crossed it will go.,0,,21/2/2015 19:30,"Oxford, MS",
+567812349895245824,NaftuliPollak,1,Flight Booking Problems,0.3446,Emirates,What kind of hypocrisy is that? Only Cancelled Flightling tickets with bad exchange rate if in your advantage #united,5,,17/2/2015 14:26,,Amsterdam
+568433759919452160,BurgerFreshh,0.6669,,0,Emirates,Keep the flights cheap and early/on time and you are good. Flew and Cancelled Flightled my flight times last month. United&gt;,0,,19/2/2015 7:35,"Houston, Tx & Old Bridge, NJ ",Eastern Time (US & Canada)
+568772824523001856,riricesq,1,Late Flight,1,Qatar Airways,is moving the plane to the end of the runway for us to sit on it for an hour and a half. They didn't even let us off.,0,,20/2/2015 6:03,On a beach,Quito
+569134718396051456,allie_kaji621,1,,,Lufthansa,great flight! And great view! http://t.co/auFMxdaj,0,,21/2/2015 6:01,Den10,Central Time (US & Canada)
+569906446881697793,MeeestarCoke,0.6606,Customer Service Issue,0.6606,Qantas,"""ma'am if you have a complaint you should visit our customer service desk"" {sees line ~ people deep}",0,,23/2/2015 9:07,BK,
+569562990250323968,arthurhasher,1,Customer Service Issue,0.3694,Singapore Airlines,My wife was with our dog. They wouldn't even let her out off the plane. My daughter was at Newburgh lives close by. So wrong,0,,22/2/2015 10:22,Long Island - Arizona ,
+568223025805422592,Galanthusn,1,Can't Tell,1,Lufthansa,"Yes - with extra $. I wonder what are you going yo loose, if there is room.",0,,18/2/2015 17:38,,
+569539111222190081,emptynester25,0.6714,,0,Singapore Airlines,when will the system be up and running?,0,,22/2/2015 8:48,,
+569986246648442881,T_Money84,1,Customer Service Issue,1,Qantas,why are customer svc reps unable to handle calls. Is there a hrs Cancelled Flightlation policy? Booked yesterday need to Cancelled Flight,0,,23/2/2015 14:24,DMV,Eastern Time (US & Canada)
+568959737544339456,MyFitness52,1,Can't Tell,0.695,Emirates,truly the WORST day of flying I have ever experienced...,1,,20/2/2015 18:25,Washington,Arizona
+568386094875738113,CakeNDeath,1,Late Flight,1,Qatar Airways,plz plz plz hold to EYW. The PHL &gt;CLT is sooo Late Flight. Gonna miss the connection for 's th #GTH,0,,19/2/2015 4:26,Old City Philly,
+567774038680801281,travelingranger,0.6827,Can't Tell,0.6827,Singapore Airlines,remember - I'm very doubtful and not very hopeful :(,0,,17/2/2015 11:54,,
+568850852909342720,DuncanKneeDeep,1,Flight Booking Problems,0.6806,Emirates,splitting up my flights quadruples the price,1,,20/2/2015 11:13,The Gaming Cartel,Amsterdam
+567771077359570944,LyndsaySignor,0.6667,,0,Singapore Airlines,"i'm getting info from the website, but needing to check it and the alerts would be much more beneficial.",0,,17/2/2015 11:42,New York City,Quito
+569561389121060864,sfoosness,1,Customer Service Issue,1,Qatar Airways,"Yes, there is horrible snow. But seriously, can you not hire more people to answer the phones? Competitor have call back numbers.",0,,22/2/2015 10:16,"Durham, NC",Atlantic Time (Canada)
