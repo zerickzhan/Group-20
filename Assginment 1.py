@@ -12,14 +12,13 @@ import sweetviz as sv
 # In[11]:
 
 
-train=pd.read_csv("https://raw.githubusercontent.com/zerickzhan/6850-group-20/main/review_train.csv")
+train=pd.read_csv('https://raw.githubusercontent.com/zerickzhan/Group-20/main/review_train.csv')
 
 
 # In[12]:
 
 
-challenge= pd.read_csv("https://raw.githubusercontent.com/zerickzhan/6850-group-20/main/review_train.csv/review_challenge.csv")
-
+challenge=pd.read_csv('https://raw.githubusercontent.com/zerickzhan/Group-20/main/review_challenge.csv')
 
 # ## EDA
 
